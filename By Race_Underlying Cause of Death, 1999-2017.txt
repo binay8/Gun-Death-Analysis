@@ -1,0 +1,2084 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"1999"	"1999"	"Black or African American"	"2054-5"	237	1162673	20.4
+	"Alabama"	"01"	"1999"	"1999"	"White"	"2106-3"	546	3211308	17.0
+	"Alabama"	"01"	"2000"	"2000"	"Black or African American"	"2054-5"	271	1167623	23.2
+	"Alabama"	"01"	"2000"	"2000"	"White"	"2106-3"	491	3218218	15.3
+	"Alabama"	"01"	"2001"	"2001"	"Black or African American"	"2054-5"	238	1177479	20.2
+	"Alabama"	"01"	"2001"	"2001"	"White"	"2106-3"	498	3225628	15.4
+	"Alabama"	"01"	"2002"	"2002"	"Black or African American"	"2054-5"	259	1182591	21.9
+	"Alabama"	"01"	"2002"	"2002"	"White"	"2106-3"	461	3229712	14.3
+	"Alabama"	"01"	"2003"	"2003"	"Black or African American"	"2054-5"	263	1190183	22.1
+	"Alabama"	"01"	"2003"	"2003"	"White"	"2106-3"	500	3241836	15.4
+	"Alabama"	"01"	"2004"	"2004"	"Black or African American"	"2054-5"	226	1199192	18.8
+	"Alabama"	"01"	"2004"	"2004"	"White"	"2106-3"	445	3255811	13.7
+	"Alabama"	"01"	"2005"	"2005"	"Black or African American"	"2054-5"	280	1210903	23.1
+	"Alabama"	"01"	"2005"	"2005"	"White"	"2106-3"	450	3279048	13.7
+	"Alabama"	"01"	"2006"	"2006"	"Black or African American"	"2054-5"	296	1230534	24.1
+	"Alabama"	"01"	"2006"	"2006"	"White"	"2106-3"	480	3314160	14.5
+	"Alabama"	"01"	"2007"	"2007"	"Black or African American"	"2054-5"	295	1243867	23.7
+	"Alabama"	"01"	"2007"	"2007"	"White"	"2106-3"	511	3340633	15.3
+	"Alabama"	"01"	"2008"	"2008"	"Black or African American"	"2054-5"	303	1259177	24.1
+	"Alabama"	"01"	"2008"	"2008"	"White"	"2106-3"	514	3366536	15.3
+	"Alabama"	"01"	"2009"	"2009"	"Black or African American"	"2054-5"	252	1271247	19.8
+	"Alabama"	"01"	"2009"	"2009"	"White"	"2106-3"	573	3389202	16.9
+	"Alabama"	"01"	"2010"	"2010"	"Black or African American"	"2054-5"	235	1279072	18.4
+	"Alabama"	"01"	"2010"	"2010"	"White"	"2106-3"	538	3399975	15.8
+	"Alabama"	"01"	"2011"	"2011"	"Black or African American"	"2054-5"	257	1293037	19.9
+	"Alabama"	"01"	"2011"	"2011"	"White"	"2106-3"	523	3406474	15.4
+	"Alabama"	"01"	"2012"	"2012"	"Black or African American"	"2054-5"	277	1302210	21.3
+	"Alabama"	"01"	"2012"	"2012"	"White"	"2106-3"	547	3413571	16.0
+	"Alabama"	"01"	"2013"	"2013"	"Black or African American"	"2054-5"	275	1307660	21.0
+	"Alabama"	"01"	"2013"	"2013"	"White"	"2106-3"	575	3417357	16.8
+	"Alabama"	"01"	"2014"	"2014"	"Black or African American"	"2054-5"	269	1317566	20.4
+	"Alabama"	"01"	"2014"	"2014"	"White"	"2106-3"	540	3419940	15.8
+	"Alabama"	"01"	"2015"	"2015"	"Black or African American"	"2054-5"	322	1325905	24.3
+	"Alabama"	"01"	"2015"	"2015"	"White"	"2106-3"	628	3418094	18.4
+	"Alabama"	"01"	"2016"	"2016"	"Black or African American"	"2054-5"	372	1329648	28.0
+	"Alabama"	"01"	"2016"	"2016"	"White"	"2106-3"	656	3416909	19.2
+	"Alabama"	"01"	"2017"	"2017"	"Black or African American"	"2054-5"	430	1335240	32.2
+	"Alabama"	"01"	"2017"	"2017"	"White"	"2106-3"	677	3419705	19.8
+	"Alaska"	"02"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	30	105727	28.4
+	"Alaska"	"02"	"1999"	"1999"	"White"	"2106-3"	52	462052	11.3
+	"Alaska"	"02"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	40	107715	37.1
+	"Alaska"	"02"	"2000"	"2000"	"White"	"2106-3"	71	460782	15.4
+	"Alaska"	"02"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	34	108715	31.3
+	"Alaska"	"02"	"2001"	"2001"	"White"	"2106-3"	59	463818	12.7
+	"Alaska"	"02"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	40	109756	36.4
+	"Alaska"	"02"	"2002"	"2002"	"White"	"2106-3"	81	468708	17.3
+	"Alaska"	"02"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	37	110936	33.4
+	"Alaska"	"02"	"2003"	"2003"	"White"	"2106-3"	73	471541	15.5
+	"Alaska"	"02"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	33	112721	29.3
+	"Alaska"	"02"	"2004"	"2004"	"White"	"2106-3"	73	478466	15.3
+	"Alaska"	"02"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	43	114256	37.6
+	"Alaska"	"02"	"2005"	"2005"	"White"	"2106-3"	63	482692	13.1
+	"Alaska"	"02"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	30	115621	25.9
+	"Alaska"	"02"	"2006"	"2006"	"White"	"2106-3"	71	487954	14.6
+	"Alaska"	"02"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	30	116298	25.8
+	"Alaska"	"02"	"2007"	"2007"	"White"	"2106-3"	83	490413	16.9
+	"Alaska"	"02"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	36	117376	30.7
+	"Alaska"	"02"	"2008"	"2008"	"White"	"2106-3"	95	493965	19.2
+	"Alaska"	"02"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	33	119327	27.7
+	"Alaska"	"02"	"2009"	"2009"	"White"	"2106-3"	61	499867	12.2
+	"Alaska"	"02"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	42	120452	34.9
+	"Alaska"	"02"	"2010"	"2010"	"White"	"2106-3"	90	507431	17.7
+	"Alaska"	"02"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	39	121915	32.0
+	"Alaska"	"02"	"2011"	"2011"	"White"	"2106-3"	79	514612	15.4
+	"Alaska"	"02"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	30	122904	24.4
+	"Alaska"	"02"	"2012"	"2012"	"White"	"2106-3"	85	518096	16.4
+	"Alaska"	"02"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	42	122612	34.3
+	"Alaska"	"02"	"2013"	"2013"	"White"	"2106-3"	95	519545	18.3
+	"Alaska"	"02"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	33	123350	26.8
+	"Alaska"	"02"	"2014"	"2014"	"White"	"2106-3"	100	517504	19.3
+	"Alaska"	"02"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	45	123952	36.3
+	"Alaska"	"02"	"2015"	"2015"	"Black or African American"	"2054-5"	14	37042	Unreliable
+	"Alaska"	"02"	"2015"	"2015"	"White"	"2106-3"	112	516494	21.7
+	"Alaska"	"02"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	47	127052	37.0
+	"Alaska"	"02"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	10	62157	Unreliable
+	"Alaska"	"02"	"2016"	"2016"	"Black or African American"	"2054-5"	11	36438	Unreliable
+	"Alaska"	"02"	"2016"	"2016"	"White"	"2106-3"	103	516247	20.0
+	"Alaska"	"02"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	50	127624	39.2
+	"Alaska"	"02"	"2017"	"2017"	"Black or African American"	"2054-5"	18	36257	Unreliable
+	"Alaska"	"02"	"2017"	"2017"	"White"	"2106-3"	101	512623	19.7
+	"Arizona"	"04"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	31	275286	11.3
+	"Arizona"	"04"	"1999"	"1999"	"Black or African American"	"2054-5"	49	177619	27.6
+	"Arizona"	"04"	"1999"	"1999"	"White"	"2106-3"	718	4460582	16.1
+	"Arizona"	"04"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	32	278265	11.5
+	"Arizona"	"04"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	11	114836	Unreliable
+	"Arizona"	"04"	"2000"	"2000"	"Black or African American"	"2054-5"	44	183298	24.0
+	"Arizona"	"04"	"2000"	"2000"	"White"	"2106-3"	701	4554233	15.4
+	"Arizona"	"04"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	33	284705	11.6
+	"Arizona"	"04"	"2001"	"2001"	"Black or African American"	"2054-5"	47	194201	24.2
+	"Arizona"	"04"	"2001"	"2001"	"White"	"2106-3"	742	4669299	15.9
+	"Arizona"	"04"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	41	291458	14.1
+	"Arizona"	"04"	"2002"	"2002"	"Black or African American"	"2054-5"	41	204176	20.1
+	"Arizona"	"04"	"2002"	"2002"	"White"	"2106-3"	866	4766279	18.2
+	"Arizona"	"04"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	43	298633	14.4
+	"Arizona"	"04"	"2003"	"2003"	"Black or African American"	"2054-5"	48	213993	22.4
+	"Arizona"	"04"	"2003"	"2003"	"White"	"2106-3"	743	4854518	15.3
+	"Arizona"	"04"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	39	306256	12.7
+	"Arizona"	"04"	"2004"	"2004"	"Black or African American"	"2054-5"	46	226956	20.3
+	"Arizona"	"04"	"2004"	"2004"	"White"	"2106-3"	793	4965804	16.0
+	"Arizona"	"04"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	49	316197	15.5
+	"Arizona"	"04"	"2005"	"2005"	"Black or African American"	"2054-5"	47	243074	19.3
+	"Arizona"	"04"	"2005"	"2005"	"White"	"2106-3"	823	5111992	16.1
+	"Arizona"	"04"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	32	327058	9.8
+	"Arizona"	"04"	"2006"	"2006"	"Black or African American"	"2054-5"	58	262150	22.1
+	"Arizona"	"04"	"2006"	"2006"	"White"	"2106-3"	878	5255478	16.7
+	"Arizona"	"04"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	29	336800	8.6
+	"Arizona"	"04"	"2007"	"2007"	"Black or African American"	"2054-5"	67	278537	24.1
+	"Arizona"	"04"	"2007"	"2007"	"White"	"2106-3"	835	5354405	15.6
+	"Arizona"	"04"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	30	346539	8.7
+	"Arizona"	"04"	"2008"	"2008"	"Black or African American"	"2054-5"	60	294617	20.4
+	"Arizona"	"04"	"2008"	"2008"	"White"	"2106-3"	801	5429954	14.8
+	"Arizona"	"04"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	31	353144	8.8
+	"Arizona"	"04"	"2009"	"2009"	"Black or African American"	"2054-5"	43	308020	14.0
+	"Arizona"	"04"	"2009"	"2009"	"White"	"2106-3"	769	5464047	14.1
+	"Arizona"	"04"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	41	358486	11.4
+	"Arizona"	"04"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	15	223902	Unreliable
+	"Arizona"	"04"	"2010"	"2010"	"Black or African American"	"2054-5"	44	316039	13.9
+	"Arizona"	"04"	"2010"	"2010"	"White"	"2106-3"	819	5493590	14.9
+	"Arizona"	"04"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	46	363483	12.7
+	"Arizona"	"04"	"2011"	"2011"	"Black or African American"	"2054-5"	51	327548	15.6
+	"Arizona"	"04"	"2011"	"2011"	"White"	"2106-3"	850	5559757	15.3
+	"Arizona"	"04"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	46	369956	12.4
+	"Arizona"	"04"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	12	242799	Unreliable
+	"Arizona"	"04"	"2012"	"2012"	"Black or African American"	"2054-5"	44	336915	13.1
+	"Arizona"	"04"	"2012"	"2012"	"White"	"2106-3"	831	5603585	14.8
+	"Arizona"	"04"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	44	376115	11.7
+	"Arizona"	"04"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	15	252207	Unreliable
+	"Arizona"	"04"	"2013"	"2013"	"Black or African American"	"2054-5"	54	347699	15.5
+	"Arizona"	"04"	"2013"	"2013"	"White"	"2106-3"	815	5650603	14.4
+	"Arizona"	"04"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	36	382889	9.4
+	"Arizona"	"04"	"2014"	"2014"	"Black or African American"	"2054-5"	61	360893	16.9
+	"Arizona"	"04"	"2014"	"2014"	"White"	"2106-3"	811	5725331	14.2
+	"Arizona"	"04"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	39	388640	10.0
+	"Arizona"	"04"	"2015"	"2015"	"Black or African American"	"2054-5"	57	374864	15.2
+	"Arizona"	"04"	"2015"	"2015"	"White"	"2106-3"	851	5790662	14.7
+	"Arizona"	"04"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	33	397840	8.3
+	"Arizona"	"04"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	19	280091	Unreliable
+	"Arizona"	"04"	"2016"	"2016"	"Black or African American"	"2054-5"	84	385444	21.8
+	"Arizona"	"04"	"2016"	"2016"	"White"	"2106-3"	945	5867696	16.1
+	"Arizona"	"04"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	54	400322	13.5
+	"Arizona"	"04"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	13	292842	Unreliable
+	"Arizona"	"04"	"2017"	"2017"	"Black or African American"	"2054-5"	82	397421	20.6
+	"Arizona"	"04"	"2017"	"2017"	"White"	"2106-3"	975	5925685	16.5
+	"Arkansas"	"05"	"1999"	"1999"	"Black or African American"	"2054-5"	81	424438	19.1
+	"Arkansas"	"05"	"1999"	"1999"	"White"	"2106-3"	301	2187944	13.8
+	"Arkansas"	"05"	"2000"	"2000"	"Black or African American"	"2054-5"	94	425864	22.1
+	"Arkansas"	"05"	"2000"	"2000"	"White"	"2106-3"	316	2203157	14.3
+	"Arkansas"	"05"	"2001"	"2001"	"Black or African American"	"2054-5"	78	429929	18.1
+	"Arkansas"	"05"	"2001"	"2001"	"White"	"2106-3"	326	2214656	14.7
+	"Arkansas"	"05"	"2002"	"2002"	"Black or African American"	"2054-5"	90	432330	20.8
+	"Arkansas"	"05"	"2002"	"2002"	"White"	"2106-3"	344	2224117	15.5
+	"Arkansas"	"05"	"2003"	"2003"	"Black or African American"	"2054-5"	99	435025	22.8
+	"Arkansas"	"05"	"2003"	"2003"	"White"	"2106-3"	302	2237427	13.5
+	"Arkansas"	"05"	"2004"	"2004"	"Black or African American"	"2054-5"	90	438712	20.5
+	"Arkansas"	"05"	"2004"	"2004"	"White"	"2106-3"	309	2255345	13.7
+	"Arkansas"	"05"	"2005"	"2005"	"Black or African American"	"2054-5"	120	442674	27.1
+	"Arkansas"	"05"	"2005"	"2005"	"White"	"2106-3"	314	2278997	13.8
+	"Arkansas"	"05"	"2006"	"2006"	"Black or African American"	"2054-5"	110	450382	24.4
+	"Arkansas"	"05"	"2006"	"2006"	"White"	"2106-3"	313	2308449	13.6
+	"Arkansas"	"05"	"2007"	"2007"	"Black or African American"	"2054-5"	112	453433	24.7
+	"Arkansas"	"05"	"2007"	"2007"	"White"	"2106-3"	307	2328952	13.2
+	"Arkansas"	"05"	"2008"	"2008"	"Black or African American"	"2054-5"	91	458375	19.9
+	"Arkansas"	"05"	"2008"	"2008"	"White"	"2106-3"	350	2346846	14.9
+	"Arkansas"	"05"	"2009"	"2009"	"Black or African American"	"2054-5"	96	462207	20.8
+	"Arkansas"	"05"	"2009"	"2009"	"White"	"2106-3"	362	2361582	15.3
+	"Arkansas"	"05"	"2010"	"2010"	"Black or African American"	"2054-5"	84	466200	18.0
+	"Arkansas"	"05"	"2010"	"2010"	"White"	"2106-3"	327	2373667	13.8
+	"Arkansas"	"05"	"2011"	"2011"	"Black or African American"	"2054-5"	113	471035	24.0
+	"Arkansas"	"05"	"2011"	"2011"	"White"	"2106-3"	344	2386839	14.4
+	"Arkansas"	"05"	"2012"	"2012"	"Black or African American"	"2054-5"	113	473402	23.9
+	"Arkansas"	"05"	"2012"	"2012"	"White"	"2106-3"	368	2393011	15.4
+	"Arkansas"	"05"	"2013"	"2013"	"Black or African American"	"2054-5"	105	475853	22.1
+	"Arkansas"	"05"	"2013"	"2013"	"White"	"2106-3"	390	2397814	16.3
+	"Arkansas"	"05"	"2014"	"2014"	"Black or African American"	"2054-5"	104	478462	21.7
+	"Arkansas"	"05"	"2014"	"2014"	"White"	"2106-3"	391	2399804	16.3
+	"Arkansas"	"05"	"2015"	"2015"	"Black or African American"	"2054-5"	93	481843	19.3
+	"Arkansas"	"05"	"2015"	"2015"	"White"	"2106-3"	421	2404531	17.5
+	"Arkansas"	"05"	"2016"	"2016"	"Black or African American"	"2054-5"	124	484598	25.6
+	"Arkansas"	"05"	"2016"	"2016"	"White"	"2106-3"	406	2411255	16.8
+	"Arkansas"	"05"	"2017"	"2017"	"Black or African American"	"2054-5"	155	487926	31.8
+	"Arkansas"	"05"	"2017"	"2017"	"White"	"2106-3"	444	2420319	18.3
+	"California"	"06"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	15	453029	Unreliable
+	"California"	"06"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	177	4051272	4.4
+	"California"	"06"	"1999"	"1999"	"Black or African American"	"2054-5"	482	2502469	19.3
+	"California"	"06"	"1999"	"1999"	"White"	"2106-3"	2316	26492434	8.7
+	"California"	"06"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	13	472692	Unreliable
+	"California"	"06"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	148	4133030	3.6
+	"California"	"06"	"2000"	"2000"	"Black or African American"	"2054-5"	578	2516935	23.0
+	"California"	"06"	"2000"	"2000"	"White"	"2106-3"	2307	26748991	8.6
+	"California"	"06"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	17	495065	Unreliable
+	"California"	"06"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	141	4338380	3.3
+	"California"	"06"	"2001"	"2001"	"Black or African American"	"2054-5"	613	2547829	24.1
+	"California"	"06"	"2001"	"2001"	"White"	"2106-3"	2371	27098184	8.7
+	"California"	"06"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	29	513001	5.7
+	"California"	"06"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	153	4482498	3.4
+	"California"	"06"	"2002"	"2002"	"Black or African American"	"2054-5"	718	2567326	28.0
+	"California"	"06"	"2002"	"2002"	"White"	"2106-3"	2460	27309018	9.0
+	"California"	"06"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	18	534792	Unreliable
+	"California"	"06"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	173	4621258	3.7
+	"California"	"06"	"2003"	"2003"	"Black or African American"	"2054-5"	679	2585567	26.3
+	"California"	"06"	"2003"	"2003"	"White"	"2106-3"	2518	27511542	9.2
+	"California"	"06"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	20	557610	3.6
+	"California"	"06"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	164	4750147	3.5
+	"California"	"06"	"2004"	"2004"	"Black or African American"	"2054-5"	697	2603152	26.8
+	"California"	"06"	"2004"	"2004"	"White"	"2106-3"	2359	27663667	8.5
+	"California"	"06"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	11	581877	Unreliable
+	"California"	"06"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	156	4884264	3.2
+	"California"	"06"	"2005"	"2005"	"Black or African American"	"2054-5"	731	2615407	27.9
+	"California"	"06"	"2005"	"2005"	"White"	"2106-3"	2470	27746395	8.9
+	"California"	"06"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	23	607308	3.8
+	"California"	"06"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	184	5013374	3.7
+	"California"	"06"	"2006"	"2006"	"Black or African American"	"2054-5"	714	2626937	27.2
+	"California"	"06"	"2006"	"2006"	"White"	"2106-3"	2355	27773583	8.5
+	"California"	"06"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	16	636353	Unreliable
+	"California"	"06"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	160	5142253	3.1
+	"California"	"06"	"2007"	"2007"	"Black or African American"	"2054-5"	635	2639369	24.1
+	"California"	"06"	"2007"	"2007"	"White"	"2106-3"	2377	27832336	8.5
+	"California"	"06"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	21	669667	3.1
+	"California"	"06"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	167	5281970	3.2
+	"California"	"06"	"2008"	"2008"	"Black or African American"	"2054-5"	562	2662354	21.1
+	"California"	"06"	"2008"	"2008"	"White"	"2106-3"	2351	27990346	8.4
+	"California"	"06"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	22	709279	3.1
+	"California"	"06"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	155	5412716	2.9
+	"California"	"06"	"2009"	"2009"	"Black or African American"	"2054-5"	536	2691724	19.9
+	"California"	"06"	"2009"	"2009"	"White"	"2106-3"	2314	28147510	8.2
+	"California"	"06"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	24	739342	3.2
+	"California"	"06"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	128	5515120	2.3
+	"California"	"06"	"2010"	"2010"	"Black or African American"	"2054-5"	524	2718779	19.3
+	"California"	"06"	"2010"	"2010"	"White"	"2106-3"	2195	28280715	7.8
+	"California"	"06"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	24	756441	3.2
+	"California"	"06"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	145	5634880	2.6
+	"California"	"06"	"2011"	"2011"	"Black or African American"	"2054-5"	497	2749509	18.1
+	"California"	"06"	"2011"	"2011"	"White"	"2106-3"	2255	28551082	7.9
+	"California"	"06"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	27	760492	3.6
+	"California"	"06"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	151	5796976	2.6
+	"California"	"06"	"2012"	"2012"	"Black or African American"	"2054-5"	532	2767389	19.2
+	"California"	"06"	"2012"	"2012"	"White"	"2106-3"	2246	28716573	7.8
+	"California"	"06"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	25	763452	3.3
+	"California"	"06"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	125	5917918	2.1
+	"California"	"06"	"2013"	"2013"	"Black or African American"	"2054-5"	518	2778851	18.6
+	"California"	"06"	"2013"	"2013"	"White"	"2106-3"	2261	28872300	7.8
+	"California"	"06"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	31	768510	4.0
+	"California"	"06"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	127	6113222	2.1
+	"California"	"06"	"2014"	"2014"	"Black or African American"	"2054-5"	504	2808562	17.9
+	"California"	"06"	"2014"	"2014"	"White"	"2106-3"	2191	29112206	7.5
+	"California"	"06"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	23	772709	3.0
+	"California"	"06"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	159	6276070	2.5
+	"California"	"06"	"2015"	"2015"	"Black or African American"	"2054-5"	522	2827821	18.5
+	"California"	"06"	"2015"	"2015"	"White"	"2106-3"	2288	29268218	7.8
+	"California"	"06"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	44	773355	5.7
+	"California"	"06"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	161	6362798	2.5
+	"California"	"06"	"2016"	"2016"	"Black or African American"	"2054-5"	575	2829264	20.3
+	"California"	"06"	"2016"	"2016"	"White"	"2106-3"	2330	29284600	8.0
+	"California"	"06"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	39	776662	5.0
+	"California"	"06"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	179	6548662	2.7
+	"California"	"06"	"2017"	"2017"	"Black or African American"	"2054-5"	483	2841787	17.0
+	"California"	"06"	"2017"	"2017"	"White"	"2106-3"	2397	29369542	8.2
+	"Colorado"	"08"	"1999"	"1999"	"Black or African American"	"2054-5"	32	183070	17.5
+	"Colorado"	"08"	"1999"	"1999"	"White"	"2106-3"	401	3882901	10.3
+	"Colorado"	"08"	"2000"	"2000"	"Black or African American"	"2054-5"	28	188402	14.9
+	"Colorado"	"08"	"2000"	"2000"	"White"	"2106-3"	401	3941906	10.2
+	"Colorado"	"08"	"2001"	"2001"	"Black or African American"	"2054-5"	27	196376	13.7
+	"Colorado"	"08"	"2001"	"2001"	"White"	"2106-3"	471	4046133	11.6
+	"Colorado"	"08"	"2002"	"2002"	"Black or African American"	"2054-5"	37	201149	18.4
+	"Colorado"	"08"	"2002"	"2002"	"White"	"2106-3"	460	4097747	11.2
+	"Colorado"	"08"	"2003"	"2003"	"Black or African American"	"2054-5"	32	203049	15.8
+	"Colorado"	"08"	"2003"	"2003"	"White"	"2106-3"	449	4127630	10.9
+	"Colorado"	"08"	"2004"	"2004"	"Black or African American"	"2054-5"	38	208322	18.2
+	"Colorado"	"08"	"2004"	"2004"	"White"	"2106-3"	492	4160952	11.8
+	"Colorado"	"08"	"2005"	"2005"	"Black or African American"	"2054-5"	40	211476	18.9
+	"Colorado"	"08"	"2005"	"2005"	"White"	"2106-3"	475	4206548	11.3
+	"Colorado"	"08"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	11	147694	Unreliable
+	"Colorado"	"08"	"2006"	"2006"	"Black or African American"	"2054-5"	24	218810	11.0
+	"Colorado"	"08"	"2006"	"2006"	"White"	"2106-3"	450	4278464	10.5
+	"Colorado"	"08"	"2007"	"2007"	"Black or African American"	"2054-5"	28	224746	12.5
+	"Colorado"	"08"	"2007"	"2007"	"White"	"2106-3"	459	4346486	10.6
+	"Colorado"	"08"	"2008"	"2008"	"Black or African American"	"2054-5"	31	231792	13.4
+	"Colorado"	"08"	"2008"	"2008"	"White"	"2106-3"	468	4414527	10.6
+	"Colorado"	"08"	"2009"	"2009"	"Black or African American"	"2054-5"	33	239309	13.8
+	"Colorado"	"08"	"2009"	"2009"	"White"	"2106-3"	533	4478565	11.9
+	"Colorado"	"08"	"2010"	"2010"	"Black or African American"	"2054-5"	35	245200	14.3
+	"Colorado"	"08"	"2010"	"2010"	"White"	"2106-3"	498	4520301	11.0
+	"Colorado"	"08"	"2011"	"2011"	"Black or African American"	"2054-5"	33	254320	13.0
+	"Colorado"	"08"	"2011"	"2011"	"White"	"2106-3"	517	4589200	11.3
+	"Colorado"	"08"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	15	97236	Unreliable
+	"Colorado"	"08"	"2012"	"2012"	"Black or African American"	"2054-5"	37	259561	14.3
+	"Colorado"	"08"	"2012"	"2012"	"White"	"2106-3"	608	4647217	13.1
+	"Colorado"	"08"	"2013"	"2013"	"Black or African American"	"2054-5"	30	266564	11.3
+	"Colorado"	"08"	"2013"	"2013"	"White"	"2106-3"	566	4712204	12.0
+	"Colorado"	"08"	"2014"	"2014"	"Black or African American"	"2054-5"	28	275766	10.2
+	"Colorado"	"08"	"2014"	"2014"	"White"	"2106-3"	613	4779487	12.8
+	"Colorado"	"08"	"2015"	"2015"	"Black or African American"	"2054-5"	50	284005	17.6
+	"Colorado"	"08"	"2015"	"2015"	"White"	"2106-3"	623	4860059	12.8
+	"Colorado"	"08"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	11	105212	Unreliable
+	"Colorado"	"08"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	12	213854	Unreliable
+	"Colorado"	"08"	"2016"	"2016"	"Black or African American"	"2054-5"	47	289206	16.3
+	"Colorado"	"08"	"2016"	"2016"	"White"	"2106-3"	723	4932273	14.7
+	"Colorado"	"08"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	12	106359	Unreliable
+	"Colorado"	"08"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	12	222838	Unreliable
+	"Colorado"	"08"	"2017"	"2017"	"Black or African American"	"2054-5"	50	295430	16.9
+	"Colorado"	"08"	"2017"	"2017"	"White"	"2106-3"	686	4982527	13.8
+	"Connecticut"	"09"	"1999"	"1999"	"Black or African American"	"2054-5"	43	341801	12.6
+	"Connecticut"	"09"	"1999"	"1999"	"White"	"2106-3"	153	2944775	5.2
+	"Connecticut"	"09"	"2000"	"2000"	"Black or African American"	"2054-5"	48	347678	13.8
+	"Connecticut"	"09"	"2000"	"2000"	"White"	"2106-3"	129	2953244	4.4
+	"Connecticut"	"09"	"2001"	"2001"	"Black or African American"	"2054-5"	48	355440	13.5
+	"Connecticut"	"09"	"2001"	"2001"	"White"	"2106-3"	142	2965228	4.8
+	"Connecticut"	"09"	"2002"	"2002"	"Black or African American"	"2054-5"	40	363022	11.0
+	"Connecticut"	"09"	"2002"	"2002"	"White"	"2106-3"	106	2975939	3.6
+	"Connecticut"	"09"	"2003"	"2003"	"Black or African American"	"2054-5"	33	370417	8.9
+	"Connecticut"	"09"	"2003"	"2003"	"White"	"2106-3"	119	2986138	4.0
+	"Connecticut"	"09"	"2004"	"2004"	"Black or African American"	"2054-5"	47	375875	12.5
+	"Connecticut"	"09"	"2004"	"2004"	"White"	"2106-3"	122	2986255	4.1
+	"Connecticut"	"09"	"2005"	"2005"	"Black or African American"	"2054-5"	48	381552	12.6
+	"Connecticut"	"09"	"2005"	"2005"	"White"	"2106-3"	138	2984742	4.6
+	"Connecticut"	"09"	"2006"	"2006"	"Black or African American"	"2054-5"	64	388120	16.5
+	"Connecticut"	"09"	"2006"	"2006"	"White"	"2106-3"	106	2982114	3.6
+	"Connecticut"	"09"	"2007"	"2007"	"Black or African American"	"2054-5"	39	394640	9.9
+	"Connecticut"	"09"	"2007"	"2007"	"White"	"2106-3"	109	2979313	3.7
+	"Connecticut"	"09"	"2008"	"2008"	"Black or African American"	"2054-5"	48	401643	12.0
+	"Connecticut"	"09"	"2008"	"2008"	"White"	"2106-3"	151	2984016	5.1
+	"Connecticut"	"09"	"2009"	"2009"	"Black or African American"	"2054-5"	52	409897	12.7
+	"Connecticut"	"09"	"2009"	"2009"	"White"	"2106-3"	120	2985844	4.0
+	"Connecticut"	"09"	"2010"	"2010"	"Black or African American"	"2054-5"	70	416130	16.8
+	"Connecticut"	"09"	"2010"	"2010"	"White"	"2106-3"	135	2987138	4.5
+	"Connecticut"	"09"	"2011"	"2011"	"Black or African American"	"2054-5"	71	420735	16.9
+	"Connecticut"	"09"	"2011"	"2011"	"White"	"2106-3"	137	2984193	4.6
+	"Connecticut"	"09"	"2012"	"2012"	"Black or African American"	"2054-5"	50	426892	11.7
+	"Connecticut"	"09"	"2012"	"2012"	"White"	"2106-3"	172	2980691	5.8
+	"Connecticut"	"09"	"2013"	"2013"	"Black or African American"	"2054-5"	41	434310	9.4
+	"Connecticut"	"09"	"2013"	"2013"	"White"	"2106-3"	117	2973463	3.9
+	"Connecticut"	"09"	"2014"	"2014"	"Black or African American"	"2054-5"	35	440994	7.9
+	"Connecticut"	"09"	"2014"	"2014"	"White"	"2106-3"	151	2960214	5.1
+	"Connecticut"	"09"	"2015"	"2015"	"Black or African American"	"2054-5"	45	445929	10.1
+	"Connecticut"	"09"	"2015"	"2015"	"White"	"2106-3"	139	2944009	4.7
+	"Connecticut"	"09"	"2016"	"2016"	"Black or African American"	"2054-5"	45	449615	10.0
+	"Connecticut"	"09"	"2016"	"2016"	"White"	"2106-3"	121	2924274	4.1
+	"Connecticut"	"09"	"2017"	"2017"	"Black or African American"	"2054-5"	55	456300	12.1
+	"Connecticut"	"09"	"2017"	"2017"	"White"	"2106-3"	127	2922942	4.3
+	"Delaware"	"10"	"1999"	"1999"	"Black or African American"	"2054-5"	10	153643	Unreliable
+	"Delaware"	"10"	"1999"	"1999"	"White"	"2106-3"	52	601213	8.6
+	"Delaware"	"10"	"2000"	"2000"	"White"	"2106-3"	43	605429	7.1
+	"Delaware"	"10"	"2001"	"2001"	"Black or African American"	"2054-5"	16	162206	Unreliable
+	"Delaware"	"10"	"2001"	"2001"	"White"	"2106-3"	59	610442	9.7
+	"Delaware"	"10"	"2002"	"2002"	"Black or African American"	"2054-5"	22	166583	13.2
+	"Delaware"	"10"	"2002"	"2002"	"White"	"2106-3"	49	615028	8.0
+	"Delaware"	"10"	"2003"	"2003"	"Black or African American"	"2054-5"	17	171022	Unreliable
+	"Delaware"	"10"	"2003"	"2003"	"White"	"2106-3"	47	620499	7.6
+	"Delaware"	"10"	"2004"	"2004"	"Black or African American"	"2054-5"	25	175605	14.2
+	"Delaware"	"10"	"2004"	"2004"	"White"	"2106-3"	48	626833	7.7
+	"Delaware"	"10"	"2005"	"2005"	"Black or African American"	"2054-5"	26	181480	14.3
+	"Delaware"	"10"	"2005"	"2005"	"White"	"2106-3"	48	633398	7.6
+	"Delaware"	"10"	"2006"	"2006"	"Black or African American"	"2054-5"	33	187148	17.6
+	"Delaware"	"10"	"2006"	"2006"	"White"	"2106-3"	43	640053	6.7
+	"Delaware"	"10"	"2007"	"2007"	"Black or African American"	"2054-5"	27	192615	14.0
+	"Delaware"	"10"	"2007"	"2007"	"White"	"2106-3"	50	645106	7.8
+	"Delaware"	"10"	"2008"	"2008"	"Black or African American"	"2054-5"	44	197813	22.2
+	"Delaware"	"10"	"2008"	"2008"	"White"	"2106-3"	49	650311	7.5
+	"Delaware"	"10"	"2009"	"2009"	"Black or African American"	"2054-5"	28	201775	13.9
+	"Delaware"	"10"	"2009"	"2009"	"White"	"2106-3"	46	652605	7.0
+	"Delaware"	"10"	"2010"	"2010"	"Black or African American"	"2054-5"	36	204730	17.6
+	"Delaware"	"10"	"2010"	"2010"	"White"	"2106-3"	52	654944	7.9
+	"Delaware"	"10"	"2011"	"2011"	"Black or African American"	"2054-5"	25	207425	12.1
+	"Delaware"	"10"	"2011"	"2011"	"White"	"2106-3"	51	660104	7.7
+	"Delaware"	"10"	"2012"	"2012"	"Black or African American"	"2054-5"	39	211248	18.5
+	"Delaware"	"10"	"2012"	"2012"	"White"	"2106-3"	51	664309	7.7
+	"Delaware"	"10"	"2013"	"2013"	"Black or African American"	"2054-5"	33	214516	15.4
+	"Delaware"	"10"	"2013"	"2013"	"White"	"2106-3"	66	668143	9.9
+	"Delaware"	"10"	"2014"	"2014"	"Black or African American"	"2054-5"	36	217941	16.5
+	"Delaware"	"10"	"2014"	"2014"	"White"	"2106-3"	61	672852	9.1
+	"Delaware"	"10"	"2015"	"2015"	"Black or African American"	"2054-5"	53	221986	23.9
+	"Delaware"	"10"	"2015"	"2015"	"White"	"2106-3"	56	677149	8.3
+	"Delaware"	"10"	"2016"	"2016"	"Black or African American"	"2054-5"	40	225293	17.8
+	"Delaware"	"10"	"2016"	"2016"	"White"	"2106-3"	70	679017	10.3
+	"Delaware"	"10"	"2017"	"2017"	"Black or African American"	"2054-5"	51	230038	22.2
+	"Delaware"	"10"	"2017"	"2017"	"White"	"2106-3"	55	682095	8.1
+	"District of Columbia"	"11"	"1999"	"1999"	"Black or African American"	"2054-5"	150	354021	42.4
+	"District of Columbia"	"11"	"2000"	"2000"	"Black or African American"	"2054-5"	138	353632	39.0
+	"District of Columbia"	"11"	"2001"	"2001"	"Black or African American"	"2054-5"	154	349536	44.1
+	"District of Columbia"	"11"	"2001"	"2001"	"White"	"2106-3"	11	204684	Unreliable
+	"District of Columbia"	"11"	"2002"	"2002"	"Black or African American"	"2054-5"	184	346080	53.2
+	"District of Columbia"	"11"	"2002"	"2002"	"White"	"2106-3"	10	206332	Unreliable
+	"District of Columbia"	"11"	"2003"	"2003"	"Black or African American"	"2054-5"	160	340751	47.0
+	"District of Columbia"	"11"	"2004"	"2004"	"Black or African American"	"2054-5"	140	335297	41.8
+	"District of Columbia"	"11"	"2005"	"2005"	"Black or African American"	"2054-5"	147	329329	44.6
+	"District of Columbia"	"11"	"2006"	"2006"	"Black or African American"	"2054-5"	126	325064	38.8
+	"District of Columbia"	"11"	"2007"	"2007"	"Black or African American"	"2054-5"	134	321494	41.7
+	"District of Columbia"	"11"	"2008"	"2008"	"Black or African American"	"2054-5"	121	318392	38.0
+	"District of Columbia"	"11"	"2008"	"2008"	"White"	"2106-3"	10	235420	Unreliable
+	"District of Columbia"	"11"	"2009"	"2009"	"Black or African American"	"2054-5"	104	317978	32.7
+	"District of Columbia"	"11"	"2010"	"2010"	"Black or African American"	"2054-5"	84	317619	26.4
+	"District of Columbia"	"11"	"2010"	"2010"	"White"	"2106-3"	12	255534	Unreliable
+	"District of Columbia"	"11"	"2011"	"2011"	"Black or African American"	"2054-5"	79	320832	24.6
+	"District of Columbia"	"11"	"2012"	"2012"	"Black or African American"	"2054-5"	61	324476	18.8
+	"District of Columbia"	"11"	"2013"	"2013"	"Black or African American"	"2054-5"	64	328102	19.5
+	"District of Columbia"	"11"	"2014"	"2014"	"Black or African American"	"2054-5"	73	331672	22.0
+	"District of Columbia"	"11"	"2015"	"2015"	"Black or African American"	"2054-5"	107	333883	32.0
+	"District of Columbia"	"11"	"2016"	"2016"	"Black or African American"	"2054-5"	99	334736	29.6
+	"District of Columbia"	"11"	"2017"	"2017"	"Black or African American"	"2054-5"	89	336542	26.4
+	"Florida"	"12"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	10	300702	Unreliable
+	"Florida"	"12"	"1999"	"1999"	"Black or African American"	"2054-5"	321	2419083	13.3
+	"Florida"	"12"	"1999"	"1999"	"White"	"2106-3"	1374	12978723	10.6
+	"Florida"	"12"	"2000"	"2000"	"Black or African American"	"2054-5"	324	2468478	13.1
+	"Florida"	"12"	"2000"	"2000"	"White"	"2106-3"	1345	13132090	10.2
+	"Florida"	"12"	"2001"	"2001"	"Black or African American"	"2054-5"	341	2553214	13.4
+	"Florida"	"12"	"2001"	"2001"	"White"	"2106-3"	1458	13392855	10.9
+	"Florida"	"12"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	20	363758	5.5
+	"Florida"	"12"	"2002"	"2002"	"Black or African American"	"2054-5"	403	2627531	15.3
+	"Florida"	"12"	"2002"	"2002"	"White"	"2106-3"	1451	13623576	10.7
+	"Florida"	"12"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	17	387049	Unreliable
+	"Florida"	"12"	"2003"	"2003"	"Black or African American"	"2054-5"	440	2700143	16.3
+	"Florida"	"12"	"2003"	"2003"	"White"	"2106-3"	1474	13838602	10.7
+	"Florida"	"12"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	12	414998	Unreliable
+	"Florida"	"12"	"2004"	"2004"	"Black or African American"	"2054-5"	432	2786446	15.5
+	"Florida"	"12"	"2004"	"2004"	"White"	"2106-3"	1435	14131892	10.2
+	"Florida"	"12"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	17	445860	Unreliable
+	"Florida"	"12"	"2005"	"2005"	"Black or African American"	"2054-5"	428	2881786	14.9
+	"Florida"	"12"	"2005"	"2005"	"White"	"2106-3"	1376	14428647	9.5
+	"Florida"	"12"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	13	473540	Unreliable
+	"Florida"	"12"	"2006"	"2006"	"Black or African American"	"2054-5"	482	2969250	16.2
+	"Florida"	"12"	"2006"	"2006"	"White"	"2106-3"	1567	14634243	10.7
+	"Florida"	"12"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	28	494671	5.7
+	"Florida"	"12"	"2007"	"2007"	"Black or African American"	"2054-5"	577	3029024	19.0
+	"Florida"	"12"	"2007"	"2007"	"White"	"2106-3"	1644	14750985	11.1
+	"Florida"	"12"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	12	512331	Unreliable
+	"Florida"	"12"	"2008"	"2008"	"Black or African American"	"2054-5"	570	3086395	18.5
+	"Florida"	"12"	"2008"	"2008"	"White"	"2106-3"	1731	14832937	11.7
+	"Florida"	"12"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	15	527477	Unreliable
+	"Florida"	"12"	"2009"	"2009"	"Black or African American"	"2054-5"	546	3133488	17.4
+	"Florida"	"12"	"2009"	"2009"	"White"	"2106-3"	1743	14894191	11.7
+	"Florida"	"12"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	21	540137	3.9
+	"Florida"	"12"	"2010"	"2010"	"Black or African American"	"2054-5"	473	3172720	14.9
+	"Florida"	"12"	"2010"	"2010"	"White"	"2106-3"	1754	14989125	11.7
+	"Florida"	"12"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	14	562698	Unreliable
+	"Florida"	"12"	"2011"	"2011"	"Black or African American"	"2054-5"	531	3242646	16.4
+	"Florida"	"12"	"2011"	"2011"	"White"	"2106-3"	1808	15148280	11.9
+	"Florida"	"12"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	26	583337	4.5
+	"Florida"	"12"	"2012"	"2012"	"Black or African American"	"2054-5"	600	3311596	18.1
+	"Florida"	"12"	"2012"	"2012"	"White"	"2106-3"	1820	15316649	11.9
+	"Florida"	"12"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	19	603348	Unreliable
+	"Florida"	"12"	"2013"	"2013"	"Black or African American"	"2054-5"	564	3371252	16.7
+	"Florida"	"12"	"2013"	"2013"	"White"	"2106-3"	1827	15470380	11.8
+	"Florida"	"12"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	17	631668	Unreliable
+	"Florida"	"12"	"2014"	"2014"	"Black or African American"	"2054-5"	573	3451906	16.6
+	"Florida"	"12"	"2014"	"2014"	"White"	"2106-3"	1794	15699343	11.4
+	"Florida"	"12"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	23	658187	3.5
+	"Florida"	"12"	"2015"	"2015"	"Black or African American"	"2054-5"	634	3528984	18.0
+	"Florida"	"12"	"2015"	"2015"	"White"	"2106-3"	1881	15971454	11.8
+	"Florida"	"12"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	25	671619	3.7
+	"Florida"	"12"	"2016"	"2016"	"Black or African American"	"2054-5"	676	3597739	18.8
+	"Florida"	"12"	"2016"	"2016"	"White"	"2106-3"	1981	16228615	12.2
+	"Florida"	"12"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	23	700659	3.3
+	"Florida"	"12"	"2017"	"2017"	"Black or African American"	"2054-5"	654	3678445	17.8
+	"Florida"	"12"	"2017"	"2017"	"White"	"2106-3"	2027	16488470	12.3
+	"Georgia"	"13"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	16	177250	Unreliable
+	"Georgia"	"13"	"1999"	"1999"	"Black or African American"	"2054-5"	398	2343624	17.0
+	"Georgia"	"13"	"1999"	"1999"	"White"	"2106-3"	680	5503608	12.4
+	"Georgia"	"13"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	15	192400	Unreliable
+	"Georgia"	"13"	"2000"	"2000"	"Black or African American"	"2054-5"	386	2395234	16.1
+	"Georgia"	"13"	"2000"	"2000"	"White"	"2106-3"	685	5572036	12.3
+	"Georgia"	"13"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	11	211322	Unreliable
+	"Georgia"	"13"	"2001"	"2001"	"Black or African American"	"2054-5"	352	2468186	14.3
+	"Georgia"	"13"	"2001"	"2001"	"White"	"2106-3"	749	5668444	13.2
+	"Georgia"	"13"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	11	226700	Unreliable
+	"Georgia"	"13"	"2002"	"2002"	"Black or African American"	"2054-5"	386	2522522	15.3
+	"Georgia"	"13"	"2002"	"2002"	"White"	"2106-3"	720	5727405	12.6
+	"Georgia"	"13"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	15	240749	Unreliable
+	"Georgia"	"13"	"2003"	"2003"	"Black or African American"	"2054-5"	381	2571491	14.8
+	"Georgia"	"13"	"2003"	"2003"	"White"	"2106-3"	769	5776586	13.3
+	"Georgia"	"13"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	11	256011	Unreliable
+	"Georgia"	"13"	"2004"	"2004"	"Black or African American"	"2054-5"	344	2635336	13.1
+	"Georgia"	"13"	"2004"	"2004"	"White"	"2106-3"	694	5841377	11.9
+	"Georgia"	"13"	"2005"	"2005"	"Black or African American"	"2054-5"	377	2702396	14.0
+	"Georgia"	"13"	"2005"	"2005"	"White"	"2106-3"	664	5911406	11.2
+	"Georgia"	"13"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	26	293130	8.9
+	"Georgia"	"13"	"2006"	"2006"	"Black or African American"	"2054-5"	420	2805927	15.0
+	"Georgia"	"13"	"2006"	"2006"	"White"	"2106-3"	676	6014480	11.2
+	"Georgia"	"13"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	10	310982	Unreliable
+	"Georgia"	"13"	"2007"	"2007"	"Black or African American"	"2054-5"	469	2891925	16.2
+	"Georgia"	"13"	"2007"	"2007"	"White"	"2106-3"	754	6101972	12.4
+	"Georgia"	"13"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	18	327759	Unreliable
+	"Georgia"	"13"	"2008"	"2008"	"Black or African American"	"2054-5"	453	2962628	15.3
+	"Georgia"	"13"	"2008"	"2008"	"White"	"2106-3"	696	6165916	11.3
+	"Georgia"	"13"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	17	342019	Unreliable
+	"Georgia"	"13"	"2009"	"2009"	"Black or African American"	"2054-5"	403	3023009	13.3
+	"Georgia"	"13"	"2009"	"2009"	"White"	"2106-3"	816	6204180	13.2
+	"Georgia"	"13"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	13	352249	Unreliable
+	"Georgia"	"13"	"2010"	"2010"	"Black or African American"	"2054-5"	426	3057817	13.9
+	"Georgia"	"13"	"2010"	"2010"	"White"	"2106-3"	776	6223554	12.5
+	"Georgia"	"13"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	16	365731	Unreliable
+	"Georgia"	"13"	"2011"	"2011"	"Black or African American"	"2054-5"	401	3113361	12.9
+	"Georgia"	"13"	"2011"	"2011"	"White"	"2106-3"	801	6280506	12.8
+	"Georgia"	"13"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	27	383205	7.0
+	"Georgia"	"13"	"2012"	"2012"	"Black or African American"	"2054-5"	452	3163293	14.3
+	"Georgia"	"13"	"2012"	"2012"	"White"	"2106-3"	791	6317264	12.5
+	"Georgia"	"13"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	19	399271	Unreliable
+	"Georgia"	"13"	"2013"	"2013"	"Black or African American"	"2054-5"	421	3206522	13.1
+	"Georgia"	"13"	"2013"	"2013"	"White"	"2106-3"	807	6329913	12.7
+	"Georgia"	"13"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	18	421265	Unreliable
+	"Georgia"	"13"	"2014"	"2014"	"Black or African American"	"2054-5"	499	3260440	15.3
+	"Georgia"	"13"	"2014"	"2014"	"White"	"2106-3"	859	6358763	13.5
+	"Georgia"	"13"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	20	444592	4.5
+	"Georgia"	"13"	"2015"	"2015"	"Black or African American"	"2054-5"	566	3320419	17.0
+	"Georgia"	"13"	"2015"	"2015"	"White"	"2106-3"	846	6392399	13.2
+	"Georgia"	"13"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	22	456404	4.8
+	"Georgia"	"13"	"2016"	"2016"	"Black or African American"	"2054-5"	645	3384642	19.1
+	"Georgia"	"13"	"2016"	"2016"	"White"	"2106-3"	889	6410781	13.9
+	"Georgia"	"13"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	23	477375	4.8
+	"Georgia"	"13"	"2017"	"2017"	"Black or African American"	"2054-5"	667	3447386	19.3
+	"Georgia"	"13"	"2017"	"2017"	"White"	"2106-3"	913	6444657	14.2
+	"Hawaii"	"15"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	29	811734	3.6
+	"Hawaii"	"15"	"1999"	"1999"	"White"	"2106-3"	13	362728	Unreliable
+	"Hawaii"	"15"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	27	816218	3.3
+	"Hawaii"	"15"	"2000"	"2000"	"White"	"2106-3"	22	360274	6.1
+	"Hawaii"	"15"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	27	823147	3.3
+	"Hawaii"	"15"	"2001"	"2001"	"White"	"2106-3"	14	365535	Unreliable
+	"Hawaii"	"15"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	21	828889	2.5
+	"Hawaii"	"15"	"2002"	"2002"	"White"	"2106-3"	15	371782	Unreliable
+	"Hawaii"	"15"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	18	837056	Unreliable
+	"Hawaii"	"15"	"2003"	"2003"	"White"	"2106-3"	17	375506	Unreliable
+	"Hawaii"	"15"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	18	852273	Unreliable
+	"Hawaii"	"15"	"2004"	"2004"	"White"	"2106-3"	21	383013	5.5
+	"Hawaii"	"15"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	15	861818	Unreliable
+	"Hawaii"	"15"	"2005"	"2005"	"White"	"2106-3"	10	391585	Unreliable
+	"Hawaii"	"15"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	19	870882	Unreliable
+	"Hawaii"	"15"	"2006"	"2006"	"White"	"2106-3"	13	399166	Unreliable
+	"Hawaii"	"15"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	16	879253	Unreliable
+	"Hawaii"	"15"	"2007"	"2007"	"White"	"2106-3"	18	397872	Unreliable
+	"Hawaii"	"15"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	21	889527	2.4
+	"Hawaii"	"15"	"2008"	"2008"	"White"	"2106-3"	18	403775	Unreliable
+	"Hawaii"	"15"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	23	900614	2.6
+	"Hawaii"	"15"	"2009"	"2009"	"White"	"2106-3"	23	406833	5.7
+	"Hawaii"	"15"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	20	910638	2.2
+	"Hawaii"	"15"	"2010"	"2010"	"White"	"2106-3"	24	410433	5.8
+	"Hawaii"	"15"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	18	909176	Unreliable
+	"Hawaii"	"15"	"2011"	"2011"	"White"	"2106-3"	26	420022	6.2
+	"Hawaii"	"15"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	21	917473	2.3
+	"Hawaii"	"15"	"2012"	"2012"	"White"	"2106-3"	27	426884	6.3
+	"Hawaii"	"15"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	14	915836	Unreliable
+	"Hawaii"	"15"	"2013"	"2013"	"White"	"2106-3"	21	436884	4.8
+	"Hawaii"	"15"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	10	922982	Unreliable
+	"Hawaii"	"15"	"2014"	"2014"	"White"	"2106-3"	29	442721	6.6
+	"Hawaii"	"15"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	25	927227	2.7
+	"Hawaii"	"15"	"2015"	"2015"	"White"	"2106-3"	24	447725	5.4
+	"Hawaii"	"15"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	37	942954	3.9
+	"Hawaii"	"15"	"2016"	"2016"	"White"	"2106-3"	18	435637	Unreliable
+	"Hawaii"	"15"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	16	944282	Unreliable
+	"Hawaii"	"15"	"2017"	"2017"	"White"	"2106-3"	20	433320	4.6
+	"Idaho"	"16"	"1999"	"1999"	"White"	"2106-3"	144	1236009	11.7
+	"Idaho"	"16"	"2000"	"2000"	"White"	"2106-3"	119	1250538	9.5
+	"Idaho"	"16"	"2001"	"2001"	"White"	"2106-3"	165	1273704	13.0
+	"Idaho"	"16"	"2002"	"2002"	"White"	"2106-3"	157	1291938	12.2
+	"Idaho"	"16"	"2003"	"2003"	"White"	"2106-3"	158	1312571	12.0
+	"Idaho"	"16"	"2004"	"2004"	"White"	"2106-3"	171	1338380	12.8
+	"Idaho"	"16"	"2005"	"2005"	"White"	"2106-3"	188	1371294	13.7
+	"Idaho"	"16"	"2006"	"2006"	"White"	"2106-3"	172	1408456	12.2
+	"Idaho"	"16"	"2007"	"2007"	"White"	"2106-3"	176	1441249	12.2
+	"Idaho"	"16"	"2008"	"2008"	"White"	"2106-3"	164	1467743	11.2
+	"Idaho"	"16"	"2009"	"2009"	"White"	"2106-3"	185	1485165	12.5
+	"Idaho"	"16"	"2010"	"2010"	"White"	"2106-3"	193	1496784	12.9
+	"Idaho"	"16"	"2011"	"2011"	"White"	"2106-3"	184	1510289	12.2
+	"Idaho"	"16"	"2012"	"2012"	"White"	"2106-3"	201	1519716	13.2
+	"Idaho"	"16"	"2013"	"2013"	"White"	"2106-3"	221	1533351	14.4
+	"Idaho"	"16"	"2014"	"2014"	"White"	"2106-3"	206	1552607	13.3
+	"Idaho"	"16"	"2015"	"2015"	"White"	"2106-3"	238	1570040	15.2
+	"Idaho"	"16"	"2016"	"2016"	"White"	"2106-3"	227	1596443	14.2
+	"Idaho"	"16"	"2017"	"2017"	"White"	"2106-3"	271	1626437	16.7
+	"Illinois"	"17"	"1999"	"1999"	"Black or African American"	"2054-5"	557	1923260	29.0
+	"Illinois"	"17"	"1999"	"1999"	"White"	"2106-3"	643	9951765	6.5
+	"Illinois"	"17"	"2000"	"2000"	"Black or African American"	"2054-5"	509	1933802	26.3
+	"Illinois"	"17"	"2000"	"2000"	"White"	"2106-3"	611	9981520	6.1
+	"Illinois"	"17"	"2001"	"2001"	"Black or African American"	"2054-5"	544	1940249	28.0
+	"Illinois"	"17"	"2001"	"2001"	"White"	"2106-3"	729	10015499	7.3
+	"Illinois"	"17"	"2002"	"2002"	"Black or African American"	"2054-5"	568	1942243	29.2
+	"Illinois"	"17"	"2002"	"2002"	"White"	"2106-3"	647	10028334	6.5
+	"Illinois"	"17"	"2003"	"2003"	"Black or African American"	"2054-5"	536	1942340	27.6
+	"Illinois"	"17"	"2003"	"2003"	"White"	"2106-3"	597	10037309	5.9
+	"Illinois"	"17"	"2004"	"2004"	"Black or African American"	"2054-5"	429	1944473	22.1
+	"Illinois"	"17"	"2004"	"2004"	"White"	"2106-3"	555	10047833	5.5
+	"Illinois"	"17"	"2005"	"2005"	"Black or African American"	"2054-5"	429	1944853	22.1
+	"Illinois"	"17"	"2005"	"2005"	"White"	"2106-3"	582	10046377	5.8
+	"Illinois"	"17"	"2006"	"2006"	"Black or African American"	"2054-5"	517	1947836	26.5
+	"Illinois"	"17"	"2006"	"2006"	"White"	"2106-3"	512	10054436	5.1
+	"Illinois"	"17"	"2007"	"2007"	"Black or African American"	"2054-5"	477	1951157	24.4
+	"Illinois"	"17"	"2007"	"2007"	"White"	"2106-3"	540	10078343	5.4
+	"Illinois"	"17"	"2008"	"2008"	"Black or African American"	"2054-5"	483	1955231	24.7
+	"Illinois"	"17"	"2008"	"2008"	"White"	"2106-3"	605	10102663	6.0
+	"Illinois"	"17"	"2009"	"2009"	"Black or African American"	"2054-5"	491	1960826	25.0
+	"Illinois"	"17"	"2009"	"2009"	"White"	"2106-3"	548	10123738	5.4
+	"Illinois"	"17"	"2010"	"2010"	"Black or African American"	"2054-5"	476	1965842	24.2
+	"Illinois"	"17"	"2010"	"2010"	"White"	"2106-3"	573	10136715	5.7
+	"Illinois"	"17"	"2011"	"2011"	"Black or African American"	"2054-5"	509	1971805	25.8
+	"Illinois"	"17"	"2011"	"2011"	"White"	"2106-3"	581	10152278	5.7
+	"Illinois"	"17"	"2012"	"2012"	"Black or African American"	"2054-5"	543	1968408	27.6
+	"Illinois"	"17"	"2012"	"2012"	"White"	"2106-3"	616	10140667	6.1
+	"Illinois"	"17"	"2013"	"2013"	"Black or African American"	"2054-5"	489	1965178	24.9
+	"Illinois"	"17"	"2013"	"2013"	"White"	"2106-3"	602	10129482	5.9
+	"Illinois"	"17"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	13	726423	Unreliable
+	"Illinois"	"17"	"2014"	"2014"	"Black or African American"	"2054-5"	536	1964390	27.3
+	"Illinois"	"17"	"2014"	"2014"	"White"	"2106-3"	620	10101430	6.1
+	"Illinois"	"17"	"2015"	"2015"	"Black or African American"	"2054-5"	584	1962578	29.8
+	"Illinois"	"17"	"2015"	"2015"	"White"	"2106-3"	618	10058772	6.1
+	"Illinois"	"17"	"2016"	"2016"	"Black or African American"	"2054-5"	787	1953836	40.3
+	"Illinois"	"17"	"2016"	"2016"	"White"	"2106-3"	681	10006563	6.8
+	"Illinois"	"17"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	10	774210	Unreliable
+	"Illinois"	"17"	"2017"	"2017"	"Black or African American"	"2054-5"	789	1950271	40.5
+	"Illinois"	"17"	"2017"	"2017"	"White"	"2106-3"	734	9988400	7.3
+	"Indiana"	"18"	"1999"	"1999"	"Black or African American"	"2054-5"	195	525171	37.1
+	"Indiana"	"18"	"1999"	"1999"	"White"	"2106-3"	473	5439927	8.7
+	"Indiana"	"18"	"2000"	"2000"	"Black or African American"	"2054-5"	168	533138	31.5
+	"Indiana"	"18"	"2000"	"2000"	"White"	"2106-3"	492	5460032	9.0
+	"Indiana"	"18"	"2001"	"2001"	"Black or African American"	"2054-5"	201	545974	36.8
+	"Indiana"	"18"	"2001"	"2001"	"White"	"2106-3"	524	5488228	9.5
+	"Indiana"	"18"	"2002"	"2002"	"Black or African American"	"2054-5"	177	555017	31.9
+	"Indiana"	"18"	"2002"	"2002"	"White"	"2106-3"	535	5501795	9.7
+	"Indiana"	"18"	"2003"	"2003"	"Black or African American"	"2054-5"	179	565411	31.7
+	"Indiana"	"18"	"2003"	"2003"	"White"	"2106-3"	506	5526320	9.2
+	"Indiana"	"18"	"2004"	"2004"	"Black or African American"	"2054-5"	161	575734	28.0
+	"Indiana"	"18"	"2004"	"2004"	"White"	"2106-3"	467	5546480	8.4
+	"Indiana"	"18"	"2005"	"2005"	"Black or African American"	"2054-5"	178	586943	30.3
+	"Indiana"	"18"	"2005"	"2005"	"White"	"2106-3"	513	5574542	9.2
+	"Indiana"	"18"	"2006"	"2006"	"Black or African American"	"2054-5"	191	600368	31.8
+	"Indiana"	"18"	"2006"	"2006"	"White"	"2106-3"	541	5608431	9.6
+	"Indiana"	"18"	"2007"	"2007"	"Black or African American"	"2054-5"	175	612333	28.6
+	"Indiana"	"18"	"2007"	"2007"	"White"	"2106-3"	485	5637322	8.6
+	"Indiana"	"18"	"2008"	"2008"	"Black or African American"	"2054-5"	175	624185	28.0
+	"Indiana"	"18"	"2008"	"2008"	"White"	"2106-3"	540	5664810	9.5
+	"Indiana"	"18"	"2009"	"2009"	"Black or African American"	"2054-5"	158	635234	24.9
+	"Indiana"	"18"	"2009"	"2009"	"White"	"2106-3"	568	5681764	10.0
+	"Indiana"	"18"	"2010"	"2010"	"Black or African American"	"2054-5"	162	643598	25.2
+	"Indiana"	"18"	"2010"	"2010"	"White"	"2106-3"	542	5693566	9.5
+	"Indiana"	"18"	"2011"	"2011"	"Black or African American"	"2054-5"	137	652559	21.0
+	"Indiana"	"18"	"2011"	"2011"	"White"	"2106-3"	487	5711984	8.5
+	"Indiana"	"18"	"2012"	"2012"	"Black or African American"	"2054-5"	176	660228	26.7
+	"Indiana"	"18"	"2012"	"2012"	"White"	"2106-3"	603	5717757	10.5
+	"Indiana"	"18"	"2013"	"2013"	"Black or African American"	"2054-5"	226	669408	33.8
+	"Indiana"	"18"	"2013"	"2013"	"White"	"2106-3"	613	5732863	10.7
+	"Indiana"	"18"	"2014"	"2014"	"Black or African American"	"2054-5"	186	678326	27.4
+	"Indiana"	"18"	"2014"	"2014"	"White"	"2106-3"	619	5740600	10.8
+	"Indiana"	"18"	"2015"	"2015"	"Black or African American"	"2054-5"	219	685966	31.9
+	"Indiana"	"18"	"2015"	"2015"	"White"	"2106-3"	610	5745559	10.6
+	"Indiana"	"18"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	11	164449	Unreliable
+	"Indiana"	"18"	"2016"	"2016"	"Black or African American"	"2054-5"	279	692488	40.3
+	"Indiana"	"18"	"2016"	"2016"	"White"	"2106-3"	696	5744213	12.1
+	"Indiana"	"18"	"2017"	"2017"	"Black or African American"	"2054-5"	265	702537	37.7
+	"Indiana"	"18"	"2017"	"2017"	"White"	"2106-3"	734	5758280	12.7
+	"Iowa"	"19"	"1999"	"1999"	"White"	"2106-3"	184	2806468	6.6
+	"Iowa"	"19"	"2000"	"2000"	"White"	"2106-3"	180	2805323	6.4
+	"Iowa"	"19"	"2001"	"2001"	"White"	"2106-3"	179	2805838	6.4
+	"Iowa"	"19"	"2002"	"2002"	"White"	"2106-3"	186	2803526	6.6
+	"Iowa"	"19"	"2003"	"2003"	"White"	"2106-3"	198	2806004	7.1
+	"Iowa"	"19"	"2004"	"2004"	"White"	"2106-3"	180	2812023	6.4
+	"Iowa"	"19"	"2005"	"2005"	"White"	"2106-3"	188	2816975	6.7
+	"Iowa"	"19"	"2006"	"2006"	"White"	"2106-3"	184	2828308	6.5
+	"Iowa"	"19"	"2007"	"2007"	"White"	"2106-3"	145	2837532	5.1
+	"Iowa"	"19"	"2008"	"2008"	"Black or African American"	"2054-5"	12	99622	Unreliable
+	"Iowa"	"19"	"2008"	"2008"	"White"	"2106-3"	207	2847918	7.3
+	"Iowa"	"19"	"2009"	"2009"	"White"	"2106-3"	182	2856456	6.4
+	"Iowa"	"19"	"2010"	"2010"	"White"	"2106-3"	202	2864005	7.1
+	"Iowa"	"19"	"2011"	"2011"	"Black or African American"	"2054-5"	10	110753	Unreliable
+	"Iowa"	"19"	"2011"	"2011"	"White"	"2106-3"	208	2873019	7.2
+	"Iowa"	"19"	"2012"	"2012"	"Black or African American"	"2054-5"	12	114463	Unreliable
+	"Iowa"	"19"	"2012"	"2012"	"White"	"2106-3"	203	2877696	7.1
+	"Iowa"	"19"	"2013"	"2013"	"White"	"2106-3"	241	2884447	8.4
+	"Iowa"	"19"	"2014"	"2014"	"White"	"2106-3"	225	2888971	7.8
+	"Iowa"	"19"	"2015"	"2015"	"Black or African American"	"2054-5"	21	129926	16.2
+	"Iowa"	"19"	"2015"	"2015"	"White"	"2106-3"	221	2895570	7.6
+	"Iowa"	"19"	"2016"	"2016"	"Black or African American"	"2054-5"	32	135448	23.6
+	"Iowa"	"19"	"2016"	"2016"	"White"	"2106-3"	255	2894851	8.8
+	"Iowa"	"19"	"2017"	"2017"	"Black or African American"	"2054-5"	32	141575	22.6
+	"Iowa"	"19"	"2017"	"2017"	"White"	"2106-3"	254	2895505	8.8
+	"Kansas"	"20"	"1999"	"1999"	"Black or African American"	"2054-5"	45	164954	27.3
+	"Kansas"	"20"	"1999"	"1999"	"White"	"2106-3"	222	2435163	9.1
+	"Kansas"	"20"	"2000"	"2000"	"Black or African American"	"2054-5"	53	167269	31.7
+	"Kansas"	"20"	"2000"	"2000"	"White"	"2106-3"	238	2437323	9.8
+	"Kansas"	"20"	"2001"	"2001"	"Black or African American"	"2054-5"	57	169671	33.6
+	"Kansas"	"20"	"2001"	"2001"	"White"	"2106-3"	203	2444755	8.3
+	"Kansas"	"20"	"2002"	"2002"	"Black or African American"	"2054-5"	45	171790	26.2
+	"Kansas"	"20"	"2002"	"2002"	"White"	"2106-3"	221	2450143	9.0
+	"Kansas"	"20"	"2003"	"2003"	"Black or African American"	"2054-5"	37	173096	21.4
+	"Kansas"	"20"	"2003"	"2003"	"White"	"2106-3"	260	2454735	10.6
+	"Kansas"	"20"	"2004"	"2004"	"Black or African American"	"2054-5"	54	175310	30.8
+	"Kansas"	"20"	"2004"	"2004"	"White"	"2106-3"	234	2460978	9.5
+	"Kansas"	"20"	"2005"	"2005"	"Black or African American"	"2054-5"	45	176749	25.5
+	"Kansas"	"20"	"2005"	"2005"	"White"	"2106-3"	204	2467205	8.3
+	"Kansas"	"20"	"2006"	"2006"	"Black or African American"	"2054-5"	47	180509	26.0
+	"Kansas"	"20"	"2006"	"2006"	"White"	"2106-3"	236	2478392	9.5
+	"Kansas"	"20"	"2007"	"2007"	"Black or African American"	"2054-5"	30	183812	16.3
+	"Kansas"	"20"	"2007"	"2007"	"White"	"2106-3"	252	2492659	10.1
+	"Kansas"	"20"	"2008"	"2008"	"Black or African American"	"2054-5"	46	188485	24.4
+	"Kansas"	"20"	"2008"	"2008"	"White"	"2106-3"	227	2508363	9.0
+	"Kansas"	"20"	"2009"	"2009"	"Black or African American"	"2054-5"	37	192058	19.3
+	"Kansas"	"20"	"2009"	"2009"	"White"	"2106-3"	258	2525097	10.2
+	"Kansas"	"20"	"2010"	"2010"	"Black or African American"	"2054-5"	38	195412	19.4
+	"Kansas"	"20"	"2010"	"2010"	"White"	"2106-3"	252	2538944	9.9
+	"Kansas"	"20"	"2011"	"2011"	"Black or African American"	"2054-5"	36	199790	18.0
+	"Kansas"	"20"	"2011"	"2011"	"White"	"2106-3"	278	2549248	10.9
+	"Kansas"	"20"	"2012"	"2012"	"Black or African American"	"2054-5"	41	203096	20.2
+	"Kansas"	"20"	"2012"	"2012"	"White"	"2106-3"	323	2557493	12.6
+	"Kansas"	"20"	"2013"	"2013"	"Black or African American"	"2054-5"	44	205055	21.5
+	"Kansas"	"20"	"2013"	"2013"	"White"	"2106-3"	277	2560201	10.8
+	"Kansas"	"20"	"2014"	"2014"	"Black or African American"	"2054-5"	36	207381	17.4
+	"Kansas"	"20"	"2014"	"2014"	"White"	"2106-3"	274	2563233	10.7
+	"Kansas"	"20"	"2015"	"2015"	"Black or African American"	"2054-5"	44	209415	21.0
+	"Kansas"	"20"	"2015"	"2015"	"White"	"2106-3"	267	2564958	10.4
+	"Kansas"	"20"	"2016"	"2016"	"Black or African American"	"2054-5"	59	206845	28.5
+	"Kansas"	"20"	"2016"	"2016"	"White"	"2106-3"	308	2561433	12.0
+	"Kansas"	"20"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	11	100376	Unreliable
+	"Kansas"	"20"	"2017"	"2017"	"Black or African American"	"2054-5"	66	207469	31.8
+	"Kansas"	"20"	"2017"	"2017"	"White"	"2106-3"	381	2562602	14.9
+	"Kentucky"	"21"	"1999"	"1999"	"Black or African American"	"2054-5"	58	303644	19.1
+	"Kentucky"	"21"	"1999"	"1999"	"White"	"2106-3"	464	3676835	12.6
+	"Kentucky"	"21"	"2000"	"2000"	"Black or African American"	"2054-5"	63	307871	20.5
+	"Kentucky"	"21"	"2000"	"2000"	"White"	"2106-3"	477	3690141	12.9
+	"Kentucky"	"21"	"2001"	"2001"	"Black or African American"	"2054-5"	52	314168	16.6
+	"Kentucky"	"21"	"2001"	"2001"	"White"	"2106-3"	468	3707359	12.6
+	"Kentucky"	"21"	"2002"	"2002"	"Black or African American"	"2054-5"	61	318571	19.1
+	"Kentucky"	"21"	"2002"	"2002"	"White"	"2106-3"	481	3722159	12.9
+	"Kentucky"	"21"	"2003"	"2003"	"Black or African American"	"2054-5"	61	322254	18.9
+	"Kentucky"	"21"	"2003"	"2003"	"White"	"2106-3"	492	3743343	13.1
+	"Kentucky"	"21"	"2004"	"2004"	"Black or African American"	"2054-5"	60	328546	18.3
+	"Kentucky"	"21"	"2004"	"2004"	"White"	"2106-3"	484	3763011	12.9
+	"Kentucky"	"21"	"2005"	"2005"	"Black or African American"	"2054-5"	61	334402	18.2
+	"Kentucky"	"21"	"2005"	"2005"	"White"	"2106-3"	482	3790752	12.7
+	"Kentucky"	"21"	"2006"	"2006"	"Black or African American"	"2054-5"	45	339736	13.2
+	"Kentucky"	"21"	"2006"	"2006"	"White"	"2106-3"	481	3819323	12.6
+	"Kentucky"	"21"	"2007"	"2007"	"Black or African American"	"2054-5"	73	347061	21.0
+	"Kentucky"	"21"	"2007"	"2007"	"White"	"2106-3"	536	3846623	13.9
+	"Kentucky"	"21"	"2008"	"2008"	"Black or African American"	"2054-5"	63	352036	17.9
+	"Kentucky"	"21"	"2008"	"2008"	"White"	"2106-3"	511	3872310	13.2
+	"Kentucky"	"21"	"2009"	"2009"	"Black or African American"	"2054-5"	65	359228	18.1
+	"Kentucky"	"21"	"2009"	"2009"	"White"	"2106-3"	489	3889498	12.6
+	"Kentucky"	"21"	"2010"	"2010"	"Black or African American"	"2054-5"	48	364148	13.2
+	"Kentucky"	"21"	"2010"	"2010"	"White"	"2106-3"	500	3904888	12.8
+	"Kentucky"	"21"	"2011"	"2011"	"Black or African American"	"2054-5"	61	372115	16.4
+	"Kentucky"	"21"	"2011"	"2011"	"White"	"2106-3"	542	3924165	13.8
+	"Kentucky"	"21"	"2012"	"2012"	"Black or African American"	"2054-5"	86	377606	22.8
+	"Kentucky"	"21"	"2012"	"2012"	"White"	"2106-3"	558	3926441	14.2
+	"Kentucky"	"21"	"2013"	"2013"	"Black or African American"	"2054-5"	62	383114	16.2
+	"Kentucky"	"21"	"2013"	"2013"	"White"	"2106-3"	555	3932899	14.1
+	"Kentucky"	"21"	"2014"	"2014"	"Black or African American"	"2054-5"	71	388837	18.3
+	"Kentucky"	"21"	"2014"	"2014"	"White"	"2106-3"	556	3941696	14.1
+	"Kentucky"	"21"	"2015"	"2015"	"Black or African American"	"2054-5"	77	392826	19.6
+	"Kentucky"	"21"	"2015"	"2015"	"White"	"2106-3"	605	3945716	15.3
+	"Kentucky"	"21"	"2016"	"2016"	"Black or African American"	"2054-5"	123	395083	31.1
+	"Kentucky"	"21"	"2016"	"2016"	"White"	"2106-3"	631	3952664	16.0
+	"Kentucky"	"21"	"2017"	"2017"	"Black or African American"	"2054-5"	122	401334	30.4
+	"Kentucky"	"21"	"2017"	"2017"	"White"	"2106-3"	591	3959768	14.9
+	"Louisiana"	"22"	"1999"	"1999"	"Black or African American"	"2054-5"	339	1461433	23.2
+	"Louisiana"	"22"	"1999"	"1999"	"White"	"2106-3"	431	2915561	14.8
+	"Louisiana"	"22"	"2000"	"2000"	"Black or African American"	"2054-5"	405	1468317	27.6
+	"Louisiana"	"22"	"2000"	"2000"	"White"	"2106-3"	376	2912011	12.9
+	"Louisiana"	"22"	"2001"	"2001"	"Black or African American"	"2054-5"	376	1475975	25.5
+	"Louisiana"	"22"	"2001"	"2001"	"White"	"2106-3"	399	2910410	13.7
+	"Louisiana"	"22"	"2002"	"2002"	"Black or African American"	"2054-5"	436	1485575	29.3
+	"Louisiana"	"22"	"2002"	"2002"	"White"	"2106-3"	425	2916968	14.6
+	"Louisiana"	"22"	"2003"	"2003"	"Black or African American"	"2054-5"	439	1496609	29.3
+	"Louisiana"	"22"	"2003"	"2003"	"White"	"2106-3"	393	2926521	13.4
+	"Louisiana"	"22"	"2004"	"2004"	"Black or African American"	"2054-5"	486	1509822	32.2
+	"Louisiana"	"22"	"2004"	"2004"	"White"	"2106-3"	408	2940900	13.9
+	"Louisiana"	"22"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	11	72183	Unreliable
+	"Louisiana"	"22"	"2005"	"2005"	"Black or African American"	"2054-5"	431	1521031	28.3
+	"Louisiana"	"22"	"2005"	"2005"	"White"	"2106-3"	408	2951023	13.8
+	"Louisiana"	"22"	"2006"	"2006"	"Black or African American"	"2054-5"	415	1369467	30.3
+	"Louisiana"	"22"	"2006"	"2006"	"White"	"2106-3"	409	2834087	14.4
+	"Louisiana"	"22"	"2007"	"2007"	"Black or African American"	"2054-5"	433	1411396	30.7
+	"Louisiana"	"22"	"2007"	"2007"	"White"	"2106-3"	419	2861100	14.6
+	"Louisiana"	"22"	"2008"	"2008"	"Black or African American"	"2054-5"	404	1444476	28.0
+	"Louisiana"	"22"	"2008"	"2008"	"White"	"2106-3"	413	2883647	14.3
+	"Louisiana"	"22"	"2009"	"2009"	"Black or African American"	"2054-5"	408	1468988	27.8
+	"Louisiana"	"22"	"2009"	"2009"	"White"	"2106-3"	394	2910509	13.5
+	"Louisiana"	"22"	"2010"	"2010"	"Black or African American"	"2054-5"	396	1485375	26.7
+	"Louisiana"	"22"	"2010"	"2010"	"White"	"2106-3"	463	2932468	15.8
+	"Louisiana"	"22"	"2011"	"2011"	"Black or African American"	"2054-5"	419	1506336	27.8
+	"Louisiana"	"22"	"2011"	"2011"	"White"	"2106-3"	437	2949133	14.8
+	"Louisiana"	"22"	"2012"	"2012"	"Black or African American"	"2054-5"	413	1516716	27.2
+	"Louisiana"	"22"	"2012"	"2012"	"White"	"2106-3"	426	2962171	14.4
+	"Louisiana"	"22"	"2013"	"2013"	"Black or African American"	"2054-5"	415	1526736	27.2
+	"Louisiana"	"22"	"2013"	"2013"	"White"	"2106-3"	456	2971695	15.3
+	"Louisiana"	"22"	"2014"	"2014"	"Black or African American"	"2054-5"	396	1538168	25.7
+	"Louisiana"	"22"	"2014"	"2014"	"White"	"2106-3"	490	2980699	16.4
+	"Louisiana"	"22"	"2015"	"2015"	"Black or African American"	"2054-5"	411	1546176	26.6
+	"Louisiana"	"22"	"2015"	"2015"	"White"	"2106-3"	529	2990198	17.7
+	"Louisiana"	"22"	"2016"	"2016"	"Black or African American"	"2054-5"	480	1554167	30.9
+	"Louisiana"	"22"	"2016"	"2016"	"White"	"2106-3"	498	2993420	16.6
+	"Louisiana"	"22"	"2017"	"2017"	"Black or African American"	"2054-5"	518	1558498	33.2
+	"Louisiana"	"22"	"2017"	"2017"	"White"	"2106-3"	473	2988801	15.8
+	"Maine"	"23"	"1999"	"1999"	"White"	"2106-3"	109	1241976	8.8
+	"Maine"	"23"	"2000"	"2000"	"White"	"2106-3"	108	1247712	8.7
+	"Maine"	"23"	"2001"	"2001"	"White"	"2106-3"	94	1256397	7.5
+	"Maine"	"23"	"2002"	"2002"	"White"	"2106-3"	86	1264617	6.8
+	"Maine"	"23"	"2003"	"2003"	"White"	"2106-3"	81	1272827	6.4
+	"Maine"	"23"	"2004"	"2004"	"White"	"2106-3"	105	1278082	8.2
+	"Maine"	"23"	"2005"	"2005"	"White"	"2106-3"	106	1281091	8.3
+	"Maine"	"23"	"2006"	"2006"	"White"	"2106-3"	102	1284124	7.9
+	"Maine"	"23"	"2007"	"2007"	"White"	"2106-3"	103	1285828	8.0
+	"Maine"	"23"	"2008"	"2008"	"White"	"2106-3"	118	1287317	9.2
+	"Maine"	"23"	"2009"	"2009"	"White"	"2106-3"	118	1284844	9.2
+	"Maine"	"23"	"2010"	"2010"	"White"	"2106-3"	104	1282994	8.1
+	"Maine"	"23"	"2011"	"2011"	"White"	"2106-3"	128	1281361	10.0
+	"Maine"	"23"	"2012"	"2012"	"White"	"2106-3"	127	1280768	9.9
+	"Maine"	"23"	"2013"	"2013"	"White"	"2106-3"	154	1278933	12.0
+	"Maine"	"23"	"2014"	"2014"	"White"	"2106-3"	124	1278430	9.7
+	"Maine"	"23"	"2015"	"2015"	"White"	"2106-3"	140	1276636	11.0
+	"Maine"	"23"	"2016"	"2016"	"White"	"2106-3"	118	1277480	9.2
+	"Maine"	"23"	"2017"	"2017"	"White"	"2106-3"	162	1280369	12.7
+	"Maryland"	"24"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	12	220863	Unreliable
+	"Maryland"	"24"	"1999"	"1999"	"Black or African American"	"2054-5"	386	1503532	25.7
+	"Maryland"	"24"	"1999"	"1999"	"White"	"2106-3"	243	3511643	6.9
+	"Maryland"	"24"	"2000"	"2000"	"Black or African American"	"2054-5"	348	1524783	22.8
+	"Maryland"	"24"	"2000"	"2000"	"White"	"2106-3"	245	3522415	7.0
+	"Maryland"	"24"	"2001"	"2001"	"Black or African American"	"2054-5"	346	1561491	22.2
+	"Maryland"	"24"	"2001"	"2001"	"White"	"2106-3"	245	3546882	6.9
+	"Maryland"	"24"	"2002"	"2002"	"Black or African American"	"2054-5"	348	1592833	21.8
+	"Maryland"	"24"	"2002"	"2002"	"White"	"2106-3"	249	3566844	7.0
+	"Maryland"	"24"	"2003"	"2003"	"Black or African American"	"2054-5"	385	1621856	23.7
+	"Maryland"	"24"	"2003"	"2003"	"White"	"2106-3"	246	3579519	6.9
+	"Maryland"	"24"	"2004"	"2004"	"Black or African American"	"2054-5"	378	1652016	22.9
+	"Maryland"	"24"	"2004"	"2004"	"White"	"2106-3"	266	3585789	7.4
+	"Maryland"	"24"	"2005"	"2005"	"Black or African American"	"2054-5"	396	1680707	23.6
+	"Maryland"	"24"	"2005"	"2005"	"White"	"2106-3"	241	3587986	6.7
+	"Maryland"	"24"	"2006"	"2006"	"Black or African American"	"2054-5"	407	1705298	23.9
+	"Maryland"	"24"	"2006"	"2006"	"White"	"2106-3"	246	3584885	6.9
+	"Maryland"	"24"	"2007"	"2007"	"Black or African American"	"2054-5"	409	1724204	23.7
+	"Maryland"	"24"	"2007"	"2007"	"White"	"2106-3"	249	3578891	7.0
+	"Maryland"	"24"	"2008"	"2008"	"Black or African American"	"2054-5"	362	1741767	20.8
+	"Maryland"	"24"	"2008"	"2008"	"White"	"2106-3"	274	3579667	7.7
+	"Maryland"	"24"	"2009"	"2009"	"Black or African American"	"2054-5"	308	1764644	17.5
+	"Maryland"	"24"	"2009"	"2009"	"White"	"2106-3"	255	3587821	7.1
+	"Maryland"	"24"	"2010"	"2010"	"Black or African American"	"2054-5"	298	1783183	16.7
+	"Maryland"	"24"	"2010"	"2010"	"White"	"2106-3"	225	3600864	6.2
+	"Maryland"	"24"	"2011"	"2011"	"Black or African American"	"2054-5"	284	1802494	15.8
+	"Maryland"	"24"	"2011"	"2011"	"White"	"2106-3"	228	3623463	6.3
+	"Maryland"	"24"	"2012"	"2012"	"Black or African American"	"2054-5"	287	1822097	15.8
+	"Maryland"	"24"	"2012"	"2012"	"White"	"2106-3"	278	3643570	7.6
+	"Maryland"	"24"	"2013"	"2013"	"Black or African American"	"2054-5"	289	1844337	15.7
+	"Maryland"	"24"	"2013"	"2013"	"White"	"2106-3"	270	3651845	7.4
+	"Maryland"	"24"	"2014"	"2014"	"Black or African American"	"2054-5"	274	1868002	14.7
+	"Maryland"	"24"	"2014"	"2014"	"White"	"2106-3"	244	3658054	6.7
+	"Maryland"	"24"	"2015"	"2015"	"Black or African American"	"2054-5"	429	1890111	22.7
+	"Maryland"	"24"	"2015"	"2015"	"White"	"2106-3"	259	3652546	7.1
+	"Maryland"	"24"	"2016"	"2016"	"Black or African American"	"2054-5"	431	1907689	22.6
+	"Maryland"	"24"	"2016"	"2016"	"White"	"2106-3"	249	3639880	6.8
+	"Maryland"	"24"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	10	440915	Unreliable
+	"Maryland"	"24"	"2017"	"2017"	"Black or African American"	"2054-5"	442	1926348	22.9
+	"Maryland"	"24"	"2017"	"2017"	"White"	"2106-3"	281	3643426	7.7
+	"Massachusetts"	"25"	"1999"	"1999"	"Black or African American"	"2054-5"	32	416891	7.7
+	"Massachusetts"	"25"	"1999"	"1999"	"White"	"2106-3"	161	5632754	2.9
+	"Massachusetts"	"25"	"2000"	"2000"	"Black or African American"	"2054-5"	38	426216	8.9
+	"Massachusetts"	"25"	"2000"	"2000"	"White"	"2106-3"	136	5642547	2.4
+	"Massachusetts"	"25"	"2001"	"2001"	"Black or African American"	"2054-5"	46	441594	10.4
+	"Massachusetts"	"25"	"2001"	"2001"	"White"	"2106-3"	144	5655031	2.5
+	"Massachusetts"	"25"	"2002"	"2002"	"Black or African American"	"2054-5"	60	453484	13.2
+	"Massachusetts"	"25"	"2002"	"2002"	"White"	"2106-3"	130	5648553	2.3
+	"Massachusetts"	"25"	"2003"	"2003"	"Black or African American"	"2054-5"	43	464146	9.3
+	"Massachusetts"	"25"	"2003"	"2003"	"White"	"2106-3"	153	5630854	2.7
+	"Massachusetts"	"25"	"2004"	"2004"	"Black or African American"	"2054-5"	61	472524	12.9
+	"Massachusetts"	"25"	"2004"	"2004"	"White"	"2106-3"	140	5600102	2.5
+	"Massachusetts"	"25"	"2005"	"2005"	"Black or African American"	"2054-5"	63	481830	13.1
+	"Massachusetts"	"25"	"2005"	"2005"	"White"	"2106-3"	157	5570042	2.8
+	"Massachusetts"	"25"	"2006"	"2006"	"Black or African American"	"2054-5"	70	492621	14.2
+	"Massachusetts"	"25"	"2006"	"2006"	"White"	"2106-3"	132	5553858	2.4
+	"Massachusetts"	"25"	"2007"	"2007"	"Black or African American"	"2054-5"	73	503993	14.5
+	"Massachusetts"	"25"	"2007"	"2007"	"White"	"2106-3"	155	5552029	2.8
+	"Massachusetts"	"25"	"2008"	"2008"	"Black or African American"	"2054-5"	62	517040	12.0
+	"Massachusetts"	"25"	"2008"	"2008"	"White"	"2106-3"	153	5562217	2.8
+	"Massachusetts"	"25"	"2009"	"2009"	"Black or African American"	"2054-5"	58	530509	10.9
+	"Massachusetts"	"25"	"2009"	"2009"	"White"	"2106-3"	141	5581686	2.5
+	"Massachusetts"	"25"	"2010"	"2010"	"Black or African American"	"2054-5"	74	539664	13.7
+	"Massachusetts"	"25"	"2010"	"2010"	"White"	"2106-3"	191	5591798	3.4
+	"Massachusetts"	"25"	"2011"	"2011"	"Black or African American"	"2054-5"	66	549080	12.0
+	"Massachusetts"	"25"	"2011"	"2011"	"White"	"2106-3"	178	5609013	3.2
+	"Massachusetts"	"25"	"2012"	"2012"	"Black or African American"	"2054-5"	41	564804	7.3
+	"Massachusetts"	"25"	"2012"	"2012"	"White"	"2106-3"	182	5633673	3.2
+	"Massachusetts"	"25"	"2013"	"2013"	"Black or African American"	"2054-5"	48	580805	8.3
+	"Massachusetts"	"25"	"2013"	"2013"	"White"	"2106-3"	151	5647620	2.7
+	"Massachusetts"	"25"	"2014"	"2014"	"Black or African American"	"2054-5"	49	601765	8.1
+	"Massachusetts"	"25"	"2014"	"2014"	"White"	"2106-3"	172	5654782	3.0
+	"Massachusetts"	"25"	"2015"	"2015"	"Black or African American"	"2054-5"	45	619655	7.3
+	"Massachusetts"	"25"	"2015"	"2015"	"White"	"2106-3"	155	5663975	2.7
+	"Massachusetts"	"25"	"2016"	"2016"	"Black or African American"	"2054-5"	52	634682	8.2
+	"Massachusetts"	"25"	"2016"	"2016"	"White"	"2106-3"	178	5656810	3.1
+	"Massachusetts"	"25"	"2017"	"2017"	"Black or African American"	"2054-5"	65	653142	10.0
+	"Massachusetts"	"25"	"2017"	"2017"	"White"	"2106-3"	187	5666330	3.3
+	"Michigan"	"26"	"1999"	"1999"	"Black or African American"	"2054-5"	467	1455082	32.1
+	"Michigan"	"26"	"1999"	"1999"	"White"	"2106-3"	600	8186898	7.3
+	"Michigan"	"26"	"2000"	"2000"	"Black or African American"	"2054-5"	435	1463500	29.7
+	"Michigan"	"26"	"2000"	"2000"	"White"	"2106-3"	607	8205268	7.4
+	"Michigan"	"26"	"2001"	"2001"	"Black or African American"	"2054-5"	447	1477489	30.3
+	"Michigan"	"26"	"2001"	"2001"	"White"	"2106-3"	611	8230173	7.4
+	"Michigan"	"26"	"2002"	"2002"	"Black or African American"	"2054-5"	441	1483051	29.7
+	"Michigan"	"26"	"2002"	"2002"	"White"	"2106-3"	632	8237822	7.7
+	"Michigan"	"26"	"2003"	"2003"	"Black or African American"	"2054-5"	424	1488590	28.5
+	"Michigan"	"26"	"2003"	"2003"	"White"	"2106-3"	585	8245792	7.1
+	"Michigan"	"26"	"2004"	"2004"	"Black or African American"	"2054-5"	428	1492884	28.7
+	"Michigan"	"26"	"2004"	"2004"	"White"	"2106-3"	600	8246288	7.3
+	"Michigan"	"26"	"2005"	"2005"	"Black or African American"	"2054-5"	446	1494262	29.8
+	"Michigan"	"26"	"2005"	"2005"	"White"	"2106-3"	609	8231910	7.4
+	"Michigan"	"26"	"2006"	"2006"	"Black or African American"	"2054-5"	492	1494911	32.9
+	"Michigan"	"26"	"2006"	"2006"	"White"	"2106-3"	644	8208506	7.8
+	"Michigan"	"26"	"2007"	"2007"	"Black or African American"	"2054-5"	442	1492428	29.6
+	"Michigan"	"26"	"2007"	"2007"	"White"	"2106-3"	631	8170744	7.7
+	"Michigan"	"26"	"2008"	"2008"	"Black or African American"	"2054-5"	453	1485681	30.5
+	"Michigan"	"26"	"2008"	"2008"	"White"	"2106-3"	614	8118649	7.6
+	"Michigan"	"26"	"2009"	"2009"	"Black or African American"	"2054-5"	447	1481101	30.2
+	"Michigan"	"26"	"2009"	"2009"	"White"	"2106-3"	633	8073343	7.8
+	"Michigan"	"26"	"2010"	"2010"	"Black or African American"	"2054-5"	407	1483261	27.4
+	"Michigan"	"26"	"2010"	"2010"	"White"	"2106-3"	647	8048819	8.0
+	"Michigan"	"26"	"2011"	"2011"	"Black or African American"	"2054-5"	446	1488254	30.0
+	"Michigan"	"26"	"2011"	"2011"	"White"	"2106-3"	684	8026791	8.5
+	"Michigan"	"26"	"2012"	"2012"	"Black or African American"	"2054-5"	528	1488275	35.5
+	"Michigan"	"26"	"2012"	"2012"	"White"	"2106-3"	674	8023676	8.4
+	"Michigan"	"26"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	10	294647	Unreliable
+	"Michigan"	"26"	"2013"	"2013"	"Black or African American"	"2054-5"	461	1485621	31.0
+	"Michigan"	"26"	"2013"	"2013"	"White"	"2106-3"	707	8027063	8.8
+	"Michigan"	"26"	"2014"	"2014"	"Black or African American"	"2054-5"	365	1487623	24.5
+	"Michigan"	"26"	"2014"	"2014"	"White"	"2106-3"	714	8023427	8.9
+	"Michigan"	"26"	"2015"	"2015"	"Black or African American"	"2054-5"	407	1489718	27.3
+	"Michigan"	"26"	"2015"	"2015"	"White"	"2106-3"	733	8018858	9.1
+	"Michigan"	"26"	"2016"	"2016"	"Black or African American"	"2054-5"	447	1488644	30.0
+	"Michigan"	"26"	"2016"	"2016"	"White"	"2106-3"	766	8015307	9.6
+	"Michigan"	"26"	"2017"	"2017"	"Black or African American"	"2054-5"	394	1493499	26.4
+	"Michigan"	"26"	"2017"	"2017"	"White"	"2106-3"	727	8029056	9.1
+	"Minnesota"	"27"	"1999"	"1999"	"Black or African American"	"2054-5"	21	182425	11.5
+	"Minnesota"	"27"	"1999"	"1999"	"White"	"2106-3"	264	4484942	5.9
+	"Minnesota"	"27"	"2000"	"2000"	"Black or African American"	"2054-5"	31	195026	15.9
+	"Minnesota"	"27"	"2000"	"2000"	"White"	"2106-3"	264	4506574	5.9
+	"Minnesota"	"27"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	11	64033	Unreliable
+	"Minnesota"	"27"	"2001"	"2001"	"Black or African American"	"2054-5"	34	208738	16.3
+	"Minnesota"	"27"	"2001"	"2001"	"White"	"2106-3"	266	4544899	5.9
+	"Minnesota"	"27"	"2002"	"2002"	"Black or African American"	"2054-5"	37	219791	16.8
+	"Minnesota"	"27"	"2002"	"2002"	"White"	"2106-3"	254	4561120	5.6
+	"Minnesota"	"27"	"2003"	"2003"	"Black or African American"	"2054-5"	32	231089	13.8
+	"Minnesota"	"27"	"2003"	"2003"	"White"	"2106-3"	285	4576328	6.2
+	"Minnesota"	"27"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	10	68115	Unreliable
+	"Minnesota"	"27"	"2004"	"2004"	"Black or African American"	"2054-5"	45	242890	18.5
+	"Minnesota"	"27"	"2004"	"2004"	"White"	"2106-3"	296	4589934	6.4
+	"Minnesota"	"27"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	22	70018	31.4
+	"Minnesota"	"27"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	12	194207	Unreliable
+	"Minnesota"	"27"	"2005"	"2005"	"Black or African American"	"2054-5"	45	254634	17.7
+	"Minnesota"	"27"	"2005"	"2005"	"White"	"2106-3"	280	4600739	6.1
+	"Minnesota"	"27"	"2006"	"2006"	"Black or African American"	"2054-5"	44	268698	16.4
+	"Minnesota"	"27"	"2006"	"2006"	"White"	"2106-3"	269	4620491	5.8
+	"Minnesota"	"27"	"2007"	"2007"	"Black or African American"	"2054-5"	44	282436	15.6
+	"Minnesota"	"27"	"2007"	"2007"	"White"	"2106-3"	282	4640023	6.1
+	"Minnesota"	"27"	"2008"	"2008"	"Black or African American"	"2054-5"	38	294544	12.9
+	"Minnesota"	"27"	"2008"	"2008"	"White"	"2106-3"	322	4657575	6.9
+	"Minnesota"	"27"	"2009"	"2009"	"Black or African American"	"2054-5"	24	304750	7.9
+	"Minnesota"	"27"	"2009"	"2009"	"White"	"2106-3"	295	4672941	6.3
+	"Minnesota"	"27"	"2010"	"2010"	"Black or African American"	"2054-5"	32	311471	10.3
+	"Minnesota"	"27"	"2010"	"2010"	"White"	"2106-3"	307	4682126	6.6
+	"Minnesota"	"27"	"2011"	"2011"	"Black or African American"	"2054-5"	31	319140	9.7
+	"Minnesota"	"27"	"2011"	"2011"	"White"	"2106-3"	345	4706165	7.3
+	"Minnesota"	"27"	"2012"	"2012"	"Black or African American"	"2054-5"	44	332106	13.2
+	"Minnesota"	"27"	"2012"	"2012"	"White"	"2106-3"	322	4716540	6.8
+	"Minnesota"	"27"	"2013"	"2013"	"Black or African American"	"2054-5"	40	343718	11.6
+	"Minnesota"	"27"	"2013"	"2013"	"White"	"2106-3"	366	4734133	7.7
+	"Minnesota"	"27"	"2014"	"2014"	"Black or African American"	"2054-5"	37	357154	10.4
+	"Minnesota"	"27"	"2014"	"2014"	"White"	"2106-3"	328	4743448	6.9
+	"Minnesota"	"27"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	13	84122	Unreliable
+	"Minnesota"	"27"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	11	285588	Unreliable
+	"Minnesota"	"27"	"2015"	"2015"	"Black or African American"	"2054-5"	53	366862	14.4
+	"Minnesota"	"27"	"2015"	"2015"	"White"	"2106-3"	326	4753022	6.9
+	"Minnesota"	"27"	"2016"	"2016"	"Black or African American"	"2054-5"	46	383880	12.0
+	"Minnesota"	"27"	"2016"	"2016"	"White"	"2106-3"	361	4760630	7.6
+	"Minnesota"	"27"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	11	303639	Unreliable
+	"Minnesota"	"27"	"2017"	"2017"	"Black or African American"	"2054-5"	47	406448	11.6
+	"Minnesota"	"27"	"2017"	"2017"	"White"	"2106-3"	392	4779768	8.2
+	"Mississippi"	"28"	"1999"	"1999"	"Black or African American"	"2054-5"	218	1038253	21.0
+	"Mississippi"	"28"	"1999"	"1999"	"White"	"2106-3"	287	1760835	16.3
+	"Mississippi"	"28"	"2000"	"2000"	"Black or African American"	"2054-5"	211	1041069	20.3
+	"Mississippi"	"28"	"2000"	"2000"	"White"	"2106-3"	256	1770126	14.5
+	"Mississippi"	"28"	"2001"	"2001"	"Black or African American"	"2054-5"	177	1046375	16.9
+	"Mississippi"	"28"	"2001"	"2001"	"White"	"2106-3"	315	1771836	17.8
+	"Mississippi"	"28"	"2002"	"2002"	"Black or African American"	"2054-5"	201	1049194	19.2
+	"Mississippi"	"28"	"2002"	"2002"	"White"	"2106-3"	282	1773296	15.9
+	"Mississippi"	"28"	"2003"	"2003"	"Black or African American"	"2054-5"	190	1053803	18.0
+	"Mississippi"	"28"	"2003"	"2003"	"White"	"2106-3"	281	1776834	15.8
+	"Mississippi"	"28"	"2004"	"2004"	"Black or African American"	"2054-5"	182	1062637	17.1
+	"Mississippi"	"28"	"2004"	"2004"	"White"	"2106-3"	281	1786952	15.7
+	"Mississippi"	"28"	"2005"	"2005"	"Black or African American"	"2054-5"	168	1070369	15.7
+	"Mississippi"	"28"	"2005"	"2005"	"White"	"2106-3"	279	1794500	15.5
+	"Mississippi"	"28"	"2006"	"2006"	"Black or African American"	"2054-5"	219	1080399	20.3
+	"Mississippi"	"28"	"2006"	"2006"	"White"	"2106-3"	247	1782659	13.9
+	"Mississippi"	"28"	"2007"	"2007"	"Black or African American"	"2054-5"	221	1092496	20.2
+	"Mississippi"	"28"	"2007"	"2007"	"White"	"2106-3"	309	1792287	17.2
+	"Mississippi"	"28"	"2008"	"2008"	"Black or African American"	"2054-5"	220	1103216	19.9
+	"Mississippi"	"28"	"2008"	"2008"	"White"	"2106-3"	338	1799399	18.8
+	"Mississippi"	"28"	"2009"	"2009"	"Black or African American"	"2054-5"	186	1108721	16.8
+	"Mississippi"	"28"	"2009"	"2009"	"White"	"2106-3"	295	1803266	16.4
+	"Mississippi"	"28"	"2010"	"2010"	"Black or African American"	"2054-5"	180	1115323	16.1
+	"Mississippi"	"28"	"2010"	"2010"	"White"	"2106-3"	291	1804239	16.1
+	"Mississippi"	"28"	"2011"	"2011"	"Black or African American"	"2054-5"	198	1125114	17.6
+	"Mississippi"	"28"	"2011"	"2011"	"White"	"2106-3"	328	1803538	18.2
+	"Mississippi"	"28"	"2012"	"2012"	"Black or African American"	"2054-5"	176	1129882	15.6
+	"Mississippi"	"28"	"2012"	"2012"	"White"	"2106-3"	352	1804534	19.5
+	"Mississippi"	"28"	"2013"	"2013"	"Black or African American"	"2054-5"	218	1133698	19.2
+	"Mississippi"	"28"	"2013"	"2013"	"White"	"2106-3"	301	1805480	16.7
+	"Mississippi"	"28"	"2014"	"2014"	"Black or African American"	"2054-5"	241	1137829	21.2
+	"Mississippi"	"28"	"2014"	"2014"	"White"	"2106-3"	295	1803115	16.4
+	"Mississippi"	"28"	"2015"	"2015"	"Black or African American"	"2054-5"	247	1140310	21.7
+	"Mississippi"	"28"	"2015"	"2015"	"White"	"2106-3"	337	1797286	18.8
+	"Mississippi"	"28"	"2016"	"2016"	"Black or African American"	"2054-5"	258	1142681	22.6
+	"Mississippi"	"28"	"2016"	"2016"	"White"	"2106-3"	319	1790820	17.8
+	"Mississippi"	"28"	"2017"	"2017"	"Black or African American"	"2054-5"	282	1142650	24.7
+	"Mississippi"	"28"	"2017"	"2017"	"White"	"2106-3"	339	1785378	19.0
+	"Missouri"	"29"	"1999"	"1999"	"Black or African American"	"2054-5"	186	642019	29.0
+	"Missouri"	"29"	"1999"	"1999"	"White"	"2106-3"	514	4824973	10.7
+	"Missouri"	"29"	"2000"	"2000"	"Black or African American"	"2054-5"	199	649528	30.6
+	"Missouri"	"29"	"2000"	"2000"	"White"	"2106-3"	536	4841938	11.1
+	"Missouri"	"29"	"2001"	"2001"	"Black or African American"	"2054-5"	225	661223	34.0
+	"Missouri"	"29"	"2001"	"2001"	"White"	"2106-3"	515	4870383	10.6
+	"Missouri"	"29"	"2002"	"2002"	"Black or African American"	"2054-5"	188	669160	28.1
+	"Missouri"	"29"	"2002"	"2002"	"White"	"2106-3"	500	4891238	10.2
+	"Missouri"	"29"	"2003"	"2003"	"Black or African American"	"2054-5"	166	676844	24.5
+	"Missouri"	"29"	"2003"	"2003"	"White"	"2106-3"	485	4913336	9.9
+	"Missouri"	"29"	"2004"	"2004"	"Black or African American"	"2054-5"	193	685468	28.2
+	"Missouri"	"29"	"2004"	"2004"	"White"	"2106-3"	465	4937590	9.4
+	"Missouri"	"29"	"2005"	"2005"	"Black or African American"	"2054-5"	213	694231	30.7
+	"Missouri"	"29"	"2005"	"2005"	"White"	"2106-3"	533	4965900	10.7
+	"Missouri"	"29"	"2006"	"2006"	"Black or African American"	"2054-5"	246	704464	34.9
+	"Missouri"	"29"	"2006"	"2006"	"White"	"2106-3"	513	5002188	10.3
+	"Missouri"	"29"	"2007"	"2007"	"Black or African American"	"2054-5"	211	712454	29.6
+	"Missouri"	"29"	"2007"	"2007"	"White"	"2106-3"	536	5033689	10.6
+	"Missouri"	"29"	"2008"	"2008"	"Black or African American"	"2054-5"	266	719723	37.0
+	"Missouri"	"29"	"2008"	"2008"	"White"	"2106-3"	543	5057536	10.7
+	"Missouri"	"29"	"2009"	"2009"	"Black or African American"	"2054-5"	248	728187	34.1
+	"Missouri"	"29"	"2009"	"2009"	"White"	"2106-3"	565	5081387	11.1
+	"Missouri"	"29"	"2010"	"2010"	"Black or African American"	"2054-5"	262	734657	35.7
+	"Missouri"	"29"	"2010"	"2010"	"White"	"2106-3"	569	5098388	11.2
+	"Missouri"	"29"	"2011"	"2011"	"Black or African American"	"2054-5"	251	740525	33.9
+	"Missouri"	"29"	"2011"	"2011"	"White"	"2106-3"	590	5110036	11.5
+	"Missouri"	"29"	"2012"	"2012"	"Black or African American"	"2054-5"	248	743924	33.3
+	"Missouri"	"29"	"2012"	"2012"	"White"	"2106-3"	627	5112730	12.3
+	"Missouri"	"29"	"2013"	"2013"	"Black or African American"	"2054-5"	224	749790	29.9
+	"Missouri"	"29"	"2013"	"2013"	"White"	"2106-3"	640	5124168	12.5
+	"Missouri"	"29"	"2014"	"2014"	"Black or African American"	"2054-5"	250	755768	33.1
+	"Missouri"	"29"	"2014"	"2014"	"White"	"2106-3"	675	5130149	13.2
+	"Missouri"	"29"	"2015"	"2015"	"Black or African American"	"2054-5"	359	761321	47.2
+	"Missouri"	"29"	"2015"	"2015"	"White"	"2106-3"	718	5137798	14.0
+	"Missouri"	"29"	"2016"	"2016"	"Black or African American"	"2054-5"	359	765154	46.9
+	"Missouri"	"29"	"2016"	"2016"	"White"	"2106-3"	763	5141898	14.8
+	"Missouri"	"29"	"2017"	"2017"	"Black or African American"	"2054-5"	446	768926	58.0
+	"Missouri"	"29"	"2017"	"2017"	"White"	"2106-3"	846	5152579	16.4
+	"Montana"	"30"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	13	58604	Unreliable
+	"Montana"	"30"	"1999"	"1999"	"White"	"2106-3"	110	830780	13.2
+	"Montana"	"30"	"2000"	"2000"	"White"	"2106-3"	125	832467	15.0
+	"Montana"	"30"	"2001"	"2001"	"White"	"2106-3"	149	835441	17.8
+	"Montana"	"30"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	13	61507	Unreliable
+	"Montana"	"30"	"2002"	"2002"	"White"	"2106-3"	119	838973	14.2
+	"Montana"	"30"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	10	62325	Unreliable
+	"Montana"	"30"	"2003"	"2003"	"White"	"2106-3"	131	845586	15.5
+	"Montana"	"30"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	13	63172	Unreliable
+	"Montana"	"30"	"2004"	"2004"	"White"	"2106-3"	110	854417	12.9
+	"Montana"	"30"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	10	64369	Unreliable
+	"Montana"	"30"	"2005"	"2005"	"White"	"2106-3"	148	862916	17.2
+	"Montana"	"30"	"2006"	"2006"	"White"	"2106-3"	112	874054	12.8
+	"Montana"	"30"	"2007"	"2007"	"White"	"2106-3"	130	884439	14.7
+	"Montana"	"30"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	13	67202	Unreliable
+	"Montana"	"30"	"2008"	"2008"	"White"	"2106-3"	139	894799	15.5
+	"Montana"	"30"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	10	68342	Unreliable
+	"Montana"	"30"	"2009"	"2009"	"White"	"2106-3"	154	900620	17.1
+	"Montana"	"30"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	10	69329	Unreliable
+	"Montana"	"30"	"2010"	"2010"	"White"	"2106-3"	152	905118	16.8
+	"Montana"	"30"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	13	70075	Unreliable
+	"Montana"	"30"	"2011"	"2011"	"White"	"2106-3"	154	911044	16.9
+	"Montana"	"30"	"2012"	"2012"	"White"	"2106-3"	158	915857	17.3
+	"Montana"	"30"	"2013"	"2013"	"White"	"2106-3"	153	923756	16.6
+	"Montana"	"30"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	11	73410	Unreliable
+	"Montana"	"30"	"2014"	"2014"	"White"	"2106-3"	154	930226	16.6
+	"Montana"	"30"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	12	74383	Unreliable
+	"Montana"	"30"	"2015"	"2015"	"White"	"2106-3"	186	937867	19.8
+	"Montana"	"30"	"2016"	"2016"	"White"	"2106-3"	182	946324	19.2
+	"Montana"	"30"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	16	76587	Unreliable
+	"Montana"	"30"	"2017"	"2017"	"White"	"2106-3"	221	952702	23.2
+	"Nebraska"	"31"	"1999"	"1999"	"Black or African American"	"2054-5"	19	72024	Unreliable
+	"Nebraska"	"31"	"1999"	"1999"	"White"	"2106-3"	125	1594738	7.8
+	"Nebraska"	"31"	"2000"	"2000"	"Black or African American"	"2054-5"	16	74476	Unreliable
+	"Nebraska"	"31"	"2000"	"2000"	"White"	"2106-3"	148	1594895	9.3
+	"Nebraska"	"31"	"2001"	"2001"	"Black or African American"	"2054-5"	11	76777	Unreliable
+	"Nebraska"	"31"	"2001"	"2001"	"White"	"2106-3"	124	1598826	7.8
+	"Nebraska"	"31"	"2002"	"2002"	"Black or African American"	"2054-5"	14	78371	Unreliable
+	"Nebraska"	"31"	"2002"	"2002"	"White"	"2106-3"	121	1603540	7.5
+	"Nebraska"	"31"	"2003"	"2003"	"Black or African American"	"2054-5"	19	80408	Unreliable
+	"Nebraska"	"31"	"2003"	"2003"	"White"	"2106-3"	106	1609719	6.6
+	"Nebraska"	"31"	"2004"	"2004"	"Black or African American"	"2054-5"	11	82391	Unreliable
+	"Nebraska"	"31"	"2004"	"2004"	"White"	"2106-3"	106	1616304	6.6
+	"Nebraska"	"31"	"2005"	"2005"	"Black or African American"	"2054-5"	19	84487	Unreliable
+	"Nebraska"	"31"	"2005"	"2005"	"White"	"2106-3"	110	1624229	6.8
+	"Nebraska"	"31"	"2006"	"2006"	"Black or African American"	"2054-5"	14	86994	Unreliable
+	"Nebraska"	"31"	"2006"	"2006"	"White"	"2106-3"	125	1630684	7.7
+	"Nebraska"	"31"	"2007"	"2007"	"Black or African American"	"2054-5"	17	89065	Unreliable
+	"Nebraska"	"31"	"2007"	"2007"	"White"	"2106-3"	121	1637196	7.4
+	"Nebraska"	"31"	"2008"	"2008"	"Black or African American"	"2054-5"	26	91900	28.3
+	"Nebraska"	"31"	"2008"	"2008"	"White"	"2106-3"	119	1644461	7.2
+	"Nebraska"	"31"	"2009"	"2009"	"Black or African American"	"2054-5"	21	94396	22.2
+	"Nebraska"	"31"	"2009"	"2009"	"White"	"2106-3"	108	1656315	6.5
+	"Nebraska"	"31"	"2010"	"2010"	"Black or African American"	"2054-5"	28	96172	29.1
+	"Nebraska"	"31"	"2010"	"2010"	"White"	"2106-3"	120	1666286	7.2
+	"Nebraska"	"31"	"2011"	"2011"	"Black or African American"	"2054-5"	30	98120	30.6
+	"Nebraska"	"31"	"2011"	"2011"	"White"	"2106-3"	130	1678482	7.7
+	"Nebraska"	"31"	"2012"	"2012"	"Black or African American"	"2054-5"	26	100174	26.0
+	"Nebraska"	"31"	"2012"	"2012"	"White"	"2106-3"	136	1687030	8.1
+	"Nebraska"	"31"	"2013"	"2013"	"Black or African American"	"2054-5"	26	102463	25.4
+	"Nebraska"	"31"	"2013"	"2013"	"White"	"2106-3"	139	1694611	8.2
+	"Nebraska"	"31"	"2014"	"2014"	"Black or African American"	"2054-5"	24	104828	22.9
+	"Nebraska"	"31"	"2014"	"2014"	"White"	"2106-3"	152	1701738	8.9
+	"Nebraska"	"31"	"2015"	"2015"	"Black or African American"	"2054-5"	30	106950	28.1
+	"Nebraska"	"31"	"2015"	"2015"	"White"	"2106-3"	136	1709900	8.0
+	"Nebraska"	"31"	"2016"	"2016"	"Black or African American"	"2054-5"	31	108122	28.7
+	"Nebraska"	"31"	"2016"	"2016"	"White"	"2106-3"	130	1715806	7.6
+	"Nebraska"	"31"	"2017"	"2017"	"Black or African American"	"2054-5"	18	111036	Unreliable
+	"Nebraska"	"31"	"2017"	"2017"	"White"	"2106-3"	139	1722394	8.1
+	"Nevada"	"32"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	10	102327	Unreliable
+	"Nevada"	"32"	"1999"	"1999"	"Black or African American"	"2054-5"	35	143853	24.3
+	"Nevada"	"32"	"1999"	"1999"	"White"	"2106-3"	316	1657752	19.1
+	"Nevada"	"32"	"2000"	"2000"	"Black or African American"	"2054-5"	37	149647	24.7
+	"Nevada"	"32"	"2000"	"2000"	"White"	"2106-3"	293	1705295	17.2
+	"Nevada"	"32"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	10	33816	Unreliable
+	"Nevada"	"32"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	14	125577	Unreliable
+	"Nevada"	"32"	"2001"	"2001"	"Black or African American"	"2054-5"	42	161746	26.0
+	"Nevada"	"32"	"2001"	"2001"	"White"	"2106-3"	268	1777260	15.1
+	"Nevada"	"32"	"2002"	"2002"	"Black or African American"	"2054-5"	55	171629	32.0
+	"Nevada"	"32"	"2002"	"2002"	"White"	"2106-3"	298	1828699	16.3
+	"Nevada"	"32"	"2003"	"2003"	"Black or African American"	"2054-5"	57	181213	31.5
+	"Nevada"	"32"	"2003"	"2003"	"White"	"2106-3"	303	1880102	16.1
+	"Nevada"	"32"	"2004"	"2004"	"Black or African American"	"2054-5"	42	194114	21.6
+	"Nevada"	"32"	"2004"	"2004"	"White"	"2106-3"	334	1947914	17.1
+	"Nevada"	"32"	"2005"	"2005"	"Black or African American"	"2054-5"	42	207275	20.3
+	"Nevada"	"32"	"2005"	"2005"	"White"	"2106-3"	333	2002853	16.6
+	"Nevada"	"32"	"2006"	"2006"	"Black or African American"	"2054-5"	61	221504	27.5
+	"Nevada"	"32"	"2006"	"2006"	"White"	"2106-3"	323	2060010	15.7
+	"Nevada"	"32"	"2007"	"2007"	"Black or African American"	"2054-5"	56	233966	23.9
+	"Nevada"	"32"	"2007"	"2007"	"White"	"2106-3"	343	2107687	16.3
+	"Nevada"	"32"	"2008"	"2008"	"Black or African American"	"2054-5"	39	244200	16.0
+	"Nevada"	"32"	"2008"	"2008"	"White"	"2106-3"	349	2135244	16.3
+	"Nevada"	"32"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	11	235624	Unreliable
+	"Nevada"	"32"	"2009"	"2009"	"Black or African American"	"2054-5"	40	251426	15.9
+	"Nevada"	"32"	"2009"	"2009"	"White"	"2106-3"	349	2148708	16.2
+	"Nevada"	"32"	"2010"	"2010"	"Black or African American"	"2054-5"	34	255727	13.3
+	"Nevada"	"32"	"2010"	"2010"	"White"	"2106-3"	339	2152677	15.7
+	"Nevada"	"32"	"2011"	"2011"	"Black or African American"	"2054-5"	34	259830	13.1
+	"Nevada"	"32"	"2011"	"2011"	"White"	"2106-3"	314	2163970	14.5
+	"Nevada"	"32"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	15	258291	Unreliable
+	"Nevada"	"32"	"2012"	"2012"	"Black or African American"	"2054-5"	41	271301	15.1
+	"Nevada"	"32"	"2012"	"2012"	"White"	"2106-3"	290	2177660	13.3
+	"Nevada"	"32"	"2013"	"2013"	"Black or African American"	"2054-5"	40	278299	14.4
+	"Nevada"	"32"	"2013"	"2013"	"White"	"2106-3"	339	2191057	15.5
+	"Nevada"	"32"	"2014"	"2014"	"Black or African American"	"2054-5"	55	287687	19.1
+	"Nevada"	"32"	"2014"	"2014"	"White"	"2106-3"	352	2217014	15.9
+	"Nevada"	"32"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	15	292939	Unreliable
+	"Nevada"	"32"	"2015"	"2015"	"Black or African American"	"2054-5"	55	298727	18.4
+	"Nevada"	"32"	"2015"	"2015"	"White"	"2106-3"	357	2243778	15.9
+	"Nevada"	"32"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	26	302266	8.6
+	"Nevada"	"32"	"2016"	"2016"	"Black or African American"	"2054-5"	86	313615	27.4
+	"Nevada"	"32"	"2016"	"2016"	"White"	"2106-3"	372	2267822	16.4
+	"Nevada"	"32"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	23	314262	7.3
+	"Nevada"	"32"	"2017"	"2017"	"Black or African American"	"2054-5"	78	328672	23.7
+	"Nevada"	"32"	"2017"	"2017"	"White"	"2106-3"	388	2297024	16.9
+	"New Hampshire"	"33"	"1999"	"1999"	"White"	"2106-3"	70	1192000	5.9
+	"New Hampshire"	"33"	"2000"	"2000"	"White"	"2106-3"	77	1202862	6.4
+	"New Hampshire"	"33"	"2001"	"2001"	"White"	"2106-3"	90	1218748	7.4
+	"New Hampshire"	"33"	"2002"	"2002"	"White"	"2106-3"	73	1229485	5.9
+	"New Hampshire"	"33"	"2003"	"2003"	"White"	"2106-3"	85	1237630	6.9
+	"New Hampshire"	"33"	"2004"	"2004"	"White"	"2106-3"	68	1245528	5.5
+	"New Hampshire"	"33"	"2005"	"2005"	"White"	"2106-3"	88	1251338	7.0
+	"New Hampshire"	"33"	"2006"	"2006"	"White"	"2106-3"	82	1258795	6.5
+	"New Hampshire"	"33"	"2007"	"2007"	"White"	"2106-3"	77	1261147	6.1
+	"New Hampshire"	"33"	"2008"	"2008"	"White"	"2106-3"	93	1262351	7.4
+	"New Hampshire"	"33"	"2009"	"2009"	"White"	"2106-3"	87	1260984	6.9
+	"New Hampshire"	"33"	"2010"	"2010"	"White"	"2106-3"	115	1260654	9.1
+	"New Hampshire"	"33"	"2011"	"2011"	"White"	"2106-3"	86	1260043	6.8
+	"New Hampshire"	"33"	"2012"	"2012"	"White"	"2106-3"	114	1260026	9.0
+	"New Hampshire"	"33"	"2013"	"2013"	"White"	"2106-3"	89	1260482	7.1
+	"New Hampshire"	"33"	"2014"	"2014"	"White"	"2106-3"	118	1261412	9.4
+	"New Hampshire"	"33"	"2015"	"2015"	"White"	"2106-3"	118	1263680	9.3
+	"New Hampshire"	"33"	"2016"	"2016"	"White"	"2106-3"	129	1266167	10.2
+	"New Hampshire"	"33"	"2017"	"2017"	"White"	"2106-3"	141	1271499	11.1
+	"New Jersey"	"34"	"1999"	"1999"	"Black or African American"	"2054-5"	122	1231242	9.9
+	"New Jersey"	"34"	"1999"	"1999"	"White"	"2106-3"	233	6609191	3.5
+	"New Jersey"	"34"	"2000"	"2000"	"Black or African American"	"2054-5"	138	1241469	11.1
+	"New Jersey"	"34"	"2000"	"2000"	"White"	"2106-3"	201	6629830	3.0
+	"New Jersey"	"34"	"2001"	"2001"	"Black or African American"	"2054-5"	152	1257274	12.1
+	"New Jersey"	"34"	"2001"	"2001"	"White"	"2106-3"	212	6652117	3.2
+	"New Jersey"	"34"	"2002"	"2002"	"Black or African American"	"2054-5"	163	1268823	12.8
+	"New Jersey"	"34"	"2002"	"2002"	"White"	"2106-3"	245	6667078	3.7
+	"New Jersey"	"34"	"2003"	"2003"	"Black or African American"	"2054-5"	203	1279601	15.9
+	"New Jersey"	"34"	"2003"	"2003"	"White"	"2106-3"	243	6674697	3.6
+	"New Jersey"	"34"	"2004"	"2004"	"Black or African American"	"2054-5"	204	1288238	15.8
+	"New Jersey"	"34"	"2004"	"2004"	"White"	"2106-3"	239	6670703	3.6
+	"New Jersey"	"34"	"2005"	"2005"	"Black or African American"	"2054-5"	230	1293607	17.8
+	"New Jersey"	"34"	"2005"	"2005"	"White"	"2106-3"	189	6654085	2.8
+	"New Jersey"	"34"	"2006"	"2006"	"Black or African American"	"2054-5"	254	1298653	19.6
+	"New Jersey"	"34"	"2006"	"2006"	"White"	"2106-3"	236	6632976	3.6
+	"New Jersey"	"34"	"2007"	"2007"	"Black or African American"	"2054-5"	220	1304334	16.9
+	"New Jersey"	"34"	"2007"	"2007"	"White"	"2106-3"	218	6615252	3.3
+	"New Jersey"	"34"	"2008"	"2008"	"Black or African American"	"2054-5"	202	1311696	15.4
+	"New Jersey"	"34"	"2008"	"2008"	"White"	"2106-3"	217	6611708	3.3
+	"New Jersey"	"34"	"2009"	"2009"	"Black or African American"	"2054-5"	179	1323532	13.5
+	"New Jersey"	"34"	"2009"	"2009"	"White"	"2106-3"	221	6615988	3.3
+	"New Jersey"	"34"	"2010"	"2010"	"Black or African American"	"2054-5"	225	1333527	16.9
+	"New Jersey"	"34"	"2010"	"2010"	"White"	"2106-3"	224	6621985	3.4
+	"New Jersey"	"34"	"2011"	"2011"	"Black or African American"	"2054-5"	241	1343487	17.9
+	"New Jersey"	"34"	"2011"	"2011"	"White"	"2106-3"	226	6618403	3.4
+	"New Jersey"	"34"	"2012"	"2012"	"Black or African American"	"2054-5"	211	1354962	15.6
+	"New Jersey"	"34"	"2012"	"2012"	"White"	"2106-3"	223	6619471	3.4
+	"New Jersey"	"34"	"2013"	"2013"	"Black or African American"	"2054-5"	239	1366160	17.5
+	"New Jersey"	"34"	"2013"	"2013"	"White"	"2106-3"	252	6618759	3.8
+	"New Jersey"	"34"	"2014"	"2014"	"Black or African American"	"2054-5"	208	1381439	15.1
+	"New Jersey"	"34"	"2014"	"2014"	"White"	"2106-3"	247	6613281	3.7
+	"New Jersey"	"34"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	10	906393	Unreliable
+	"New Jersey"	"34"	"2015"	"2015"	"Black or African American"	"2054-5"	229	1392086	16.5
+	"New Jersey"	"34"	"2015"	"2015"	"White"	"2106-3"	225	6596284	3.4
+	"New Jersey"	"34"	"2016"	"2016"	"Black or African American"	"2054-5"	250	1401290	17.8
+	"New Jersey"	"34"	"2016"	"2016"	"White"	"2106-3"	225	6564595	3.4
+	"New Jersey"	"34"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	10	945732	Unreliable
+	"New Jersey"	"34"	"2017"	"2017"	"Black or African American"	"2054-5"	218	1412387	15.4
+	"New Jersey"	"34"	"2017"	"2017"	"White"	"2106-3"	242	6583130	3.7
+	"New Mexico"	"35"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	24	178885	13.4
+	"New Mexico"	"35"	"1999"	"1999"	"White"	"2106-3"	254	1563421	16.2
+	"New Mexico"	"35"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	16	185372	Unreliable
+	"New Mexico"	"35"	"2000"	"2000"	"White"	"2106-3"	260	1565780	16.6
+	"New Mexico"	"35"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	17	189218	Unreliable
+	"New Mexico"	"35"	"2001"	"2001"	"White"	"2106-3"	237	1572453	15.1
+	"New Mexico"	"35"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	19	192786	Unreliable
+	"New Mexico"	"35"	"2002"	"2002"	"White"	"2106-3"	270	1589442	17.0
+	"New Mexico"	"35"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	32	196291	16.3
+	"New Mexico"	"35"	"2003"	"2003"	"Black or African American"	"2054-5"	10	46932	Unreliable
+	"New Mexico"	"35"	"2003"	"2003"	"White"	"2106-3"	273	1605625	17.0
+	"New Mexico"	"35"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	16	199634	Unreliable
+	"New Mexico"	"35"	"2004"	"2004"	"White"	"2106-3"	258	1625510	15.9
+	"New Mexico"	"35"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	14	202659	Unreliable
+	"New Mexico"	"35"	"2005"	"2005"	"White"	"2106-3"	245	1648132	14.9
+	"New Mexico"	"35"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	12	205369	Unreliable
+	"New Mexico"	"35"	"2006"	"2006"	"White"	"2106-3"	251	1672039	15.0
+	"New Mexico"	"35"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	16	209060	Unreliable
+	"New Mexico"	"35"	"2007"	"2007"	"White"	"2106-3"	262	1693476	15.5
+	"New Mexico"	"35"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	22	213396	10.3
+	"New Mexico"	"35"	"2008"	"2008"	"White"	"2106-3"	256	1707457	15.0
+	"New Mexico"	"35"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	23	217796	10.6
+	"New Mexico"	"35"	"2009"	"2009"	"White"	"2106-3"	262	1725799	15.2
+	"New Mexico"	"35"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	20	220615	9.1
+	"New Mexico"	"35"	"2010"	"2010"	"White"	"2106-3"	258	1742790	14.8
+	"New Mexico"	"35"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	20	222486	9.0
+	"New Mexico"	"35"	"2011"	"2011"	"Black or African American"	"2054-5"	10	61456	Unreliable
+	"New Mexico"	"35"	"2011"	"2011"	"White"	"2106-3"	268	1758658	15.2
+	"New Mexico"	"35"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	21	225079	9.3
+	"New Mexico"	"35"	"2012"	"2012"	"Black or African American"	"2054-5"	10	60900	Unreliable
+	"New Mexico"	"35"	"2012"	"2012"	"White"	"2106-3"	281	1758585	16.0
+	"New Mexico"	"35"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	12	228157	Unreliable
+	"New Mexico"	"35"	"2013"	"2013"	"White"	"2106-3"	291	1753479	16.6
+	"New Mexico"	"35"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	17	229626	Unreliable
+	"New Mexico"	"35"	"2014"	"2014"	"Black or African American"	"2054-5"	15	63023	Unreliable
+	"New Mexico"	"35"	"2014"	"2014"	"White"	"2106-3"	293	1750345	16.7
+	"New Mexico"	"35"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	18	231645	Unreliable
+	"New Mexico"	"35"	"2015"	"2015"	"White"	"2106-3"	341	1745634	19.5
+	"New Mexico"	"35"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	22	232324	9.5
+	"New Mexico"	"35"	"2016"	"2016"	"White"	"2106-3"	329	1742956	18.9
+	"New Mexico"	"35"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	22	239695	9.2
+	"New Mexico"	"35"	"2017"	"2017"	"Black or African American"	"2054-5"	14	63539	Unreliable
+	"New Mexico"	"35"	"2017"	"2017"	"White"	"2106-3"	340	1740703	19.5
+	"New York"	"36"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	14	1122472	Unreliable
+	"New York"	"36"	"1999"	"1999"	"Black or African American"	"2054-5"	369	3410768	10.8
+	"New York"	"36"	"1999"	"1999"	"White"	"2106-3"	622	14235763	4.4
+	"New York"	"36"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	21	1157977	1.8
+	"New York"	"36"	"2000"	"2000"	"Black or African American"	"2054-5"	410	3434584	11.9
+	"New York"	"36"	"2000"	"2000"	"White"	"2106-3"	648	14263541	4.5
+	"New York"	"36"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	13	1213384	Unreliable
+	"New York"	"36"	"2001"	"2001"	"Black or African American"	"2054-5"	410	3457658	11.9
+	"New York"	"36"	"2001"	"2001"	"White"	"2106-3"	633	14281400	4.4
+	"New York"	"36"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	14	1255048	Unreliable
+	"New York"	"36"	"2002"	"2002"	"Black or African American"	"2054-5"	390	3467250	11.2
+	"New York"	"36"	"2002"	"2002"	"White"	"2106-3"	574	14276260	4.0
+	"New York"	"36"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	16	1293519	Unreliable
+	"New York"	"36"	"2003"	"2003"	"Black or African American"	"2054-5"	421	3471007	12.1
+	"New York"	"36"	"2003"	"2003"	"White"	"2106-3"	584	14263472	4.1
+	"New York"	"36"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	13	1327853	Unreliable
+	"New York"	"36"	"2004"	"2004"	"Black or African American"	"2054-5"	360	3464246	10.4
+	"New York"	"36"	"2004"	"2004"	"White"	"2106-3"	568	14222791	4.0
+	"New York"	"36"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	15	1362726	Unreliable
+	"New York"	"36"	"2005"	"2005"	"Black or African American"	"2054-5"	390	3457681	11.3
+	"New York"	"36"	"2005"	"2005"	"White"	"2106-3"	605	14146723	4.3
+	"New York"	"36"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	12	1398778	Unreliable
+	"New York"	"36"	"2006"	"2006"	"Black or African American"	"2054-5"	405	3453892	11.7
+	"New York"	"36"	"2006"	"2006"	"White"	"2106-3"	575	14077386	4.1
+	"New York"	"36"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	11	1439779	Unreliable
+	"New York"	"36"	"2007"	"2007"	"Black or African American"	"2054-5"	391	3456802	11.3
+	"New York"	"36"	"2007"	"2007"	"White"	"2106-3"	571	14051624	4.1
+	"New York"	"36"	"2008"	"2008"	"Black or African American"	"2054-5"	368	3473867	10.6
+	"New York"	"36"	"2008"	"2008"	"White"	"2106-3"	576	14057786	4.1
+	"New York"	"36"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	17	1529520	Unreliable
+	"New York"	"36"	"2009"	"2009"	"Black or African American"	"2054-5"	368	3498751	10.5
+	"New York"	"36"	"2009"	"2009"	"White"	"2106-3"	554	14072238	3.9
+	"New York"	"36"	"2010"	"2010"	"Black or African American"	"2054-5"	414	3523196	11.8
+	"New York"	"36"	"2010"	"2010"	"White"	"2106-3"	583	14078317	4.1
+	"New York"	"36"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	10	1599823	Unreliable
+	"New York"	"36"	"2011"	"2011"	"Black or African American"	"2054-5"	324	3556174	9.1
+	"New York"	"36"	"2011"	"2011"	"White"	"2106-3"	647	14092429	4.6
+	"New York"	"36"	"2012"	"2012"	"Black or African American"	"2054-5"	339	3583475	9.5
+	"New York"	"36"	"2012"	"2012"	"White"	"2106-3"	608	14117965	4.3
+	"New York"	"36"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	23	1697670	1.4
+	"New York"	"36"	"2013"	"2013"	"Black or African American"	"2054-5"	296	3606924	8.2
+	"New York"	"36"	"2013"	"2013"	"White"	"2106-3"	530	14125951	3.8
+	"New York"	"36"	"2014"	"2014"	"Black or African American"	"2054-5"	282	3648167	7.7
+	"New York"	"36"	"2014"	"2014"	"White"	"2106-3"	568	14107369	4.0
+	"New York"	"36"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	13	1826093	Unreliable
+	"New York"	"36"	"2015"	"2015"	"Black or African American"	"2054-5"	316	3665284	8.6
+	"New York"	"36"	"2015"	"2015"	"White"	"2106-3"	508	14080073	3.6
+	"New York"	"36"	"2016"	"2016"	"Black or African American"	"2054-5"	296	3667316	8.1
+	"New York"	"36"	"2016"	"2016"	"White"	"2106-3"	578	14007968	4.1
+	"New York"	"36"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	11	1902407	Unreliable
+	"New York"	"36"	"2017"	"2017"	"Black or African American"	"2054-5"	245	3695842	6.6
+	"New York"	"36"	"2017"	"2017"	"White"	"2106-3"	500	14023221	3.6
+	"North Carolina"	"37"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	26	101801	25.5
+	"North Carolina"	"37"	"1999"	"1999"	"Black or African American"	"2054-5"	314	1758625	17.9
+	"North Carolina"	"37"	"1999"	"1999"	"White"	"2106-3"	709	5970867	11.9
+	"North Carolina"	"37"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	28	106635	26.3
+	"North Carolina"	"37"	"2000"	"2000"	"Black or African American"	"2054-5"	332	1775634	18.7
+	"North Carolina"	"37"	"2000"	"2000"	"White"	"2106-3"	742	6037509	12.3
+	"North Carolina"	"37"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	18	111924	Unreliable
+	"North Carolina"	"37"	"2001"	"2001"	"Black or African American"	"2054-5"	273	1814985	15.0
+	"North Carolina"	"37"	"2001"	"2001"	"White"	"2106-3"	791	6141590	12.9
+	"North Carolina"	"37"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	12	116503	Unreliable
+	"North Carolina"	"37"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	10	150636	Unreliable
+	"North Carolina"	"37"	"2002"	"2002"	"Black or African American"	"2054-5"	315	1844291	17.1
+	"North Carolina"	"37"	"2002"	"2002"	"White"	"2106-3"	791	6214771	12.7
+	"North Carolina"	"37"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	16	121091	Unreliable
+	"North Carolina"	"37"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	10	160226	Unreliable
+	"North Carolina"	"37"	"2003"	"2003"	"Black or African American"	"2054-5"	265	1869334	14.2
+	"North Carolina"	"37"	"2003"	"2003"	"White"	"2106-3"	762	6271850	12.1
+	"North Carolina"	"37"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	23	125786	18.3
+	"North Carolina"	"37"	"2004"	"2004"	"Black or African American"	"2054-5"	293	1901343	15.4
+	"North Carolina"	"37"	"2004"	"2004"	"White"	"2106-3"	731	6355906	11.5
+	"North Carolina"	"37"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	27	130692	20.7
+	"North Carolina"	"37"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	10	181273	Unreliable
+	"North Carolina"	"37"	"2005"	"2005"	"Black or African American"	"2054-5"	313	1936792	16.2
+	"North Carolina"	"37"	"2005"	"2005"	"White"	"2106-3"	764	6456650	11.8
+	"North Carolina"	"37"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	24	136103	17.6
+	"North Carolina"	"37"	"2006"	"2006"	"Black or African American"	"2054-5"	324	1986797	16.3
+	"North Carolina"	"37"	"2006"	"2006"	"White"	"2106-3"	771	6600137	11.7
+	"North Carolina"	"37"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	24	141646	16.9
+	"North Carolina"	"37"	"2007"	"2007"	"Black or African American"	"2054-5"	329	2035660	16.2
+	"North Carolina"	"37"	"2007"	"2007"	"White"	"2106-3"	751	6733129	11.2
+	"North Carolina"	"37"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	20	147170	13.6
+	"North Carolina"	"37"	"2008"	"2008"	"Black or African American"	"2054-5"	304	2084901	14.6
+	"North Carolina"	"37"	"2008"	"2008"	"White"	"2106-3"	824	6856233	12.0
+	"North Carolina"	"37"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	19	152931	Unreliable
+	"North Carolina"	"37"	"2009"	"2009"	"Black or African American"	"2054-5"	289	2125058	13.6
+	"North Carolina"	"37"	"2009"	"2009"	"White"	"2106-3"	795	6939518	11.5
+	"North Carolina"	"37"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	24	157331	15.3
+	"North Carolina"	"37"	"2010"	"2010"	"Black or African American"	"2054-5"	244	2151978	11.3
+	"North Carolina"	"37"	"2010"	"2010"	"White"	"2106-3"	850	6985358	12.2
+	"North Carolina"	"37"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	21	159075	13.2
+	"North Carolina"	"37"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	10	251639	Unreliable
+	"North Carolina"	"37"	"2011"	"2011"	"Black or African American"	"2054-5"	277	2188334	12.7
+	"North Carolina"	"37"	"2011"	"2011"	"White"	"2106-3"	844	7057353	12.0
+	"North Carolina"	"37"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	17	160771	Unreliable
+	"North Carolina"	"37"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	12	265858	Unreliable
+	"North Carolina"	"37"	"2012"	"2012"	"Black or African American"	"2054-5"	282	2217811	12.7
+	"North Carolina"	"37"	"2012"	"2012"	"White"	"2106-3"	857	7107633	12.1
+	"North Carolina"	"37"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	16	163239	Unreliable
+	"North Carolina"	"37"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	12	279871	Unreliable
+	"North Carolina"	"37"	"2013"	"2013"	"Black or African American"	"2054-5"	333	2244173	14.8
+	"North Carolina"	"37"	"2013"	"2013"	"White"	"2106-3"	855	7160777	11.9
+	"North Carolina"	"37"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	22	164993	13.3
+	"North Carolina"	"37"	"2014"	"2014"	"Black or African American"	"2054-5"	321	2272052	14.1
+	"North Carolina"	"37"	"2014"	"2014"	"White"	"2106-3"	844	7210010	11.7
+	"North Carolina"	"37"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	32	166648	19.2
+	"North Carolina"	"37"	"2015"	"2015"	"Black or African American"	"2054-5"	352	2301313	15.3
+	"North Carolina"	"37"	"2015"	"2015"	"White"	"2106-3"	881	7259904	12.1
+	"North Carolina"	"37"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	28	169303	16.5
+	"North Carolina"	"37"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	17	328335	Unreliable
+	"North Carolina"	"37"	"2016"	"2016"	"Black or African American"	"2054-5"	423	2333929	18.1
+	"North Carolina"	"37"	"2016"	"2016"	"White"	"2106-3"	917	7315221	12.5
+	"North Carolina"	"37"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	18	172072	Unreliable
+	"North Carolina"	"37"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	12	346695	Unreliable
+	"North Carolina"	"37"	"2017"	"2017"	"Black or African American"	"2054-5"	444	2364451	18.8
+	"North Carolina"	"37"	"2017"	"2017"	"White"	"2106-3"	939	7390201	12.7
+	"North Dakota"	"38"	"1999"	"1999"	"White"	"2106-3"	46	604999	7.6
+	"North Dakota"	"38"	"2000"	"2000"	"White"	"2106-3"	40	600226	6.7
+	"North Dakota"	"38"	"2001"	"2001"	"White"	"2106-3"	44	595709	7.4
+	"North Dakota"	"38"	"2002"	"2002"	"White"	"2106-3"	55	593517	9.3
+	"North Dakota"	"38"	"2003"	"2003"	"White"	"2106-3"	52	592924	8.8
+	"North Dakota"	"38"	"2004"	"2004"	"White"	"2106-3"	48	596952	8.0
+	"North Dakota"	"38"	"2005"	"2005"	"White"	"2106-3"	57	596748	9.6
+	"North Dakota"	"38"	"2006"	"2006"	"White"	"2106-3"	43	598442	7.2
+	"North Dakota"	"38"	"2007"	"2007"	"White"	"2106-3"	53	600351	8.8
+	"North Dakota"	"38"	"2008"	"2008"	"White"	"2106-3"	55	603568	9.1
+	"North Dakota"	"38"	"2009"	"2009"	"White"	"2106-3"	50	609013	8.2
+	"North Dakota"	"38"	"2010"	"2010"	"White"	"2106-3"	62	615263	10.1
+	"North Dakota"	"38"	"2011"	"2011"	"White"	"2106-3"	55	624328	8.8
+	"North Dakota"	"38"	"2012"	"2012"	"White"	"2106-3"	68	636983	10.7
+	"North Dakota"	"38"	"2013"	"2013"	"White"	"2106-3"	76	655643	11.6
+	"North Dakota"	"38"	"2014"	"2014"	"White"	"2106-3"	92	667148	13.8
+	"North Dakota"	"38"	"2015"	"2015"	"White"	"2106-3"	84	678936	12.4
+	"North Dakota"	"38"	"2016"	"2016"	"White"	"2106-3"	80	674630	11.9
+	"North Dakota"	"38"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	10	44685	Unreliable
+	"North Dakota"	"38"	"2017"	"2017"	"White"	"2106-3"	89	670004	13.3
+	"Ohio"	"39"	"1999"	"1999"	"Black or African American"	"2054-5"	212	1347742	15.7
+	"Ohio"	"39"	"1999"	"1999"	"White"	"2106-3"	706	9816458	7.2
+	"Ohio"	"39"	"2000"	"2000"	"Black or African American"	"2054-5"	200	1359717	14.7
+	"Ohio"	"39"	"2000"	"2000"	"White"	"2106-3"	680	9812402	6.9
+	"Ohio"	"39"	"2001"	"2001"	"Black or African American"	"2054-5"	256	1381459	18.5
+	"Ohio"	"39"	"2001"	"2001"	"White"	"2106-3"	758	9816057	7.7
+	"Ohio"	"39"	"2002"	"2002"	"Black or African American"	"2054-5"	260	1397560	18.6
+	"Ohio"	"39"	"2002"	"2002"	"White"	"2106-3"	793	9812513	8.1
+	"Ohio"	"39"	"2003"	"2003"	"Black or African American"	"2054-5"	258	1413170	18.3
+	"Ohio"	"39"	"2003"	"2003"	"White"	"2106-3"	659	9814964	6.7
+	"Ohio"	"39"	"2004"	"2004"	"Black or African American"	"2054-5"	263	1427023	18.4
+	"Ohio"	"39"	"2004"	"2004"	"White"	"2106-3"	762	9810680	7.8
+	"Ohio"	"39"	"2005"	"2005"	"Black or African American"	"2054-5"	321	1441701	22.3
+	"Ohio"	"39"	"2005"	"2005"	"White"	"2106-3"	782	9798651	8.0
+	"Ohio"	"39"	"2006"	"2006"	"Black or African American"	"2054-5"	348	1457396	23.9
+	"Ohio"	"39"	"2006"	"2006"	"White"	"2106-3"	754	9793409	7.7
+	"Ohio"	"39"	"2007"	"2007"	"Black or African American"	"2054-5"	332	1473382	22.5
+	"Ohio"	"39"	"2007"	"2007"	"White"	"2106-3"	756	9789179	7.7
+	"Ohio"	"39"	"2008"	"2008"	"Black or African American"	"2054-5"	333	1488002	22.4
+	"Ohio"	"39"	"2008"	"2008"	"White"	"2106-3"	767	9781972	7.8
+	"Ohio"	"39"	"2009"	"2009"	"Black or African American"	"2054-5"	280	1501406	18.6
+	"Ohio"	"39"	"2009"	"2009"	"White"	"2106-3"	700	9775738	7.2
+	"Ohio"	"39"	"2010"	"2010"	"Black or African American"	"2054-5"	322	1510985	21.3
+	"Ohio"	"39"	"2010"	"2010"	"White"	"2106-3"	808	9767820	8.3
+	"Ohio"	"39"	"2011"	"2011"	"Black or African American"	"2054-5"	367	1521089	24.1
+	"Ohio"	"39"	"2011"	"2011"	"White"	"2106-3"	831	9759657	8.5
+	"Ohio"	"39"	"2012"	"2012"	"Black or African American"	"2054-5"	348	1530803	22.7
+	"Ohio"	"39"	"2012"	"2012"	"White"	"2106-3"	895	9739254	9.2
+	"Ohio"	"39"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	13	244027	Unreliable
+	"Ohio"	"39"	"2013"	"2013"	"Black or African American"	"2054-5"	376	1544643	24.3
+	"Ohio"	"39"	"2013"	"2013"	"White"	"2106-3"	887	9741342	9.1
+	"Ohio"	"39"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	12	258339	Unreliable
+	"Ohio"	"39"	"2014"	"2014"	"Black or African American"	"2054-5"	352	1561477	22.5
+	"Ohio"	"39"	"2014"	"2014"	"White"	"2106-3"	830	9733011	8.5
+	"Ohio"	"39"	"2015"	"2015"	"Black or African American"	"2054-5"	409	1578549	25.9
+	"Ohio"	"39"	"2015"	"2015"	"White"	"2106-3"	961	9722459	9.9
+	"Ohio"	"39"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	11	282599	Unreliable
+	"Ohio"	"39"	"2016"	"2016"	"Black or African American"	"2054-5"	461	1592236	29.0
+	"Ohio"	"39"	"2016"	"2016"	"White"	"2106-3"	1036	9697106	10.7
+	"Ohio"	"39"	"2017"	"2017"	"Black or African American"	"2054-5"	527	1613123	32.7
+	"Ohio"	"39"	"2017"	"2017"	"White"	"2106-3"	1028	9702995	10.6
+	"Oklahoma"	"40"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	18	307908	Unreliable
+	"Oklahoma"	"40"	"1999"	"1999"	"Black or African American"	"2054-5"	79	277057	28.5
+	"Oklahoma"	"40"	"1999"	"1999"	"White"	"2106-3"	402	2800181	14.4
+	"Oklahoma"	"40"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	27	312425	8.6
+	"Oklahoma"	"40"	"2000"	"2000"	"Black or African American"	"2054-5"	36	279982	12.9
+	"Oklahoma"	"40"	"2000"	"2000"	"White"	"2106-3"	380	2803557	13.6
+	"Oklahoma"	"40"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	28	318918	8.8
+	"Oklahoma"	"40"	"2001"	"2001"	"Black or African American"	"2054-5"	59	282978	20.8
+	"Oklahoma"	"40"	"2001"	"2001"	"White"	"2106-3"	387	2807711	13.8
+	"Oklahoma"	"40"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	33	325082	10.2
+	"Oklahoma"	"40"	"2002"	"2002"	"Black or African American"	"2054-5"	37	285840	12.9
+	"Oklahoma"	"40"	"2002"	"2002"	"White"	"2106-3"	370	2818258	13.1
+	"Oklahoma"	"40"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	23	331462	6.9
+	"Oklahoma"	"40"	"2003"	"2003"	"Black or African American"	"2054-5"	64	287387	22.3
+	"Oklahoma"	"40"	"2003"	"2003"	"White"	"2106-3"	349	2824128	12.4
+	"Oklahoma"	"40"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	31	337623	9.2
+	"Oklahoma"	"40"	"2004"	"2004"	"Black or African American"	"2054-5"	55	290375	18.9
+	"Oklahoma"	"40"	"2004"	"2004"	"White"	"2106-3"	358	2833383	12.6
+	"Oklahoma"	"40"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	35	344806	10.2
+	"Oklahoma"	"40"	"2005"	"2005"	"Black or African American"	"2054-5"	61	293204	20.8
+	"Oklahoma"	"40"	"2005"	"2005"	"White"	"2106-3"	358	2845221	12.6
+	"Oklahoma"	"40"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	39	353538	11.0
+	"Oklahoma"	"40"	"2006"	"2006"	"Black or African American"	"2054-5"	64	299029	21.4
+	"Oklahoma"	"40"	"2006"	"2006"	"White"	"2106-3"	374	2873569	13.0
+	"Oklahoma"	"40"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	32	361816	8.8
+	"Oklahoma"	"40"	"2007"	"2007"	"Black or African American"	"2054-5"	73	304098	24.0
+	"Oklahoma"	"40"	"2007"	"2007"	"White"	"2106-3"	366	2897699	12.6
+	"Oklahoma"	"40"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	37	370624	10.0
+	"Oklahoma"	"40"	"2008"	"2008"	"Black or African American"	"2054-5"	68	307270	22.1
+	"Oklahoma"	"40"	"2008"	"2008"	"White"	"2106-3"	398	2917406	13.6
+	"Oklahoma"	"40"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	42	380066	11.1
+	"Oklahoma"	"40"	"2009"	"2009"	"Black or African American"	"2054-5"	71	314025	22.6
+	"Oklahoma"	"40"	"2009"	"2009"	"White"	"2106-3"	413	2946778	14.0
+	"Oklahoma"	"40"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	51	387227	13.2
+	"Oklahoma"	"40"	"2010"	"2010"	"Black or African American"	"2054-5"	88	319116	27.6
+	"Oklahoma"	"40"	"2010"	"2010"	"White"	"2106-3"	391	2965869	13.2
+	"Oklahoma"	"40"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	43	390357	11.0
+	"Oklahoma"	"40"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	10	82388	Unreliable
+	"Oklahoma"	"40"	"2011"	"2011"	"Black or African American"	"2054-5"	95	327715	29.0
+	"Oklahoma"	"40"	"2011"	"2011"	"White"	"2106-3"	478	2991048	16.0
+	"Oklahoma"	"40"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	48	395280	12.1
+	"Oklahoma"	"40"	"2012"	"2012"	"Black or African American"	"2054-5"	86	330614	26.0
+	"Oklahoma"	"40"	"2012"	"2012"	"White"	"2106-3"	477	3003118	15.9
+	"Oklahoma"	"40"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	55	400255	13.7
+	"Oklahoma"	"40"	"2013"	"2013"	"Black or African American"	"2054-5"	76	336487	22.6
+	"Oklahoma"	"40"	"2013"	"2013"	"White"	"2106-3"	497	3024255	16.4
+	"Oklahoma"	"40"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	52	405267	12.8
+	"Oklahoma"	"40"	"2014"	"2014"	"Black or African American"	"2054-5"	76	341243	22.3
+	"Oklahoma"	"40"	"2014"	"2014"	"White"	"2106-3"	480	3035813	15.8
+	"Oklahoma"	"40"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	58	410725	14.1
+	"Oklahoma"	"40"	"2015"	"2015"	"Black or African American"	"2054-5"	88	346973	25.4
+	"Oklahoma"	"40"	"2015"	"2015"	"White"	"2106-3"	551	3052773	18.0
+	"Oklahoma"	"40"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	74	415768	17.8
+	"Oklahoma"	"40"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	10	103997	Unreliable
+	"Oklahoma"	"40"	"2016"	"2016"	"Black or African American"	"2054-5"	100	348988	28.7
+	"Oklahoma"	"40"	"2016"	"2016"	"White"	"2106-3"	582	3054808	19.1
+	"Oklahoma"	"40"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	71	419507	16.9
+	"Oklahoma"	"40"	"2017"	"2017"	"Black or African American"	"2054-5"	105	351707	29.9
+	"Oklahoma"	"40"	"2017"	"2017"	"White"	"2106-3"	496	3051867	16.3
+	"Oregon"	"41"	"1999"	"1999"	"Black or African American"	"2054-5"	18	66369	Unreliable
+	"Oregon"	"41"	"1999"	"1999"	"White"	"2106-3"	359	3154256	11.4
+	"Oregon"	"41"	"2000"	"2000"	"Black or African American"	"2054-5"	11	69151	Unreliable
+	"Oregon"	"41"	"2000"	"2000"	"White"	"2106-3"	349	3172360	11.0
+	"Oregon"	"41"	"2001"	"2001"	"White"	"2106-3"	332	3206792	10.4
+	"Oregon"	"41"	"2002"	"2002"	"White"	"2106-3"	353	3242079	10.9
+	"Oregon"	"41"	"2003"	"2003"	"Black or African American"	"2054-5"	14	76251	Unreliable
+	"Oregon"	"41"	"2003"	"2003"	"White"	"2106-3"	369	3267254	11.3
+	"Oregon"	"41"	"2004"	"2004"	"Black or African American"	"2054-5"	17	77674	Unreliable
+	"Oregon"	"41"	"2004"	"2004"	"White"	"2106-3"	348	3281938	10.6
+	"Oregon"	"41"	"2005"	"2005"	"White"	"2106-3"	366	3315027	11.0
+	"Oregon"	"41"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	13	157178	Unreliable
+	"Oregon"	"41"	"2006"	"2006"	"White"	"2106-3"	347	3360395	10.3
+	"Oregon"	"41"	"2007"	"2007"	"White"	"2106-3"	368	3399653	10.8
+	"Oregon"	"41"	"2008"	"2008"	"Black or African American"	"2054-5"	11	89386	Unreliable
+	"Oregon"	"41"	"2008"	"2008"	"White"	"2106-3"	359	3434397	10.5
+	"Oregon"	"41"	"2009"	"2009"	"Black or African American"	"2054-5"	11	92275	Unreliable
+	"Oregon"	"41"	"2009"	"2009"	"White"	"2106-3"	385	3462337	11.1
+	"Oregon"	"41"	"2010"	"2010"	"White"	"2106-3"	424	3476736	12.2
+	"Oregon"	"41"	"2011"	"2011"	"Black or African American"	"2054-5"	12	97912	Unreliable
+	"Oregon"	"41"	"2011"	"2011"	"White"	"2106-3"	393	3505165	11.2
+	"Oregon"	"41"	"2012"	"2012"	"White"	"2106-3"	413	3522848	11.7
+	"Oregon"	"41"	"2013"	"2013"	"Black or African American"	"2054-5"	13	101720	Unreliable
+	"Oregon"	"41"	"2013"	"2013"	"White"	"2106-3"	425	3544037	12.0
+	"Oregon"	"41"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	10	208263	Unreliable
+	"Oregon"	"41"	"2014"	"2014"	"White"	"2106-3"	459	3570524	12.9
+	"Oregon"	"41"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	13	218013	Unreliable
+	"Oregon"	"41"	"2015"	"2015"	"Black or African American"	"2054-5"	23	108507	21.2
+	"Oregon"	"41"	"2015"	"2015"	"White"	"2106-3"	432	3614034	12.0
+	"Oregon"	"41"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	11	225173	Unreliable
+	"Oregon"	"41"	"2016"	"2016"	"Black or African American"	"2054-5"	12	112667	Unreliable
+	"Oregon"	"41"	"2016"	"2016"	"White"	"2106-3"	472	3665749	12.9
+	"Oregon"	"41"	"2017"	"2017"	"Black or African American"	"2054-5"	10	117380	Unreliable
+	"Oregon"	"41"	"2017"	"2017"	"White"	"2106-3"	489	3697722	13.2
+	"Pennsylvania"	"42"	"1999"	"1999"	"Black or African American"	"2054-5"	336	1279925	26.3
+	"Pennsylvania"	"42"	"1999"	"1999"	"White"	"2106-3"	840	10734583	7.8
+	"Pennsylvania"	"42"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	15	238261	Unreliable
+	"Pennsylvania"	"42"	"2000"	"2000"	"Black or African American"	"2054-5"	353	1293698	27.3
+	"Pennsylvania"	"42"	"2000"	"2000"	"White"	"2106-3"	876	10725447	8.2
+	"Pennsylvania"	"42"	"2001"	"2001"	"Black or African American"	"2054-5"	332	1311557	25.3
+	"Pennsylvania"	"42"	"2001"	"2001"	"White"	"2106-3"	828	10707684	7.7
+	"Pennsylvania"	"42"	"2002"	"2002"	"Black or African American"	"2054-5"	369	1329750	27.7
+	"Pennsylvania"	"42"	"2002"	"2002"	"White"	"2106-3"	837	10705281	7.8
+	"Pennsylvania"	"42"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	11	282881	Unreliable
+	"Pennsylvania"	"42"	"2003"	"2003"	"Black or African American"	"2054-5"	401	1349739	29.7
+	"Pennsylvania"	"42"	"2003"	"2003"	"White"	"2106-3"	810	10711817	7.6
+	"Pennsylvania"	"42"	"2004"	"2004"	"Black or African American"	"2054-5"	399	1372319	29.1
+	"Pennsylvania"	"42"	"2004"	"2004"	"White"	"2106-3"	856	10708454	8.0
+	"Pennsylvania"	"42"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	15	312561	Unreliable
+	"Pennsylvania"	"42"	"2005"	"2005"	"Black or African American"	"2054-5"	426	1395186	30.5
+	"Pennsylvania"	"42"	"2005"	"2005"	"White"	"2106-3"	904	10707324	8.4
+	"Pennsylvania"	"42"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	13	328092	Unreliable
+	"Pennsylvania"	"42"	"2006"	"2006"	"Black or African American"	"2054-5"	469	1421259	33.0
+	"Pennsylvania"	"42"	"2006"	"2006"	"White"	"2106-3"	878	10724159	8.2
+	"Pennsylvania"	"42"	"2007"	"2007"	"Black or African American"	"2054-5"	438	1445762	30.3
+	"Pennsylvania"	"42"	"2007"	"2007"	"White"	"2106-3"	862	10735235	8.0
+	"Pennsylvania"	"42"	"2008"	"2008"	"Black or African American"	"2054-5"	423	1469600	28.8
+	"Pennsylvania"	"42"	"2008"	"2008"	"White"	"2106-3"	903	10743098	8.4
+	"Pennsylvania"	"42"	"2009"	"2009"	"Black or African American"	"2054-5"	356	1492281	23.9
+	"Pennsylvania"	"42"	"2009"	"2009"	"White"	"2106-3"	971	10758201	9.0
+	"Pennsylvania"	"42"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	11	381910	Unreliable
+	"Pennsylvania"	"42"	"2010"	"2010"	"Black or African American"	"2054-5"	394	1506459	26.2
+	"Pennsylvania"	"42"	"2010"	"2010"	"White"	"2106-3"	894	10766954	8.3
+	"Pennsylvania"	"42"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	10	393508	Unreliable
+	"Pennsylvania"	"42"	"2011"	"2011"	"Black or African American"	"2054-5"	397	1521882	26.1
+	"Pennsylvania"	"42"	"2011"	"2011"	"White"	"2106-3"	1019	10779681	9.5
+	"Pennsylvania"	"42"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	17	409742	Unreliable
+	"Pennsylvania"	"42"	"2012"	"2012"	"Black or African American"	"2054-5"	439	1538330	28.5
+	"Pennsylvania"	"42"	"2012"	"2012"	"White"	"2106-3"	978	10766181	9.1
+	"Pennsylvania"	"42"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	13	424326	Unreliable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Black or African American"	"2054-5"	364	1554879	23.4
+	"Pennsylvania"	"42"	"2013"	"2013"	"White"	"2106-3"	1056	10743840	9.8
+	"Pennsylvania"	"42"	"2014"	"2014"	"Black or African American"	"2054-5"	355	1572487	22.6
+	"Pennsylvania"	"42"	"2014"	"2014"	"White"	"2106-3"	1012	10716775	9.4
+	"Pennsylvania"	"42"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	19	464227	Unreliable
+	"Pennsylvania"	"42"	"2015"	"2015"	"Black or African American"	"2054-5"	419	1588739	26.4
+	"Pennsylvania"	"42"	"2015"	"2015"	"White"	"2106-3"	1032	10695940	9.6
+	"Pennsylvania"	"42"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	11	472834	Unreliable
+	"Pennsylvania"	"42"	"2016"	"2016"	"Black or African American"	"2054-5"	425	1599349	26.6
+	"Pennsylvania"	"42"	"2016"	"2016"	"White"	"2106-3"	1102	10656890	10.3
+	"Pennsylvania"	"42"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	10	494034	Unreliable
+	"Pennsylvania"	"42"	"2017"	"2017"	"Black or African American"	"2054-5"	466	1617500	28.8
+	"Pennsylvania"	"42"	"2017"	"2017"	"White"	"2106-3"	1139	10637357	10.7
+	"Rhode Island"	"44"	"1999"	"1999"	"Black or African American"	"2054-5"	11	62303	Unreliable
+	"Rhode Island"	"44"	"1999"	"1999"	"White"	"2106-3"	45	945387	4.8
+	"Rhode Island"	"44"	"2000"	"2000"	"Black or African American"	"2054-5"	14	64893	Unreliable
+	"Rhode Island"	"44"	"2000"	"2000"	"White"	"2106-3"	38	949046	4.0
+	"Rhode Island"	"44"	"2001"	"2001"	"White"	"2106-3"	40	953319	4.2
+	"Rhode Island"	"44"	"2002"	"2002"	"Black or African American"	"2054-5"	10	70465	Unreliable
+	"Rhode Island"	"44"	"2002"	"2002"	"White"	"2106-3"	40	957652	4.2
+	"Rhode Island"	"44"	"2003"	"2003"	"White"	"2106-3"	26	958870	2.7
+	"Rhode Island"	"44"	"2004"	"2004"	"White"	"2106-3"	35	958378	3.7
+	"Rhode Island"	"44"	"2005"	"2005"	"White"	"2106-3"	28	949218	2.9
+	"Rhode Island"	"44"	"2006"	"2006"	"White"	"2106-3"	39	942374	4.1
+	"Rhode Island"	"44"	"2007"	"2007"	"White"	"2106-3"	34	934336	3.6
+	"Rhode Island"	"44"	"2008"	"2008"	"White"	"2106-3"	36	929381	3.9
+	"Rhode Island"	"44"	"2009"	"2009"	"White"	"2106-3"	49	925159	5.3
+	"Rhode Island"	"44"	"2010"	"2010"	"White"	"2106-3"	43	922331	4.7
+	"Rhode Island"	"44"	"2011"	"2011"	"White"	"2106-3"	26	919534	2.8
+	"Rhode Island"	"44"	"2012"	"2012"	"White"	"2106-3"	34	915095	3.7
+	"Rhode Island"	"44"	"2013"	"2013"	"White"	"2106-3"	52	913178	5.7
+	"Rhode Island"	"44"	"2014"	"2014"	"White"	"2106-3"	26	911548	2.9
+	"Rhode Island"	"44"	"2015"	"2015"	"White"	"2106-3"	40	908987	4.4
+	"Rhode Island"	"44"	"2016"	"2016"	"White"	"2106-3"	45	906089	5.0
+	"Rhode Island"	"44"	"2017"	"2017"	"White"	"2106-3"	36	905231	4.0
+	"South Carolina"	"45"	"1999"	"1999"	"Black or African American"	"2054-5"	168	1192652	14.1
+	"South Carolina"	"45"	"1999"	"1999"	"White"	"2106-3"	376	2729841	13.8
+	"South Carolina"	"45"	"2000"	"2000"	"Black or African American"	"2054-5"	137	1199993	11.4
+	"South Carolina"	"45"	"2000"	"2000"	"White"	"2106-3"	352	2754751	12.8
+	"South Carolina"	"45"	"2001"	"2001"	"Black or African American"	"2054-5"	178	1214753	14.7
+	"South Carolina"	"45"	"2001"	"2001"	"White"	"2106-3"	378	2789474	13.6
+	"South Carolina"	"45"	"2002"	"2002"	"Black or African American"	"2054-5"	186	1222658	15.2
+	"South Carolina"	"45"	"2002"	"2002"	"White"	"2106-3"	375	2820732	13.3
+	"South Carolina"	"45"	"2003"	"2003"	"Black or African American"	"2054-5"	195	1231581	15.8
+	"South Carolina"	"45"	"2003"	"2003"	"White"	"2106-3"	388	2850639	13.6
+	"South Carolina"	"45"	"2004"	"2004"	"Black or African American"	"2054-5"	190	1244041	15.3
+	"South Carolina"	"45"	"2004"	"2004"	"White"	"2106-3"	377	2894711	13.0
+	"South Carolina"	"45"	"2005"	"2005"	"Black or African American"	"2054-5"	204	1255105	16.3
+	"South Carolina"	"45"	"2005"	"2005"	"White"	"2106-3"	379	2938716	12.9
+	"South Carolina"	"45"	"2006"	"2006"	"Black or African American"	"2054-5"	224	1273536	17.6
+	"South Carolina"	"45"	"2006"	"2006"	"White"	"2106-3"	379	3003350	12.6
+	"South Carolina"	"45"	"2007"	"2007"	"Black or African American"	"2054-5"	212	1289462	16.4
+	"South Carolina"	"45"	"2007"	"2007"	"White"	"2106-3"	371	3068677	12.1
+	"South Carolina"	"45"	"2008"	"2008"	"Black or African American"	"2054-5"	207	1308465	15.8
+	"South Carolina"	"45"	"2008"	"2008"	"White"	"2106-3"	400	3129618	12.8
+	"South Carolina"	"45"	"2009"	"2009"	"Black or African American"	"2054-5"	205	1320564	15.5
+	"South Carolina"	"45"	"2009"	"2009"	"White"	"2106-3"	423	3174776	13.3
+	"South Carolina"	"45"	"2010"	"2010"	"Black or African American"	"2054-5"	201	1329507	15.1
+	"South Carolina"	"45"	"2010"	"2010"	"White"	"2106-3"	434	3198579	13.6
+	"South Carolina"	"45"	"2011"	"2011"	"Black or African American"	"2054-5"	211	1343297	15.7
+	"South Carolina"	"45"	"2011"	"2011"	"White"	"2106-3"	482	3234809	14.9
+	"South Carolina"	"45"	"2012"	"2012"	"Black or African American"	"2054-5"	224	1351898	16.6
+	"South Carolina"	"45"	"2012"	"2012"	"White"	"2106-3"	504	3266812	15.4
+	"South Carolina"	"45"	"2013"	"2013"	"Black or African American"	"2054-5"	207	1362515	15.2
+	"South Carolina"	"45"	"2013"	"2013"	"White"	"2106-3"	521	3302732	15.8
+	"South Carolina"	"45"	"2014"	"2014"	"Black or African American"	"2054-5"	227	1374865	16.5
+	"South Carolina"	"45"	"2014"	"2014"	"White"	"2106-3"	528	3343943	15.8
+	"South Carolina"	"45"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	11	89474	Unreliable
+	"South Carolina"	"45"	"2015"	"2015"	"Black or African American"	"2054-5"	293	1387150	21.1
+	"South Carolina"	"45"	"2015"	"2015"	"White"	"2106-3"	540	3390607	15.9
+	"South Carolina"	"45"	"2016"	"2016"	"Black or African American"	"2054-5"	289	1398222	20.7
+	"South Carolina"	"45"	"2016"	"2016"	"White"	"2106-3"	589	3441510	17.1
+	"South Carolina"	"45"	"2017"	"2017"	"Black or African American"	"2054-5"	295	1409678	20.9
+	"South Carolina"	"45"	"2017"	"2017"	"White"	"2106-3"	582	3486473	16.7
+	"South Dakota"	"46"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	10	63170	Unreliable
+	"South Dakota"	"46"	"1999"	"1999"	"White"	"2106-3"	62	678197	9.1
+	"South Dakota"	"46"	"2000"	"2000"	"White"	"2106-3"	50	678523	7.4
+	"South Dakota"	"46"	"2001"	"2001"	"White"	"2106-3"	50	679387	7.4
+	"South Dakota"	"46"	"2002"	"2002"	"White"	"2106-3"	58	679515	8.5
+	"South Dakota"	"46"	"2003"	"2003"	"White"	"2106-3"	62	681095	9.1
+	"South Dakota"	"46"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	13	69565	Unreliable
+	"South Dakota"	"46"	"2004"	"2004"	"White"	"2106-3"	63	685440	9.2
+	"South Dakota"	"46"	"2005"	"2005"	"White"	"2106-3"	74	688470	10.7
+	"South Dakota"	"46"	"2006"	"2006"	"White"	"2106-3"	69	693610	9.9
+	"South Dakota"	"46"	"2007"	"2007"	"White"	"2106-3"	46	699485	6.6
+	"South Dakota"	"46"	"2008"	"2008"	"White"	"2106-3"	75	704618	10.6
+	"South Dakota"	"46"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	10	76035	Unreliable
+	"South Dakota"	"46"	"2009"	"2009"	"White"	"2106-3"	63	709532	8.9
+	"South Dakota"	"46"	"2010"	"2010"	"White"	"2106-3"	67	714718	9.4
+	"South Dakota"	"46"	"2011"	"2011"	"White"	"2106-3"	63	721987	8.7
+	"South Dakota"	"46"	"2012"	"2012"	"White"	"2106-3"	77	726989	10.6
+	"South Dakota"	"46"	"2013"	"2013"	"White"	"2106-3"	71	734427	9.7
+	"South Dakota"	"46"	"2014"	"2014"	"White"	"2106-3"	76	740650	10.3
+	"South Dakota"	"46"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	12	81550	Unreliable
+	"South Dakota"	"46"	"2015"	"2015"	"White"	"2106-3"	77	743966	10.3
+	"South Dakota"	"46"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	21	82770	25.4
+	"South Dakota"	"46"	"2016"	"2016"	"White"	"2106-3"	80	747000	10.7
+	"South Dakota"	"46"	"2017"	"2017"	"White"	"2106-3"	89	748768	11.9
+	"Tennessee"	"47"	"1999"	"1999"	"Black or African American"	"2054-5"	209	939791	22.2
+	"Tennessee"	"47"	"1999"	"1999"	"White"	"2106-3"	629	4625327	13.6
+	"Tennessee"	"47"	"2000"	"2000"	"Black or African American"	"2054-5"	239	950101	25.2
+	"Tennessee"	"47"	"2000"	"2000"	"White"	"2106-3"	647	4657382	13.9
+	"Tennessee"	"47"	"2001"	"2001"	"Black or African American"	"2054-5"	221	967178	22.8
+	"Tennessee"	"47"	"2001"	"2001"	"White"	"2106-3"	612	4696634	13.0
+	"Tennessee"	"47"	"2002"	"2002"	"Black or African American"	"2054-5"	234	980256	23.9
+	"Tennessee"	"47"	"2002"	"2002"	"White"	"2106-3"	659	4723797	14.0
+	"Tennessee"	"47"	"2003"	"2003"	"Black or African American"	"2054-5"	215	993443	21.6
+	"Tennessee"	"47"	"2003"	"2003"	"White"	"2106-3"	616	4757541	12.9
+	"Tennessee"	"47"	"2004"	"2004"	"Black or African American"	"2054-5"	195	1009077	19.3
+	"Tennessee"	"47"	"2004"	"2004"	"White"	"2106-3"	671	4799162	14.0
+	"Tennessee"	"47"	"2005"	"2005"	"Black or African American"	"2054-5"	251	1026372	24.5
+	"Tennessee"	"47"	"2005"	"2005"	"White"	"2106-3"	719	4856223	14.8
+	"Tennessee"	"47"	"2006"	"2006"	"Black or African American"	"2054-5"	245	1047600	23.4
+	"Tennessee"	"47"	"2006"	"2006"	"White"	"2106-3"	689	4926508	14.0
+	"Tennessee"	"47"	"2007"	"2007"	"Black or African American"	"2054-5"	239	1062187	22.5
+	"Tennessee"	"47"	"2007"	"2007"	"White"	"2106-3"	677	4992038	13.6
+	"Tennessee"	"47"	"2008"	"2008"	"Black or African American"	"2054-5"	262	1074684	24.4
+	"Tennessee"	"47"	"2008"	"2008"	"White"	"2106-3"	712	5046296	14.1
+	"Tennessee"	"47"	"2009"	"2009"	"Black or African American"	"2054-5"	243	1087674	22.3
+	"Tennessee"	"47"	"2009"	"2009"	"White"	"2106-3"	716	5086681	14.1
+	"Tennessee"	"47"	"2010"	"2010"	"Black or African American"	"2054-5"	202	1097940	18.4
+	"Tennessee"	"47"	"2010"	"2010"	"White"	"2106-3"	715	5113124	14.0
+	"Tennessee"	"47"	"2011"	"2011"	"Black or African American"	"2054-5"	220	1114647	19.7
+	"Tennessee"	"47"	"2011"	"2011"	"White"	"2106-3"	715	5149029	13.9
+	"Tennessee"	"47"	"2012"	"2012"	"Black or African American"	"2054-5"	257	1131376	22.7
+	"Tennessee"	"47"	"2012"	"2012"	"White"	"2106-3"	730	5178755	14.1
+	"Tennessee"	"47"	"2013"	"2013"	"Black or African American"	"2054-5"	238	1142045	20.8
+	"Tennessee"	"47"	"2013"	"2013"	"White"	"2106-3"	781	5202797	15.0
+	"Tennessee"	"47"	"2014"	"2014"	"Black or African American"	"2054-5"	250	1155583	21.6
+	"Tennessee"	"47"	"2014"	"2014"	"White"	"2106-3"	757	5235081	14.5
+	"Tennessee"	"47"	"2015"	"2015"	"Black or African American"	"2054-5"	278	1167771	23.8
+	"Tennessee"	"47"	"2015"	"2015"	"White"	"2106-3"	781	5267640	14.8
+	"Tennessee"	"47"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	10	136497	Unreliable
+	"Tennessee"	"47"	"2016"	"2016"	"Black or African American"	"2054-5"	339	1177064	28.8
+	"Tennessee"	"47"	"2016"	"2016"	"White"	"2106-3"	790	5305294	14.9
+	"Tennessee"	"47"	"2017"	"2017"	"Black or African American"	"2054-5"	351	1189804	29.5
+	"Tennessee"	"47"	"2017"	"2017"	"White"	"2106-3"	869	5350680	16.2
+	"Texas"	"48"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	28	602951	4.6
+	"Texas"	"48"	"1999"	"1999"	"Black or African American"	"2054-5"	315	2461293	12.8
+	"Texas"	"48"	"1999"	"1999"	"White"	"2106-3"	1761	17358613	10.1
+	"Texas"	"48"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	27	634472	4.3
+	"Texas"	"48"	"2000"	"2000"	"Black or African American"	"2054-5"	317	2489759	12.7
+	"Texas"	"48"	"2000"	"2000"	"White"	"2106-3"	1800	17575478	10.2
+	"Texas"	"48"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	34	684712	5.0
+	"Texas"	"48"	"2001"	"2001"	"Black or African American"	"2054-5"	381	2551645	14.9
+	"Texas"	"48"	"2001"	"2001"	"White"	"2106-3"	1904	17922031	10.6
+	"Texas"	"48"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	34	726265	4.7
+	"Texas"	"48"	"2002"	"2002"	"Black or African American"	"2054-5"	369	2602237	14.2
+	"Texas"	"48"	"2002"	"2002"	"White"	"2106-3"	1865	18192259	10.3
+	"Texas"	"48"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	38	764885	5.0
+	"Texas"	"48"	"2003"	"2003"	"Black or African American"	"2054-5"	358	2646739	13.5
+	"Texas"	"48"	"2003"	"2003"	"White"	"2106-3"	1997	18440940	10.8
+	"Texas"	"48"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	30	802430	3.7
+	"Texas"	"48"	"2004"	"2004"	"Black or African American"	"2054-5"	402	2697339	14.9
+	"Texas"	"48"	"2004"	"2004"	"White"	"2106-3"	1890	18705854	10.1
+	"Texas"	"48"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	48	844072	5.7
+	"Texas"	"48"	"2005"	"2005"	"Black or African American"	"2054-5"	437	2753898	15.9
+	"Texas"	"48"	"2005"	"2005"	"White"	"2106-3"	1975	18980757	10.4
+	"Texas"	"48"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	44	895701	4.9
+	"Texas"	"48"	"2006"	"2006"	"Black or African American"	"2054-5"	460	2904002	15.8
+	"Texas"	"48"	"2006"	"2006"	"White"	"2106-3"	1894	19346962	9.8
+	"Texas"	"48"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	28	948153	3.0
+	"Texas"	"48"	"2007"	"2007"	"Black or African American"	"2054-5"	424	2962118	14.3
+	"Texas"	"48"	"2007"	"2007"	"White"	"2106-3"	2080	19694301	10.6
+	"Texas"	"48"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	23	1000104	2.3
+	"Texas"	"48"	"2008"	"2008"	"Black or African American"	"2054-5"	288	3027152	9.5
+	"Texas"	"48"	"2008"	"2008"	"White"	"2106-3"	2259	20037899	11.3
+	"Texas"	"48"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	41	1051726	3.9
+	"Texas"	"48"	"2009"	"2009"	"Black or African American"	"2054-5"	399	3101293	12.9
+	"Texas"	"48"	"2009"	"2009"	"White"	"2106-3"	2221	20386890	10.9
+	"Texas"	"48"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	38	1088578	3.5
+	"Texas"	"48"	"2010"	"2010"	"Black or African American"	"2054-5"	454	3156011	14.4
+	"Texas"	"48"	"2010"	"2010"	"White"	"2106-3"	2198	20624991	10.7
+	"Texas"	"48"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	43	1133209	3.8
+	"Texas"	"48"	"2011"	"2011"	"Black or African American"	"2054-5"	374	3231968	11.6
+	"Texas"	"48"	"2011"	"2011"	"White"	"2106-3"	2152	21020190	10.2
+	"Texas"	"48"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	40	1192519	3.4
+	"Texas"	"48"	"2012"	"2012"	"Black or African American"	"2054-5"	446	3313287	13.5
+	"Texas"	"48"	"2012"	"2012"	"White"	"2106-3"	2224	21261333	10.5
+	"Texas"	"48"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	53	1252181	4.2
+	"Texas"	"48"	"2013"	"2013"	"Black or African American"	"2054-5"	470	3386416	13.9
+	"Texas"	"48"	"2013"	"2013"	"White"	"2106-3"	2225	21512952	10.3
+	"Texas"	"48"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	55	1331159	4.1
+	"Texas"	"48"	"2014"	"2014"	"Black or African American"	"2054-5"	449	3471829	12.9
+	"Texas"	"48"	"2014"	"2014"	"White"	"2106-3"	2315	21851213	10.6
+	"Texas"	"48"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	42	1412908	3.0
+	"Texas"	"48"	"2015"	"2015"	"Black or African American"	"2054-5"	603	3557565	16.9
+	"Texas"	"48"	"2015"	"2015"	"White"	"2106-3"	2530	22188899	11.4
+	"Texas"	"48"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	10	313507	Unreliable
+	"Texas"	"48"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	64	1467555	4.4
+	"Texas"	"48"	"2016"	"2016"	"Black or African American"	"2054-5"	622	3634085	17.1
+	"Texas"	"48"	"2016"	"2016"	"White"	"2106-3"	2622	22447449	11.7
+	"Texas"	"48"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	54	1540052	3.5
+	"Texas"	"48"	"2017"	"2017"	"Black or African American"	"2054-5"	670	3717259	18.0
+	"Texas"	"48"	"2017"	"2017"	"White"	"2106-3"	2748	22728838	12.1
+	"Utah"	"49"	"1999"	"1999"	"White"	"2106-3"	177	2092488	8.5
+	"Utah"	"49"	"2000"	"2000"	"White"	"2106-3"	191	2117025	9.0
+	"Utah"	"49"	"2001"	"2001"	"White"	"2106-3"	221	2161013	10.2
+	"Utah"	"49"	"2002"	"2002"	"White"	"2106-3"	198	2196834	9.0
+	"Utah"	"49"	"2003"	"2003"	"White"	"2106-3"	218	2227843	9.8
+	"Utah"	"49"	"2004"	"2004"	"White"	"2106-3"	212	2264136	9.4
+	"Utah"	"49"	"2005"	"2005"	"White"	"2106-3"	213	2313863	9.2
+	"Utah"	"49"	"2006"	"2006"	"White"	"2106-3"	212	2374257	8.9
+	"Utah"	"49"	"2007"	"2007"	"White"	"2106-3"	228	2437796	9.4
+	"Utah"	"49"	"2008"	"2008"	"White"	"2106-3"	223	2495003	8.9
+	"Utah"	"49"	"2009"	"2009"	"White"	"2106-3"	247	2547024	9.7
+	"Utah"	"49"	"2010"	"2010"	"White"	"2106-3"	301	2581722	11.7
+	"Utah"	"49"	"2011"	"2011"	"White"	"2106-3"	289	2625630	11.0
+	"Utah"	"49"	"2012"	"2012"	"White"	"2106-3"	306	2658464	11.5
+	"Utah"	"49"	"2013"	"2013"	"White"	"2106-3"	314	2697259	11.6
+	"Utah"	"49"	"2014"	"2014"	"White"	"2106-3"	316	2730417	11.6
+	"Utah"	"49"	"2015"	"2015"	"White"	"2106-3"	347	2774714	12.5
+	"Utah"	"49"	"2016"	"2016"	"White"	"2106-3"	350	2822315	12.4
+	"Utah"	"49"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	11	53958	Unreliable
+	"Utah"	"49"	"2017"	"2017"	"White"	"2106-3"	383	2866353	13.4
+	"Vermont"	"50"	"1999"	"1999"	"White"	"2106-3"	55	593357	9.3
+	"Vermont"	"50"	"2000"	"2000"	"White"	"2106-3"	53	595963	8.9
+	"Vermont"	"50"	"2001"	"2001"	"White"	"2106-3"	47	598383	7.9
+	"Vermont"	"50"	"2002"	"2002"	"White"	"2106-3"	61	600887	10.2
+	"Vermont"	"50"	"2003"	"2003"	"White"	"2106-3"	47	602530	7.8
+	"Vermont"	"50"	"2004"	"2004"	"White"	"2106-3"	59	603896	9.8
+	"Vermont"	"50"	"2005"	"2005"	"White"	"2106-3"	43	604380	7.1
+	"Vermont"	"50"	"2006"	"2006"	"White"	"2106-3"	51	605116	8.4
+	"Vermont"	"50"	"2007"	"2007"	"White"	"2106-3"	52	604985	8.6
+	"Vermont"	"50"	"2008"	"2008"	"White"	"2106-3"	52	605092	8.6
+	"Vermont"	"50"	"2009"	"2009"	"White"	"2106-3"	59	604741	9.8
+	"Vermont"	"50"	"2010"	"2010"	"White"	"2106-3"	70	605609	11.6
+	"Vermont"	"50"	"2011"	"2011"	"White"	"2106-3"	78	605260	12.9
+	"Vermont"	"50"	"2012"	"2012"	"White"	"2106-3"	53	604354	8.8
+	"Vermont"	"50"	"2013"	"2013"	"White"	"2106-3"	63	604251	10.4
+	"Vermont"	"50"	"2014"	"2014"	"White"	"2106-3"	69	602857	11.4
+	"Vermont"	"50"	"2015"	"2015"	"White"	"2106-3"	70	601224	11.6
+	"Vermont"	"50"	"2016"	"2016"	"White"	"2106-3"	75	598811	12.5
+	"Vermont"	"50"	"2017"	"2017"	"White"	"2106-3"	68	597247	11.4
+	"Virginia"	"51"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	17	273732	Unreliable
+	"Virginia"	"51"	"1999"	"1999"	"Black or African American"	"2054-5"	243	1422517	17.1
+	"Virginia"	"51"	"1999"	"1999"	"White"	"2106-3"	554	5282184	10.5
+	"Virginia"	"51"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	14	289647	Unreliable
+	"Virginia"	"51"	"2000"	"2000"	"Black or African American"	"2054-5"	222	1438727	15.4
+	"Virginia"	"51"	"2000"	"2000"	"White"	"2106-3"	551	5324398	10.3
+	"Virginia"	"51"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	10	313207	Unreliable
+	"Virginia"	"51"	"2001"	"2001"	"Black or African American"	"2054-5"	236	1462901	16.1
+	"Virginia"	"51"	"2001"	"2001"	"White"	"2106-3"	515	5394417	9.5
+	"Virginia"	"51"	"2002"	"2002"	"Black or African American"	"2054-5"	244	1480645	16.5
+	"Virginia"	"51"	"2002"	"2002"	"White"	"2106-3"	549	5444069	10.1
+	"Virginia"	"51"	"2003"	"2003"	"Black or African American"	"2054-5"	275	1496240	18.4
+	"Virginia"	"51"	"2003"	"2003"	"White"	"2106-3"	523	5487553	9.5
+	"Virginia"	"51"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	10	372253	Unreliable
+	"Virginia"	"51"	"2004"	"2004"	"Black or African American"	"2054-5"	251	1519571	16.5
+	"Virginia"	"51"	"2004"	"2004"	"White"	"2106-3"	548	5550005	9.9
+	"Virginia"	"51"	"2005"	"2005"	"Black or African American"	"2054-5"	296	1541027	19.2
+	"Virginia"	"51"	"2005"	"2005"	"White"	"2106-3"	575	5605707	10.3
+	"Virginia"	"51"	"2006"	"2006"	"Black or African American"	"2054-5"	259	1565510	16.5
+	"Virginia"	"51"	"2006"	"2006"	"White"	"2106-3"	536	5654946	9.5
+	"Virginia"	"51"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	18	435854	Unreliable
+	"Virginia"	"51"	"2007"	"2007"	"Black or African American"	"2054-5"	244	1583256	15.4
+	"Virginia"	"51"	"2007"	"2007"	"White"	"2106-3"	547	5692111	9.6
+	"Virginia"	"51"	"2008"	"2008"	"Black or African American"	"2054-5"	230	1602530	14.4
+	"Virginia"	"51"	"2008"	"2008"	"White"	"2106-3"	567	5733461	9.9
+	"Virginia"	"51"	"2009"	"2009"	"Black or African American"	"2054-5"	245	1623781	15.1
+	"Virginia"	"51"	"2009"	"2009"	"White"	"2106-3"	568	5782225	9.8
+	"Virginia"	"51"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	10	492031	Unreliable
+	"Virginia"	"51"	"2010"	"2010"	"Black or African American"	"2054-5"	233	1640836	14.2
+	"Virginia"	"51"	"2010"	"2010"	"White"	"2106-3"	621	5821714	10.7
+	"Virginia"	"51"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	10	510912	Unreliable
+	"Virginia"	"51"	"2011"	"2011"	"Black or African American"	"2054-5"	192	1664318	11.5
+	"Virginia"	"51"	"2011"	"2011"	"White"	"2106-3"	649	5873838	11.0
+	"Virginia"	"51"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	11	533764	Unreliable
+	"Virginia"	"51"	"2012"	"2012"	"Black or African American"	"2054-5"	217	1679707	12.9
+	"Virginia"	"51"	"2012"	"2012"	"White"	"2106-3"	598	5923590	10.1
+	"Virginia"	"51"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	13	554117	Unreliable
+	"Virginia"	"51"	"2013"	"2013"	"Black or African American"	"2054-5"	200	1695095	11.8
+	"Virginia"	"51"	"2013"	"2013"	"White"	"2106-3"	641	5961061	10.8
+	"Virginia"	"51"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	22	577726	3.8
+	"Virginia"	"51"	"2014"	"2014"	"Black or African American"	"2054-5"	206	1711801	12.0
+	"Virginia"	"51"	"2014"	"2014"	"White"	"2106-3"	646	5985615	10.8
+	"Virginia"	"51"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	11	598807	Unreliable
+	"Virginia"	"51"	"2015"	"2015"	"Black or African American"	"2054-5"	260	1729691	15.0
+	"Virginia"	"51"	"2015"	"2015"	"White"	"2106-3"	657	6003584	10.9
+	"Virginia"	"51"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	15	608678	Unreliable
+	"Virginia"	"51"	"2016"	"2016"	"Black or African American"	"2054-5"	323	1741448	18.5
+	"Virginia"	"51"	"2016"	"2016"	"White"	"2106-3"	696	6010786	11.6
+	"Virginia"	"51"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	17	630376	Unreliable
+	"Virginia"	"51"	"2017"	"2017"	"Black or African American"	"2054-5"	304	1760262	17.3
+	"Virginia"	"51"	"2017"	"2017"	"White"	"2106-3"	703	6027893	11.7
+	"Washington"	"53"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	17	110034	Unreliable
+	"Washington"	"53"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	18	371604	Unreliable
+	"Washington"	"53"	"1999"	"1999"	"Black or African American"	"2054-5"	45	222319	20.2
+	"Washington"	"53"	"1999"	"1999"	"White"	"2106-3"	497	5138607	9.7
+	"Washington"	"53"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	16	385181	Unreliable
+	"Washington"	"53"	"2000"	"2000"	"Black or African American"	"2054-5"	28	230096	12.2
+	"Washington"	"53"	"2000"	"2000"	"White"	"2106-3"	466	5166838	9.0
+	"Washington"	"53"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	21	408480	5.1
+	"Washington"	"53"	"2001"	"2001"	"Black or African American"	"2054-5"	28	239036	11.7
+	"Washington"	"53"	"2001"	"2001"	"White"	"2106-3"	447	5223085	8.6
+	"Washington"	"53"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	18	117689	Unreliable
+	"Washington"	"53"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	18	426682	Unreliable
+	"Washington"	"53"	"2002"	"2002"	"Black or African American"	"2054-5"	37	245869	15.0
+	"Washington"	"53"	"2002"	"2002"	"White"	"2106-3"	487	5262109	9.3
+	"Washington"	"53"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	10	120618	Unreliable
+	"Washington"	"53"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	22	443413	5.0
+	"Washington"	"53"	"2003"	"2003"	"Black or African American"	"2054-5"	29	250925	11.6
+	"Washington"	"53"	"2003"	"2003"	"White"	"2106-3"	498	5289159	9.4
+	"Washington"	"53"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	15	124543	Unreliable
+	"Washington"	"53"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	24	461698	5.2
+	"Washington"	"53"	"2004"	"2004"	"Black or African American"	"2054-5"	27	257470	10.5
+	"Washington"	"53"	"2004"	"2004"	"White"	"2106-3"	495	5334934	9.3
+	"Washington"	"53"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	10	127959	Unreliable
+	"Washington"	"53"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	22	481562	4.6
+	"Washington"	"53"	"2005"	"2005"	"Black or African American"	"2054-5"	30	264736	11.3
+	"Washington"	"53"	"2005"	"2005"	"White"	"2106-3"	493	5383048	9.2
+	"Washington"	"53"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	29	131727	22.0
+	"Washington"	"53"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	24	505829	4.7
+	"Washington"	"53"	"2006"	"2006"	"Black or African American"	"2054-5"	34	275137	12.4
+	"Washington"	"53"	"2006"	"2006"	"White"	"2106-3"	450	5458060	8.2
+	"Washington"	"53"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	17	527842	Unreliable
+	"Washington"	"53"	"2007"	"2007"	"Black or African American"	"2054-5"	29	283382	10.2
+	"Washington"	"53"	"2007"	"2007"	"White"	"2106-3"	487	5514266	8.8
+	"Washington"	"53"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	13	140912	Unreliable
+	"Washington"	"53"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	16	549453	Unreliable
+	"Washington"	"53"	"2008"	"2008"	"Black or African American"	"2054-5"	37	294548	12.6
+	"Washington"	"53"	"2008"	"2008"	"White"	"2106-3"	512	5577318	9.2
+	"Washington"	"53"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	17	144735	Unreliable
+	"Washington"	"53"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	19	571869	Unreliable
+	"Washington"	"53"	"2009"	"2009"	"Black or African American"	"2054-5"	29	305941	9.5
+	"Washington"	"53"	"2009"	"2009"	"White"	"2106-3"	536	5644881	9.5
+	"Washington"	"53"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	13	147822	Unreliable
+	"Washington"	"53"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	16	585845	Unreliable
+	"Washington"	"53"	"2010"	"2010"	"Black or African American"	"2054-5"	29	310869	9.3
+	"Washington"	"53"	"2010"	"2010"	"White"	"2106-3"	536	5680004	9.4
+	"Washington"	"53"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	14	606556	Unreliable
+	"Washington"	"53"	"2011"	"2011"	"Black or African American"	"2054-5"	16	324542	Unreliable
+	"Washington"	"53"	"2011"	"2011"	"White"	"2106-3"	563	5748606	9.8
+	"Washington"	"53"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	13	152328	Unreliable
+	"Washington"	"53"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	15	632347	Unreliable
+	"Washington"	"53"	"2012"	"2012"	"Black or African American"	"2054-5"	39	333148	11.7
+	"Washington"	"53"	"2012"	"2012"	"White"	"2106-3"	598	5779189	10.3
+	"Washington"	"53"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	22	155662	14.1
+	"Washington"	"53"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	19	654999	Unreliable
+	"Washington"	"53"	"2013"	"2013"	"Black or African American"	"2054-5"	41	344242	11.9
+	"Washington"	"53"	"2013"	"2013"	"White"	"2106-3"	531	5816503	9.1
+	"Washington"	"53"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	19	159484	Unreliable
+	"Washington"	"53"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	21	684889	3.1
+	"Washington"	"53"	"2014"	"2014"	"Black or African American"	"2054-5"	43	355573	12.1
+	"Washington"	"53"	"2014"	"2014"	"White"	"2106-3"	597	5861584	10.2
+	"Washington"	"53"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	16	163021	Unreliable
+	"Washington"	"53"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	20	717568	2.8
+	"Washington"	"53"	"2015"	"2015"	"Black or African American"	"2054-5"	52	366391	14.2
+	"Washington"	"53"	"2015"	"2015"	"White"	"2106-3"	617	5923371	10.4
+	"Washington"	"53"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	16	166151	Unreliable
+	"Washington"	"53"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	25	743134	3.4
+	"Washington"	"53"	"2016"	"2016"	"Black or African American"	"2054-5"	51	376367	13.6
+	"Washington"	"53"	"2016"	"2016"	"White"	"2106-3"	575	6002348	9.6
+	"Washington"	"53"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	18	169752	Unreliable
+	"Washington"	"53"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	29	783704	3.7
+	"Washington"	"53"	"2017"	"2017"	"Black or African American"	"2054-5"	58	387793	15.0
+	"Washington"	"53"	"2017"	"2017"	"White"	"2106-3"	713	6064494	11.8
+	"West Virginia"	"54"	"1999"	"1999"	"Black or African American"	"2054-5"	15	59775	Unreliable
+	"West Virginia"	"54"	"1999"	"1999"	"White"	"2106-3"	234	1740096	13.4
+	"West Virginia"	"54"	"2000"	"2000"	"White"	"2106-3"	232	1732909	13.4
+	"West Virginia"	"54"	"2001"	"2001"	"White"	"2106-3"	245	1725478	14.2
+	"West Virginia"	"54"	"2002"	"2002"	"Black or African American"	"2054-5"	10	61832	Unreliable
+	"West Virginia"	"54"	"2002"	"2002"	"White"	"2106-3"	260	1728416	15.0
+	"West Virginia"	"54"	"2003"	"2003"	"Black or African American"	"2054-5"	22	62866	35.0
+	"West Virginia"	"54"	"2003"	"2003"	"White"	"2106-3"	241	1733784	13.9
+	"West Virginia"	"54"	"2004"	"2004"	"Black or African American"	"2054-5"	12	63682	Unreliable
+	"West Virginia"	"54"	"2004"	"2004"	"White"	"2106-3"	238	1736570	13.7
+	"West Virginia"	"54"	"2005"	"2005"	"Black or African American"	"2054-5"	15	64664	Unreliable
+	"West Virginia"	"54"	"2005"	"2005"	"White"	"2106-3"	245	1739381	14.1
+	"West Virginia"	"54"	"2006"	"2006"	"White"	"2106-3"	243	1744654	13.9
+	"West Virginia"	"54"	"2007"	"2007"	"Black or African American"	"2054-5"	12	67505	Unreliable
+	"West Virginia"	"54"	"2007"	"2007"	"White"	"2106-3"	251	1749103	14.4
+	"West Virginia"	"54"	"2008"	"2008"	"White"	"2106-3"	231	1753592	13.2
+	"West Virginia"	"54"	"2009"	"2009"	"Black or African American"	"2054-5"	10	70465	Unreliable
+	"West Virginia"	"54"	"2009"	"2009"	"White"	"2106-3"	241	1758904	13.7
+	"West Virginia"	"54"	"2010"	"2010"	"Black or African American"	"2054-5"	12	71260	Unreliable
+	"West Virginia"	"54"	"2010"	"2010"	"White"	"2106-3"	257	1763290	14.6
+	"West Virginia"	"54"	"2011"	"2011"	"Black or African American"	"2054-5"	14	73596	Unreliable
+	"West Virginia"	"54"	"2011"	"2011"	"White"	"2106-3"	258	1762304	14.6
+	"West Virginia"	"54"	"2012"	"2012"	"Black or African American"	"2054-5"	14	73967	Unreliable
+	"West Virginia"	"54"	"2012"	"2012"	"White"	"2106-3"	255	1761559	14.5
+	"West Virginia"	"54"	"2013"	"2013"	"White"	"2106-3"	264	1758444	15.0
+	"West Virginia"	"54"	"2014"	"2014"	"Black or African American"	"2054-5"	17	75917	Unreliable
+	"West Virginia"	"54"	"2014"	"2014"	"White"	"2106-3"	261	1752941	14.9
+	"West Virginia"	"54"	"2015"	"2015"	"Black or African American"	"2054-5"	14	76375	Unreliable
+	"West Virginia"	"54"	"2015"	"2015"	"White"	"2106-3"	256	1745625	14.7
+	"West Virginia"	"54"	"2016"	"2016"	"Black or African American"	"2054-5"	31	75405	41.1
+	"West Virginia"	"54"	"2016"	"2016"	"White"	"2106-3"	290	1733549	16.7
+	"West Virginia"	"54"	"2017"	"2017"	"Black or African American"	"2054-5"	17	74674	Unreliable
+	"West Virginia"	"54"	"2017"	"2017"	"White"	"2106-3"	323	1719416	18.8
+	"Wisconsin"	"55"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	12	92311	Unreliable
+	"Wisconsin"	"55"	"1999"	"1999"	"Black or African American"	"2054-5"	85	315230	27.0
+	"Wisconsin"	"55"	"1999"	"1999"	"White"	"2106-3"	344	4874589	7.1
+	"Wisconsin"	"55"	"2000"	"2000"	"Black or African American"	"2054-5"	83	322099	25.8
+	"Wisconsin"	"55"	"2000"	"2000"	"White"	"2106-3"	338	4891131	6.9
+	"Wisconsin"	"55"	"2001"	"2001"	"Black or African American"	"2054-5"	82	331554	24.7
+	"Wisconsin"	"55"	"2001"	"2001"	"White"	"2106-3"	381	4918108	7.7
+	"Wisconsin"	"55"	"2002"	"2002"	"Black or African American"	"2054-5"	83	339499	24.4
+	"Wisconsin"	"55"	"2002"	"2002"	"White"	"2106-3"	348	4942435	7.0
+	"Wisconsin"	"55"	"2003"	"2003"	"Black or African American"	"2054-5"	86	346353	24.8
+	"Wisconsin"	"55"	"2003"	"2003"	"White"	"2106-3"	364	4963767	7.3
+	"Wisconsin"	"55"	"2004"	"2004"	"Black or African American"	"2054-5"	61	352749	17.3
+	"Wisconsin"	"55"	"2004"	"2004"	"White"	"2106-3"	342	4986571	6.9
+	"Wisconsin"	"55"	"2005"	"2005"	"Black or African American"	"2054-5"	102	359771	28.4
+	"Wisconsin"	"55"	"2005"	"2005"	"White"	"2106-3"	353	5005823	7.1
+	"Wisconsin"	"55"	"2006"	"2006"	"Black or African American"	"2054-5"	88	367132	24.0
+	"Wisconsin"	"55"	"2006"	"2006"	"White"	"2106-3"	316	5024117	6.3
+	"Wisconsin"	"55"	"2007"	"2007"	"Black or African American"	"2054-5"	100	374709	26.7
+	"Wisconsin"	"55"	"2007"	"2007"	"White"	"2106-3"	371	5043468	7.4
+	"Wisconsin"	"55"	"2008"	"2008"	"Black or African American"	"2054-5"	54	381998	14.1
+	"Wisconsin"	"55"	"2008"	"2008"	"White"	"2106-3"	371	5060201	7.3
+	"Wisconsin"	"55"	"2009"	"2009"	"Black or African American"	"2054-5"	66	389316	17.0
+	"Wisconsin"	"55"	"2009"	"2009"	"White"	"2106-3"	379	5075213	7.5
+	"Wisconsin"	"55"	"2010"	"2010"	"Black or African American"	"2054-5"	72	394478	18.3
+	"Wisconsin"	"55"	"2010"	"2010"	"White"	"2106-3"	408	5083263	8.0
+	"Wisconsin"	"55"	"2011"	"2011"	"Black or African American"	"2054-5"	61	399745	15.3
+	"Wisconsin"	"55"	"2011"	"2011"	"White"	"2106-3"	374	5096616	7.3
+	"Wisconsin"	"55"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	14	151314	Unreliable
+	"Wisconsin"	"55"	"2012"	"2012"	"Black or African American"	"2054-5"	86	403754	21.3
+	"Wisconsin"	"55"	"2012"	"2012"	"White"	"2106-3"	372	5101525	7.3
+	"Wisconsin"	"55"	"2013"	"2013"	"Black or African American"	"2054-5"	81	407587	19.9
+	"Wisconsin"	"55"	"2013"	"2013"	"White"	"2106-3"	476	5107934	9.3
+	"Wisconsin"	"55"	"2014"	"2014"	"Black or African American"	"2054-5"	83	411489	20.2
+	"Wisconsin"	"55"	"2014"	"2014"	"White"	"2106-3"	383	5109986	7.5
+	"Wisconsin"	"55"	"2015"	"2015"	"Black or African American"	"2054-5"	125	415631	30.1
+	"Wisconsin"	"55"	"2015"	"2015"	"White"	"2106-3"	468	5111213	9.2
+	"Wisconsin"	"55"	"2016"	"2016"	"Black or African American"	"2054-5"	148	417195	35.5
+	"Wisconsin"	"55"	"2016"	"2016"	"White"	"2106-3"	493	5111927	9.6
+	"Wisconsin"	"55"	"2017"	"2017"	"Black or African American"	"2054-5"	132	422159	31.3
+	"Wisconsin"	"55"	"2017"	"2017"	"White"	"2106-3"	464	5117202	9.1
+	"Wyoming"	"56"	"1999"	"1999"	"White"	"2106-3"	70	472739	14.8
+	"Wyoming"	"56"	"2000"	"2000"	"White"	"2106-3"	56	473335	11.8
+	"Wyoming"	"56"	"2001"	"2001"	"White"	"2106-3"	68	473249	14.4
+	"Wyoming"	"56"	"2002"	"2002"	"White"	"2106-3"	94	477938	19.7
+	"Wyoming"	"56"	"2003"	"2003"	"White"	"2106-3"	85	480960	17.7
+	"Wyoming"	"56"	"2004"	"2004"	"White"	"2106-3"	55	485888	11.3
+	"Wyoming"	"56"	"2005"	"2005"	"White"	"2106-3"	70	490272	14.3
+	"Wyoming"	"56"	"2006"	"2006"	"White"	"2106-3"	76	497710	15.3
+	"Wyoming"	"56"	"2007"	"2007"	"White"	"2106-3"	72	508757	14.2
+	"Wyoming"	"56"	"2008"	"2008"	"White"	"2106-3"	93	519057	17.9
+	"Wyoming"	"56"	"2009"	"2009"	"White"	"2106-3"	90	531442	16.9
+	"Wyoming"	"56"	"2010"	"2010"	"White"	"2106-3"	91	535163	17.0
+	"Wyoming"	"56"	"2011"	"2011"	"White"	"2106-3"	94	537851	17.5
+	"Wyoming"	"56"	"2012"	"2012"	"White"	"2106-3"	110	542938	20.3
+	"Wyoming"	"56"	"2013"	"2013"	"White"	"2106-3"	102	546718	18.7
+	"Wyoming"	"56"	"2014"	"2014"	"White"	"2106-3"	90	548511	16.4
+	"Wyoming"	"56"	"2015"	"2015"	"White"	"2106-3"	108	550547	19.6
+	"Wyoming"	"56"	"2016"	"2016"	"White"	"2106-3"	100	550665	18.2
+	"Wyoming"	"56"	"2017"	"2017"	"White"	"2106-3"	106	544781	19.5
+"---"
+"Dataset: Underlying Cause of Death, 1999-2017"
+"Query Parameters:"
+"Injury Intent: Unintentional; Suicide; Homicide; Undetermined ; Non-Injury, no intent classified"
+"Injury Mechanism & All Other Leading Causes: Firearm"
+"Group By: State; Year; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Dec 30, 2019 2:30:51 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Dec 30, 2019 2:30:51 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"8. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1"
+"Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from"
+"the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are"
+"April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population"
+"figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 -"
+"2009 differ slightly from previously published reports, due to use of the population estimates which were available at the time"
+"of release."
+"9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
