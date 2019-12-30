@@ -2,7 +2,7 @@
 import pandas as pd
 
 #%%
-file_path = r"C:\Users\v-birau\OneDrive\Data Analysis Project\Gun Death\By Year_Underlying Cause of Death, 1999-2017.txt"
+file_path = r"path"
 
 df = pd.read_csv(file_path,sep='\t')
 df
@@ -28,7 +28,7 @@ base_df = df.groupby(['Year','State']).sum().reset_index()
 base_df.head(10)
 
 # %%
-by_race_file_path = r"C:\Users\v-birau\OneDrive\Data Analysis Project\Gun Death\By Race_Underlying Cause of Death, 1999-2017.txt"
+by_race_file_path = r"path"
 
 df_byRace = pd.read_csv(by_race_file_path, sep= '\t')
 # %%
